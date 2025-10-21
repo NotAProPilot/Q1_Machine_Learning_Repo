@@ -1,0 +1,1001 @@
+transaction_id,account_id,timestamp,time_of_day_hour,weekday,amount,currency,mcc,mcc_category,location_type,merchant_city,ip_city,distance_km,card_present,device_change,is_foreign,transactions_last_30d_count,avg_amount_30d,pct_change_30d,amount_to_avg_ratio,fraud_probability,label_fraud
+tx_00000,acct_163,8/9/2025 18:03,18.05,0,11.54,USD,5812,"Eating Places, Restaurants",online,,Bangkok,3.1,0,0,1,10,56.2,-79.47,0.205,0.0294,legit
+tx_00001,acct_035,14/9/2025 08:02,8.033,6,82.5,USD,4829,Money Transfer,physical,Tokyo,,13.45,1,0,1,16,20.46,303.16,4.032,0.9969,fraudulent
+tx_00002,acct_022,24/9/2025 22:42,22.7,2,64.81,VND,7995,Betting/Gambling,physical,Da Nang,,12.99,1,0,0,22,53.92,20.19,1.202,0.048,legit
+tx_00003,acct_055,4/9/2025 19:03,19.05,3,24.7,USD,5999,Misc Retail,physical,Tokyo,,3.66,1,0,1,18,21.57,14.5,1.145,0.0193,legit
+tx_00004,acct_050,19/9/2025 06:21,6.35,4,29.33,USD,4829,Money Transfer,online,,Bangkok,12.62,0,0,1,22,12.62,132.36,2.324,0.7221,fraudulent
+tx_00005,acct_114,22/9/2025 22:15,22.25,0,1.84,VND,7995,Betting/Gambling,online,,Nha Trang,3.45,0,0,0,14,13.89,-86.75,0.132,0.0693,legit
+tx_00006,acct_178,12/9/2025 01:46,1.767,4,18.37,USD,5813,"Bars, Taverns",physical,Phnom Penh,,0.45,1,0,1,14,22.4,-17.98,0.82,0.0317,legit
+tx_00007,acct_195,27/9/2025 08:28,8.467,5,48.15,VND,4121,Taxicabs/Limousines,physical,Can Tho,,1.15,1,1,0,13,129.34,-62.77,0.372,0.0206,legit
+tx_00008,acct_091,13/9/2025 01:56,1.933,5,3.39,VND,5960,Direct Marketing,physical,Ho Chi Minh City,,2.56,1,0,0,16,35.82,-90.54,0.095,0.0082,legit
+tx_00009,acct_186,3/9/2025 07:24,7.4,2,68.68,USD,5311,Department Stores,physical,New York,,5.16,1,1,1,18,24.72,177.88,2.779,0.6132,fraudulent
+tx_00010,acct_020,7/9/2025 23:38,23.633,6,79.26,USD,7995,Betting/Gambling,online,,Phnom Penh,0.1,0,0,1,14,40.4,96.2,1.962,0.6951,fraudulent
+tx_00011,acct_180,10/9/2025 07:11,7.183,2,20.15,USD,5812,"Eating Places, Restaurants",physical,Kuala Lumpur,,6.41,1,0,1,19,54.68,-63.15,0.369,0.0122,legit
+tx_00012,acct_020,9/9/2025 20:44,20.733,1,55.52,USD,5960,Direct Marketing,online,,Singapore,2.74,0,0,1,14,40.4,37.44,1.374,0.0871,legit
+tx_00013,acct_116,21/9/2025 22:29,22.483,6,18.29,USD,4829,Money Transfer,physical,Manila,,4.89,1,0,1,10,55.4,-66.99,0.33,0.3782,fraudulent
+tx_00014,acct_090,31/8/2025 21:37,21.617,6,63.38,VND,5999,Misc Retail,physical,Da Nang,,8.04,1,1,0,14,25.43,149.22,2.492,0.244,legit
+tx_00015,acct_155,13/9/2025 05:32,5.533,5,37.59,USD,4829,Money Transfer,physical,Bangkok,,9.01,1,0,1,12,37.65,-0.16,0.998,0.333,fraudulent
+tx_00016,acct_041,21/9/2025 21:33,21.55,6,4.02,USD,5311,Department Stores,physical,Tokyo,,4.04,1,0,1,13,16.42,-75.52,0.245,0.0219,legit
+tx_00017,acct_056,29/9/2025 14:52,14.867,0,31.97,VND,4829,Money Transfer,online,,Bangkok,4.55,0,0,0,14,18.45,73.26,1.733,0.2825,fraudulent
+tx_00018,acct_008,2/9/2025 06:10,6.167,1,18.2,VND,5960,Direct Marketing,physical,Da Nang,,4.62,1,0,0,17,23.89,-23.81,0.762,0.0074,legit
+tx_00019,acct_054,18/9/2025 17:20,17.333,3,48.4,USD,5977,Cosmetics Stores,physical,Jakarta,,3.23,1,0,1,16,39.48,22.59,1.226,0.0347,legit
+tx_00020,acct_054,23/9/2025 15:12,15.2,1,40.29,USD,4829,Money Transfer,physical,London,,4.54,1,0,1,16,39.48,2.05,1.02,0.258,fraudulent
+tx_00021,acct_036,27/9/2025 02:54,2.9,5,21.92,USD,5732,Electronics Stores,physical,Tokyo,,2.85,1,0,1,26,38.65,-43.28,0.567,0.01,legit
+tx_00022,acct_137,8/9/2025 23:40,23.667,0,6.75,USD,5732,Electronics Stores,physical,New York,,3.9,1,0,1,16,21.13,-68.06,0.319,0.0242,legit
+tx_00023,acct_092,9/9/2025 15:11,15.183,1,15.81,USD,5999,Misc Retail,online,,Toronto,3.36,0,0,1,9,18.38,-13.97,0.86,0.035,legit
+tx_00024,acct_023,28/9/2025 04:43,4.717,6,158.17,VND,5960,Direct Marketing,online,,Nha Trang,0.17,0,0,0,11,74.72,111.68,2.117,0.1124,legit
+tx_00025,acct_174,31/8/2025 00:40,0.667,6,26.23,USD,5813,"Bars, Taverns",physical,New York,,9.31,1,0,1,14,22.25,17.88,1.179,0.0449,fraudulent
+tx_00026,acct_152,12/9/2025 00:01,0.017,4,12.54,USD,7011,Hotels,physical,Tokyo,,6.45,1,0,1,12,31.06,-59.62,0.404,0.045,legit
+tx_00027,acct_002,6/9/2025 01:22,1.367,5,272.95,USD,4829,Money Transfer,physical,Tokyo,,4.78,1,1,1,20,85.42,219.56,3.196,0.9926,fraudulent
+tx_00028,acct_192,3/9/2025 07:33,7.55,2,24.57,VND,5732,Electronics Stores,physical,Can Tho,,3.27,1,0,0,17,38.14,-35.59,0.644,0.005,legit
+tx_00029,acct_075,6/9/2025 15:22,15.367,5,48.29,USD,5813,"Bars, Taverns",physical,Singapore,,1.36,1,0,1,20,12.58,283.76,3.838,0.921,fraudulent
+tx_00030,acct_128,20/9/2025 23:59,23.983,5,15.51,VND,5960,Direct Marketing,physical,Can Tho,,2.43,1,0,0,23,15,3.42,1.034,0.0044,legit
+tx_00031,acct_160,6/9/2025 10:14,10.233,5,16.83,USD,5732,Electronics Stores,physical,Phnom Penh,,14.48,1,0,1,13,12.63,33.25,1.332,0.0614,legit
+tx_00032,acct_039,31/8/2025 02:50,2.833,6,189.63,USD,4121,Taxicabs/Limousines,physical,Sydney,,1.31,1,0,1,22,145.18,30.62,1.306,0.0209,legit
+tx_00033,acct_000,6/9/2025 09:12,9.2,5,831.4,VND,7995,Betting/Gambling,physical,Can Tho,,10.76,1,0,0,19,44.61,1763.58,18.636,1,fraudulent
+tx_00034,acct_092,17/9/2025 10:47,10.783,2,11.79,USD,5977,Cosmetics Stores,online,,Bangkok,1.27,0,0,1,9,18.38,-35.84,0.642,0.044,legit
+tx_00035,acct_014,26/9/2025 11:46,11.767,4,56.38,VND,5999,Misc Retail,physical,Da Nang,,10.98,1,0,0,15,30.9,82.49,1.825,0.0227,legit
+tx_00036,acct_021,9/9/2025 21:53,21.883,1,17.47,USD,4829,Money Transfer,online,,Hai Phong,6.43,0,0,1,14,59.46,-70.62,0.294,0.2898,fraudulent
+tx_00037,acct_032,9/9/2025 12:21,12.35,1,11.77,VND,4829,Money Transfer,online,,Singapore,3.28,0,0,0,13,21.73,-45.84,0.542,0.0913,fraudulent
+tx_00038,acct_135,9/9/2025 04:57,4.95,1,78.43,USD,5960,Direct Marketing,physical,Phnom Penh,,9.51,1,0,1,17,45.09,73.94,1.739,0.1284,legit
+tx_00039,acct_138,8/9/2025 11:51,11.85,0,312,USD,5960,Direct Marketing,physical,Kuala Lumpur,,0.86,1,0,1,21,114.03,173.62,2.736,0.4189,fraudulent
+tx_00040,acct_102,5/9/2025 04:57,4.95,4,41.89,USD,7011,Hotels,physical,London,,8.92,1,1,1,19,29.06,44.15,1.441,0.1582,legit
+tx_00041,acct_132,10/9/2025 14:36,14.6,2,9.63,VND,5311,Department Stores,physical,Da Nang,,5.03,1,0,0,21,12.72,-24.31,0.757,0.0022,legit
+tx_00042,acct_086,6/9/2025 17:05,17.083,5,124.12,USD,5411,Grocery Stores,physical,Bangkok,,0.54,1,0,1,7,70.82,75.26,1.753,0.1353,fraudulent
+tx_00043,acct_001,20/9/2025 09:13,9.217,5,37.24,USD,5812,"Eating Places, Restaurants",physical,Bangkok,,2.12,1,1,1,11,30.48,22.18,1.222,0.124,legit
+tx_00044,acct_017,30/8/2025 22:03,22.05,5,51.14,VND,5977,Cosmetics Stores,online,,Sydney,5.75,0,0,0,19,11.5,344.77,4.448,0.8927,legit
+tx_00045,acct_060,16/9/2025 21:07,21.117,1,32.4,USD,5732,Electronics Stores,physical,Tokyo,,5.92,1,0,1,17,33.37,-2.92,0.971,0.022,legit
+tx_00046,acct_033,10/9/2025 04:13,4.217,2,50.64,USD,4829,Money Transfer,online,,Bangkok,2.72,0,0,1,15,27.21,86.14,1.861,0.6736,fraudulent
+tx_00047,acct_121,31/8/2025 03:47,3.783,6,24.72,VND,5960,Direct Marketing,physical,Can Tho,,1.2,1,0,0,17,26.03,-5.03,0.95,0.0074,legit
+tx_00048,acct_168,3/9/2025 16:18,16.3,2,31.87,USD,5813,"Bars, Taverns",physical,London,,7.37,1,0,1,12,22.41,42.2,1.422,0.0854,legit
+tx_00049,acct_186,26/9/2025 02:46,2.767,4,38.79,VND,5411,Grocery Stores,physical,Can Tho,,7.96,1,0,0,18,24.72,56.95,1.569,0.008,legit
+tx_00050,acct_015,9/9/2025 02:50,2.833,1,32.14,VND,5813,"Bars, Taverns",physical,Can Tho,,1.57,1,0,0,20,27.64,16.27,1.163,0.0055,legit
+tx_00051,acct_063,29/9/2025 16:28,16.467,0,24.51,VND,5999,Misc Retail,physical,Hai Phong,,4.58,1,0,0,13,44.23,-44.59,0.554,0.0054,legit
+tx_00052,acct_108,6/9/2025 16:03,16.05,5,19.05,VND,5814,Fast Food,physical,Da Nang,,4.81,1,0,0,18,18.11,5.2,1.052,0.0039,legit
+tx_00053,acct_113,19/9/2025 19:24,19.4,4,8.68,VND,5960,Direct Marketing,online,,Ho Chi Minh City,0.17,0,0,0,18,23.61,-63.24,0.368,0.0067,legit
+tx_00054,acct_166,12/9/2025 09:00,9,4,206.91,VND,7011,Hotels,online,,Bangkok,0.16,0,1,0,17,57.73,258.44,3.584,0.8918,fraudulent
+tx_00055,acct_042,7/9/2025 22:50,22.833,6,178.89,USD,5813,"Bars, Taverns",physical,New York,,2.07,1,0,1,18,76.84,132.82,2.328,0.2382,legit
+tx_00056,acct_015,12/9/2025 20:38,20.633,4,136.63,USD,5814,Fast Food,physical,New York,,0.43,1,0,1,20,27.64,394.28,4.943,0.9872,fraudulent
+tx_00057,acct_067,3/9/2025 17:03,17.05,2,44.59,USD,5977,Cosmetics Stores,online,,Los Angeles,1.01,0,0,1,21,36.32,22.79,1.228,0.0214,legit
+tx_00058,acct_178,12/9/2025 17:37,17.617,4,242.1,USD,7011,Hotels,online,,Toronto,1.11,0,0,1,14,22.4,980.98,10.81,1,fraudulent
+tx_00059,acct_039,21/9/2025 21:28,21.467,6,162.85,VND,5999,Misc Retail,physical,Ho Chi Minh City,,6.79,1,0,0,22,145.18,12.17,1.122,0.0028,legit
+tx_00060,acct_148,31/8/2025 10:02,10.033,6,192.37,USD,4829,Money Transfer,physical,Jakarta,,3.33,1,0,1,12,41.26,366.21,4.662,0.9994,fraudulent
+tx_00061,acct_014,11/9/2025 10:22,10.367,3,21.1,USD,5411,Grocery Stores,physical,Sydney,,4.99,1,0,1,15,30.9,-31.71,0.683,0.0154,legit
+tx_00062,acct_040,2/9/2025 15:55,15.917,1,223.72,VND,5411,Grocery Stores,physical,Nha Trang,,3.39,1,0,0,18,32.43,589.79,6.898,0.9987,fraudulent
+tx_00063,acct_017,14/9/2025 07:05,7.083,6,9.61,USD,7995,Betting/Gambling,physical,Bangkok,,2.48,1,0,1,19,11.5,-16.42,0.836,0.1682,legit
+tx_00064,acct_103,19/9/2025 14:08,14.133,4,32.06,USD,5812,"Eating Places, Restaurants",online,,Ho Chi Minh City,0.38,0,0,1,16,64.02,-49.93,0.501,0.0163,legit
+tx_00065,acct_158,4/9/2025 19:35,19.583,3,37.41,USD,5812,"Eating Places, Restaurants",physical,Sydney,,6.13,1,0,1,16,46.8,-20.07,0.799,0.0164,legit
+tx_00066,acct_080,7/9/2025 08:21,8.35,6,32.24,USD,5977,Cosmetics Stores,physical,Jakarta,,10.14,1,0,1,15,22.26,44.81,1.448,0.0585,legit
+tx_00067,acct_061,27/9/2025 20:11,20.183,5,258.15,USD,5732,Electronics Stores,physical,Kuala Lumpur,,0.65,1,0,1,12,79.21,225.9,3.259,0.8827,fraudulent
+tx_00068,acct_117,14/9/2025 20:37,20.617,6,176.19,VND,4121,Taxicabs/Limousines,online,,Hanoi,10.12,0,0,0,8,30.09,485.63,5.856,0.9974,fraudulent
+tx_00069,acct_117,9/9/2025 23:27,23.45,1,46.71,VND,7995,Betting/Gambling,physical,Can Tho,,6.1,1,0,0,8,30.09,55.26,1.553,0.2909,legit
+tx_00070,acct_018,26/9/2025 14:47,14.783,4,102.23,VND,7995,Betting/Gambling,physical,Hai Phong,,9.1,1,0,0,19,61.47,66.3,1.663,0.1457,legit
+tx_00071,acct_089,10/9/2025 16:42,16.7,2,8.28,USD,5977,Cosmetics Stores,online,,Kuala Lumpur,13.36,0,0,1,15,17.91,-53.77,0.462,0.0248,legit
+tx_00072,acct_040,9/9/2025 22:28,22.467,1,82.61,USD,5311,Department Stores,physical,Kuala Lumpur,,7.63,1,0,1,18,32.43,154.71,2.547,0.2313,legit
+tx_00073,acct_156,17/9/2025 15:28,15.467,2,23.17,USD,7011,Hotels,online,,Hanoi,7.18,0,0,1,17,28.08,-17.48,0.825,0.0278,legit
+tx_00074,acct_170,25/9/2025 23:21,23.35,3,11.11,VND,5960,Direct Marketing,physical,Can Tho,,5.94,1,0,0,10,34.09,-67.41,0.326,0.0148,legit
+tx_00075,acct_034,18/9/2025 16:42,16.7,3,6.37,USD,5732,Electronics Stores,online,,Hai Phong,5.52,0,0,1,24,26.96,-76.37,0.236,0.011,legit
+tx_00076,acct_069,3/9/2025 16:26,16.433,2,22.36,USD,5732,Electronics Stores,physical,Jakarta,,2.54,1,0,1,16,62.32,-64.12,0.359,0.0242,legit
+tx_00077,acct_052,6/9/2025 08:01,8.017,5,23.3,USD,4829,Money Transfer,online,,Toronto,0.09,0,1,1,18,45.29,-48.56,0.514,0.475,legit
+tx_00078,acct_064,21/9/2025 21:21,21.35,6,26.72,VND,5977,Cosmetics Stores,online,,Los Angeles,3.33,0,0,0,12,25.33,5.48,1.055,0.0084,legit
+tx_00079,acct_070,5/9/2025 11:32,11.533,4,37.01,VND,5411,Grocery Stores,physical,Hai Phong,,6.3,1,0,0,18,46.64,-20.65,0.793,0.0026,legit
+tx_00080,acct_163,24/9/2025 00:01,0.017,2,33.29,USD,7011,Hotels,physical,London,,4.19,1,0,1,10,56.2,-40.77,0.592,0.0543,legit
+tx_00081,acct_141,5/9/2025 09:24,9.4,4,101.72,VND,4829,Money Transfer,physical,Can Tho,,15.12,1,0,0,11,75.28,35.13,1.351,0.1997,legit
+tx_00082,acct_019,23/9/2025 03:13,3.217,1,45.98,VND,7011,Hotels,physical,Hai Phong,,1.35,1,0,0,14,57.9,-20.59,0.794,0.0085,legit
+tx_00083,acct_139,16/9/2025 17:46,17.767,1,188.66,USD,5411,Grocery Stores,physical,Tokyo,,3.01,1,0,1,11,94.94,98.72,1.987,0.1438,legit
+tx_00084,acct_037,4/9/2025 00:28,0.467,3,98.35,USD,5813,"Bars, Taverns",physical,Manila,,3.96,1,0,1,16,31.67,210.56,3.106,0.8012,fraudulent
+tx_00085,acct_010,14/9/2025 05:27,5.45,6,103.8,USD,5977,Cosmetics Stores,physical,Bangkok,,2.59,1,0,1,11,23.08,349.74,4.497,0.9892,fraudulent
+tx_00086,acct_170,31/8/2025 06:05,6.083,6,8.14,USD,5812,"Eating Places, Restaurants",online,,Hai Phong,0.41,0,0,1,10,34.09,-76.12,0.239,0.0293,legit
+tx_00087,acct_060,20/9/2025 04:21,4.35,5,57.07,VND,5960,Direct Marketing,online,,Los Angeles,3.66,0,0,0,17,33.37,71,1.71,0.0299,legit
+tx_00088,acct_006,13/9/2025 00:23,0.383,5,7.03,USD,5814,Fast Food,online,,Bangkok,5.54,0,0,1,15,19.21,-63.4,0.366,0.0211,legit
+tx_00089,acct_068,7/9/2025 17:41,17.683,6,21.23,USD,5814,Fast Food,online,,Ho Chi Minh City,15.81,0,0,1,14,63.42,-66.53,0.335,0.0234,legit
+tx_00090,acct_120,13/9/2025 22:24,22.4,5,166.74,USD,5999,Misc Retail,online,,Manila,7.93,0,0,1,9,50.1,232.79,3.328,0.8948,fraudulent
+tx_00091,acct_078,24/9/2025 12:29,12.483,2,11.74,USD,5960,Direct Marketing,online,,Hanoi,9.23,0,0,1,16,34.03,-65.5,0.345,0.0358,legit
+tx_00092,acct_168,7/9/2025 07:17,7.283,6,8.93,VND,5999,Misc Retail,physical,Da Nang,,2.23,1,0,0,12,22.41,-60.16,0.398,0.0059,legit
+tx_00093,acct_197,20/9/2025 13:01,13.017,5,11.61,USD,5732,Electronics Stores,physical,New York,,3.63,1,0,1,11,24.86,-53.31,0.467,0.0392,legit
+tx_00094,acct_173,4/9/2025 08:01,8.017,3,13.09,VND,7011,Hotels,physical,Hanoi,,10.52,1,0,0,17,18.42,-28.94,0.711,0.0063,legit
+tx_00095,acct_029,20/9/2025 21:15,21.25,5,72.18,USD,5977,Cosmetics Stores,physical,Singapore,,5.94,1,0,1,13,24.27,197.46,2.975,0.6161,legit
+tx_00096,acct_009,5/9/2025 06:44,6.733,4,669.11,USD,5812,"Eating Places, Restaurants",physical,Jakarta,,7.24,1,0,1,14,35.39,1790.44,18.904,1,fraudulent
+tx_00097,acct_111,25/9/2025 08:41,8.683,3,17.6,USD,7995,Betting/Gambling,physical,New York,,0.73,1,0,1,14,22.06,-20.21,0.798,0.2498,legit
+tx_00098,acct_147,16/9/2025 19:35,19.583,1,43.19,USD,5999,Misc Retail,physical,Los Angeles,,1.22,1,0,1,18,32.47,33.01,1.33,0.0277,legit
+tx_00099,acct_000,27/9/2025 11:36,11.6,5,22.34,USD,7995,Betting/Gambling,online,,Manila,26.36,0,0,1,19,44.61,-49.93,0.501,0.1702,legit
+tx_00100,acct_110,22/9/2025 19:13,19.217,0,46.81,USD,5812,"Eating Places, Restaurants",physical,Jakarta,,0.32,1,0,1,15,34.66,35.07,1.351,0.0356,legit
+tx_00101,acct_159,11/9/2025 08:02,8.033,3,23.25,USD,4121,Taxicabs/Limousines,online,,Sydney,2.78,0,0,1,10,39.91,-41.75,0.582,0.037,legit
+tx_00102,acct_079,23/9/2025 21:36,21.6,1,51.6,USD,4829,Money Transfer,physical,Kuala Lumpur,,0.06,1,0,1,16,22.4,130.36,2.304,0.8187,fraudulent
+tx_00103,acct_141,21/9/2025 13:31,13.517,6,151.46,USD,5814,Fast Food,physical,New York,,1358.98,1,0,1,11,75.28,101.2,2.012,0.3542,legit
+tx_00104,acct_173,31/8/2025 20:15,20.25,6,57.01,USD,4829,Money Transfer,physical,Kuala Lumpur,,0.52,1,0,1,17,18.42,209.49,3.095,0.9779,fraudulent
+tx_00105,acct_103,7/9/2025 12:16,12.267,6,56.38,USD,7995,Betting/Gambling,physical,Kuala Lumpur,,3.08,1,0,1,16,64.02,-11.94,0.881,0.2145,legit
+tx_00106,acct_053,6/9/2025 04:08,4.133,5,74.68,USD,5813,"Bars, Taverns",physical,Jakarta,,0.2,1,0,1,17,39.57,88.71,1.887,0.125,legit
+tx_00107,acct_119,9/9/2025 10:07,10.117,1,13.64,USD,5311,Department Stores,physical,Sydney,,0.34,1,0,1,26,20.16,-32.34,0.677,0.0067,legit
+tx_00108,acct_121,14/9/2025 01:48,1.8,6,19.46,VND,5960,Direct Marketing,online,,Da Nang,4791.58,0,0,0,17,26.03,-25.24,0.748,0.1166,legit
+tx_00109,acct_072,20/9/2025 20:18,20.3,5,25.78,USD,7995,Betting/Gambling,physical,Jakarta,,1.02,1,0,1,17,20.83,23.77,1.238,0.2842,legit
+tx_00110,acct_023,6/9/2025 22:14,22.233,5,130.77,USD,5960,Direct Marketing,online,,Bangkok,2.41,0,0,1,11,74.72,75.01,1.75,0.2145,legit
+tx_00111,acct_050,6/9/2025 05:15,5.25,5,44.34,USD,5814,Fast Food,physical,Toronto,,17.29,1,0,1,22,12.62,251.27,3.513,0.7851,legit
+tx_00112,acct_156,11/9/2025 10:53,10.883,3,13.49,USD,5960,Direct Marketing,physical,Los Angeles,,2.06,1,0,1,17,28.08,-51.95,0.48,0.0323,legit
+tx_00113,acct_161,16/9/2025 16:43,16.717,1,106.15,USD,7995,Betting/Gambling,online,,Toronto,1.38,0,0,1,12,37.42,183.71,2.837,0.9413,fraudulent
+tx_00114,acct_102,10/9/2025 10:19,10.317,2,63.88,VND,5999,Misc Retail,physical,Hanoi,,3.09,1,0,0,19,29.06,119.81,2.198,0.0316,legit
+tx_00115,acct_192,10/9/2025 05:44,5.733,2,94.1,USD,5960,Direct Marketing,online,,Bangkok,13.85,0,0,1,17,38.14,146.7,2.467,0.3875,fraudulent
+tx_00116,acct_045,7/9/2025 12:25,12.417,6,38.35,USD,5960,Direct Marketing,physical,London,,3.91,1,0,1,16,23.58,62.67,1.627,0.1146,legit
+tx_00117,acct_012,12/9/2025 10:45,10.75,4,73.91,VND,7995,Betting/Gambling,online,,London,7.16,0,0,0,16,37.54,96.9,1.969,0.2978,fraudulent
+tx_00118,acct_034,21/9/2025 22:56,22.933,6,89.12,USD,5960,Direct Marketing,physical,Tokyo,,1.14,1,0,1,24,26.96,230.56,3.306,0.7878,fraudulent
+tx_00119,acct_152,24/9/2025 02:17,2.283,2,21.91,USD,4121,Taxicabs/Limousines,online,,Sydney,0.03,0,1,1,12,31.06,-29.45,0.706,0.0945,legit
+tx_00120,acct_109,23/9/2025 01:49,1.817,1,11.28,VND,5960,Direct Marketing,physical,Nha Trang,,10.46,1,0,0,10,15.98,-29.42,0.706,0.0149,legit
+tx_00121,acct_190,7/9/2025 13:13,13.217,6,16.48,USD,5960,Direct Marketing,physical,Bangkok,,2.66,1,1,1,13,33.48,-50.78,0.492,0.142,legit
+tx_00122,acct_163,18/9/2025 15:52,15.867,3,419.66,USD,5732,Electronics Stores,online,,Bangkok,0.34,0,0,1,10,56.2,646.68,7.467,1,fraudulent
+tx_00123,acct_070,11/9/2025 07:25,7.417,3,36.5,USD,5311,Department Stores,online,,Singapore,8.72,0,0,1,18,46.64,-21.75,0.783,0.0135,legit
+tx_00124,acct_085,19/9/2025 06:46,6.767,4,4.82,VND,4121,Taxicabs/Limousines,physical,Hai Phong,,0.8,1,0,0,15,57.44,-91.61,0.084,0.0052,legit
+tx_00125,acct_038,22/9/2025 21:02,21.033,0,726.53,USD,5999,Misc Retail,physical,Phnom Penh,,13.52,1,0,1,8,34.33,2016.06,21.161,1,fraudulent
+tx_00126,acct_016,6/9/2025 10:03,10.05,5,122.64,USD,5813,"Bars, Taverns",physical,London,,4.43,1,0,1,11,40.7,201.34,3.013,0.8468,fraudulent
+tx_00127,acct_106,29/9/2025 06:42,6.7,0,7.21,USD,5411,Grocery Stores,online,,Hanoi,3.65,0,0,1,25,40.23,-82.08,0.179,0.0057,legit
+tx_00128,acct_195,16/9/2025 07:50,7.833,1,109.64,USD,7995,Betting/Gambling,physical,Manila,,3.3,1,0,1,13,129.34,-15.23,0.848,0.2693,legit
+tx_00129,acct_076,14/9/2025 18:18,18.3,6,123.8,USD,5960,Direct Marketing,online,,Tokyo,0.87,0,0,1,19,34.42,259.7,3.597,0.9164,fraudulent
+tx_00130,acct_191,9/9/2025 10:56,10.933,1,38.02,USD,4829,Money Transfer,online,,Toronto,1.42,0,0,1,15,90.55,-58.01,0.42,0.2691,fraudulent
+tx_00131,acct_056,6/9/2025 20:38,20.633,5,8.71,USD,5732,Electronics Stores,physical,New York,,3.34,1,1,1,14,18.45,-52.8,0.472,0.0913,legit
+tx_00132,acct_086,25/9/2025 09:31,9.517,3,89.71,VND,4829,Money Transfer,online,,London,4.11,0,1,0,7,70.82,26.67,1.267,0.509,fraudulent
+tx_00133,acct_032,7/9/2025 04:58,4.967,6,24.59,USD,7011,Hotels,physical,New York,,1.1,1,0,1,13,21.73,13.15,1.132,0.0523,legit
+tx_00134,acct_151,11/9/2025 12:20,12.333,3,23.65,USD,7995,Betting/Gambling,physical,Los Angeles,,9.51,1,0,1,12,44.81,-47.22,0.528,0.2902,fraudulent
+tx_00135,acct_034,3/9/2025 14:15,14.25,2,13.48,USD,5960,Direct Marketing,physical,Singapore,,3.92,1,0,1,24,26.96,-50,0.5,0.0163,legit
+tx_00136,acct_097,24/9/2025 04:04,4.067,2,2.84,USD,4121,Taxicabs/Limousines,physical,Jakarta,,5.26,1,1,1,21,22.79,-87.54,0.125,0.0408,legit
+tx_00137,acct_194,5/9/2025 11:17,11.283,4,19.91,USD,5977,Cosmetics Stores,physical,Los Angeles,,1.12,1,0,1,11,48.41,-58.87,0.411,0.0363,legit
+tx_00138,acct_064,6/9/2025 21:26,21.433,5,20.25,USD,5960,Direct Marketing,physical,Tokyo,,21,1,1,1,12,25.33,-20.06,0.799,0.1561,fraudulent
+tx_00139,acct_013,15/9/2025 06:35,6.583,0,2.75,VND,7011,Hotels,physical,Da Nang,,0.56,1,0,0,10,10.22,-73.09,0.269,0.0126,legit
+tx_00140,acct_199,5/9/2025 21:11,21.183,4,97.27,VND,7011,Hotels,physical,Hanoi,,4.31,1,0,0,19,41.53,134.22,2.342,0.0709,legit
+tx_00141,acct_063,2/9/2025 03:09,3.15,1,24.79,VND,5999,Misc Retail,physical,Hai Phong,,7.88,1,0,0,13,44.23,-43.96,0.56,0.0054,legit
+tx_00142,acct_061,20/9/2025 19:51,19.85,5,33.96,USD,5814,Fast Food,physical,Phnom Penh,,2.9,1,0,1,12,79.21,-57.13,0.429,0.0282,legit
+tx_00143,acct_119,5/9/2025 11:17,11.283,4,30.98,VND,4829,Money Transfer,online,,Can Tho,20.71,0,0,0,26,20.16,53.68,1.537,0.0821,fraudulent
+tx_00144,acct_199,3/9/2025 05:34,5.567,2,123.82,VND,5960,Direct Marketing,online,,Hanoi,6.35,0,0,0,19,41.53,198.16,2.982,0.2436,legit
+tx_00145,acct_079,23/9/2025 14:37,14.617,1,240.65,USD,7995,Betting/Gambling,online,,New York,6.19,0,0,1,16,22.4,974.35,10.744,1,fraudulent
+tx_00146,acct_183,15/9/2025 23:13,23.217,0,12.33,USD,5999,Misc Retail,physical,Bangkok,,6.22,1,0,1,24,29.32,-57.94,0.421,0.008,legit
+tx_00147,acct_026,25/9/2025 11:57,11.95,3,22.79,VND,4829,Money Transfer,physical,Can Tho,,5.27,1,0,0,14,34.89,-34.68,0.653,0.0834,legit
+tx_00148,acct_144,31/8/2025 02:40,2.667,6,241.97,USD,5960,Direct Marketing,physical,Los Angeles,,0.36,1,0,1,15,81.57,196.65,2.967,0.6755,fraudulent
+tx_00149,acct_169,4/9/2025 16:57,16.95,3,9.38,USD,4121,Taxicabs/Limousines,physical,Jakarta,,3.59,1,0,1,12,24.72,-62.06,0.379,0.0305,legit
+tx_00150,acct_003,20/9/2025 07:31,7.517,5,102.57,VND,5960,Direct Marketing,online,,Los Angeles,5.47,0,0,0,12,52.48,95.44,1.954,0.0767,legit
+tx_00151,acct_092,13/9/2025 04:21,4.35,5,35.33,VND,4829,Money Transfer,online,,Los Angeles,10,0,0,0,9,18.38,92.25,1.923,0.4878,fraudulent
+tx_00152,acct_045,17/9/2025 08:59,8.983,2,46.54,USD,4829,Money Transfer,online,,Tokyo,1.73,0,0,1,16,23.58,97.41,1.974,0.7004,fraudulent
+tx_00153,acct_198,31/8/2025 12:00,12,6,17.82,USD,5311,Department Stores,physical,Singapore,,1.65,1,0,1,13,25.37,-29.75,0.703,0.0219,legit
+tx_00154,acct_082,13/9/2025 19:06,19.1,5,3.14,VND,5960,Direct Marketing,online,,Singapore,4.56,0,0,0,11,16.12,-80.52,0.195,0.0134,legit
+tx_00155,acct_115,27/9/2025 17:47,17.783,5,11.67,USD,5999,Misc Retail,physical,New York,,4.5,1,0,1,19,14.23,-18,0.82,0.0132,legit
+tx_00156,acct_086,22/9/2025 03:25,3.417,0,37.11,VND,5411,Grocery Stores,online,,Toronto,8.9,0,0,0,7,70.82,-47.6,0.524,0.0077,legit
+tx_00157,acct_054,2/9/2025 03:09,3.15,1,41.82,USD,4121,Taxicabs/Limousines,physical,Singapore,,4.24,1,0,1,16,39.48,5.92,1.059,0.0232,legit
+tx_00158,acct_152,16/9/2025 06:53,6.883,1,213.18,VND,4829,Money Transfer,physical,Hanoi,,4.99,1,0,0,12,31.06,586.44,6.864,1,fraudulent
+tx_00159,acct_132,14/9/2025 15:11,15.183,6,5.04,USD,7011,Hotels,physical,Los Angeles,,5.28,1,0,1,21,12.72,-60.38,0.396,0.0188,legit
+tx_00160,acct_125,14/9/2025 07:10,7.167,6,16.23,USD,7995,Betting/Gambling,physical,Toronto,,0.23,1,0,1,17,23.11,-29.78,0.702,0.1978,legit
+tx_00161,acct_165,19/9/2025 16:38,16.633,4,6.41,VND,4829,Money Transfer,physical,Hanoi,,1.65,1,0,0,13,45.76,-85.99,0.14,0.0912,fraudulent
+tx_00162,acct_023,29/9/2025 16:09,16.15,0,200.95,USD,5732,Electronics Stores,physical,Bangkok,,4.24,1,0,1,11,74.72,168.94,2.689,0.5452,legit
+tx_00163,acct_078,18/9/2025 02:25,2.417,3,20.83,USD,4829,Money Transfer,physical,Tokyo,,2.12,1,0,1,16,34.03,-38.8,0.612,0.25,legit
+tx_00164,acct_135,31/8/2025 04:43,4.717,6,9.1,USD,4121,Taxicabs/Limousines,online,,Jakarta,11.91,0,0,1,17,45.09,-79.82,0.202,0.0188,legit
+tx_00165,acct_090,4/9/2025 10:06,10.1,3,6.35,USD,4829,Money Transfer,physical,Singapore,,5.06,1,0,1,14,25.43,-75.03,0.25,0.2897,fraudulent
+tx_00166,acct_059,11/9/2025 07:39,7.65,3,3.18,VND,5812,"Eating Places, Restaurants",physical,Can Tho,,0.64,1,0,0,22,21.07,-84.91,0.151,0.002,legit
+tx_00167,acct_190,27/9/2025 07:47,7.783,5,18.05,VND,7995,Betting/Gambling,online,,Phnom Penh,5.68,0,0,0,13,33.48,-46.09,0.539,0.0761,fraudulent
+tx_00168,acct_055,10/9/2025 02:27,2.45,2,13.01,USD,4829,Money Transfer,physical,Sydney,,11.64,1,0,1,18,21.57,-39.69,0.603,0.2153,fraudulent
+tx_00169,acct_152,29/9/2025 08:07,8.117,0,44.38,USD,5732,Electronics Stores,physical,Phnom Penh,,4.3,1,0,1,12,31.06,42.9,1.429,0.0802,legit
+tx_00170,acct_075,19/9/2025 01:44,1.733,4,7.59,VND,5999,Misc Retail,physical,Hanoi,,5.59,1,0,0,20,12.58,-39.68,0.603,0.0027,legit
+tx_00171,acct_181,15/9/2025 21:34,21.567,0,88.03,VND,7995,Betting/Gambling,physical,Ho Chi Minh City,,12.42,1,0,0,16,16.81,423.57,5.236,0.9985,fraudulent
+tx_00172,acct_141,18/9/2025 08:36,8.6,3,28.57,USD,5732,Electronics Stores,online,,Can Tho,2.82,0,0,1,11,75.28,-62.05,0.38,0.0392,legit
+tx_00173,acct_003,25/9/2025 10:30,10.5,3,36.95,USD,7995,Betting/Gambling,physical,London,,2.08,1,0,1,12,52.48,-29.59,0.704,0.2893,legit
+tx_00174,acct_087,9/9/2025 04:32,4.533,1,22.13,USD,5814,Fast Food,physical,Toronto,,5.83,1,0,1,16,21.66,2.18,1.022,0.02,legit
+tx_00175,acct_029,13/9/2025 23:31,23.517,5,32.51,VND,5960,Direct Marketing,physical,Da Nang,,0.16,1,0,0,13,24.27,33.98,1.34,0.0215,legit
+tx_00176,acct_147,6/9/2025 23:12,23.2,5,62.68,VND,4829,Money Transfer,physical,Hai Phong,,4.62,1,0,0,18,32.47,93.03,1.93,0.2816,fraudulent
+tx_00177,acct_144,31/8/2025 21:13,21.217,6,61.14,USD,7011,Hotels,physical,Bangkok,,3.9,1,0,1,15,81.57,-25.04,0.75,0.0336,legit
+tx_00178,acct_030,6/9/2025 09:57,9.95,5,28.72,USD,7995,Betting/Gambling,physical,Bangkok,,0.3,1,0,1,20,57.35,-49.92,0.501,0.1545,legit
+tx_00179,acct_198,13/9/2025 00:30,0.5,5,15.08,USD,7995,Betting/Gambling,physical,London,,2.94,1,0,1,13,25.37,-40.55,0.594,0.2693,legit
+tx_00180,acct_076,30/8/2025 09:39,9.65,5,11.71,USD,5960,Direct Marketing,online,,Ho Chi Minh City,2.51,0,0,1,19,34.42,-65.98,0.34,0.0266,legit
+tx_00181,acct_156,22/9/2025 06:57,6.95,0,45.47,USD,7011,Hotels,physical,Phnom Penh,,3.81,1,0,1,17,28.08,61.94,1.619,0.0896,legit
+tx_00182,acct_160,25/9/2025 13:46,13.767,3,19.14,VND,5999,Misc Retail,physical,Nha Trang,,3.3,1,0,0,13,12.63,51.54,1.515,0.015,legit
+tx_00183,acct_061,21/9/2025 07:34,7.567,6,78.13,VND,5814,Fast Food,physical,Hanoi,,3.58,1,0,0,12,79.21,-1.37,0.986,0.0064,legit
+tx_00184,acct_104,31/8/2025 06:14,6.233,6,83.85,USD,5311,Department Stores,physical,Kuala Lumpur,,1.12,1,0,1,15,49.86,68.18,1.682,0.0669,legit
+tx_00185,acct_008,3/9/2025 19:39,19.65,2,26.98,USD,5999,Misc Retail,online,,Da Nang,2.97,0,0,1,17,23.89,12.94,1.129,0.0206,legit
+tx_00186,acct_175,29/9/2025 01:04,1.067,0,23.76,USD,5999,Misc Retail,physical,Phnom Penh,,1.78,1,0,1,16,46.64,-49.05,0.509,0.0177,legit
+tx_00187,acct_108,22/9/2025 20:16,20.267,0,275.63,VND,5812,"Eating Places, Restaurants",physical,Hai Phong,,5.65,1,0,0,18,18.11,1422.09,15.221,1,fraudulent
+tx_00188,acct_068,7/9/2025 02:57,2.95,6,132.4,VND,5960,Direct Marketing,physical,Nha Trang,,5.37,1,0,0,14,63.42,108.76,2.088,0.0815,legit
+tx_00189,acct_078,26/9/2025 23:24,23.4,4,69.07,USD,7995,Betting/Gambling,online,,London,2.61,0,0,1,16,34.03,102.95,2.029,0.6815,fraudulent
+tx_00190,acct_031,4/9/2025 22:13,22.217,3,15.04,USD,5311,Department Stores,physical,New York,,0.4,1,0,1,22,40.34,-62.71,0.373,0.009,legit
+tx_00191,acct_069,28/9/2025 12:39,12.65,6,76.72,VND,7995,Betting/Gambling,physical,Da Nang,,1.32,1,0,0,16,62.32,23.11,1.231,0.0881,legit
+tx_00192,acct_153,17/9/2025 01:14,1.233,2,33.3,USD,5411,Grocery Stores,physical,Jakarta,,19.31,1,0,1,16,17.79,87.14,1.871,0.0755,legit
+tx_00193,acct_154,25/9/2025 12:38,12.633,3,7.46,VND,5732,Electronics Stores,physical,Hanoi,,4.41,1,0,0,8,21.76,-65.72,0.343,0.0122,legit
+tx_00194,acct_195,22/9/2025 02:49,2.817,0,338.43,VND,4829,Money Transfer,physical,Ho Chi Minh City,,0.77,1,0,0,13,129.34,161.67,2.617,0.7178,fraudulent
+tx_00195,acct_195,25/9/2025 11:27,11.45,3,1562.14,USD,5960,Direct Marketing,physical,London,,2655.33,1,1,1,13,129.34,1107.81,12.078,1,fraudulent
+tx_00196,acct_071,8/9/2025 19:36,19.6,0,139.64,USD,5814,Fast Food,physical,Toronto,,1.9,1,0,1,22,65.45,113.34,2.133,0.0935,legit
+tx_00197,acct_023,4/9/2025 11:54,11.9,3,34.7,USD,5311,Department Stores,physical,Jakarta,,2.84,1,0,1,11,74.72,-53.56,0.464,0.0266,legit
+tx_00198,acct_171,26/9/2025 17:42,17.7,4,75.98,USD,5812,"Eating Places, Restaurants",physical,Los Angeles,,0.02,1,0,1,20,20.11,277.74,3.777,0.8647,fraudulent
+tx_00199,acct_177,31/8/2025 08:12,8.2,6,46.6,USD,5311,Department Stores,physical,New York,,1.77,1,0,1,11,19.25,142.1,2.421,0.3193,legit
+tx_00200,acct_194,28/9/2025 06:41,6.683,6,13.47,USD,7995,Betting/Gambling,physical,Jakarta,,1.17,1,0,1,11,48.41,-72.17,0.278,0.3102,fraudulent
+tx_00201,acct_064,6/9/2025 15:30,15.5,5,3.33,USD,4121,Taxicabs/Limousines,online,,Sydney,1.19,0,0,1,12,25.33,-86.85,0.131,0.0305,legit
+tx_00202,acct_000,22/9/2025 22:46,22.767,0,64.01,USD,4829,Money Transfer,physical,Los Angeles,,6.71,1,0,1,19,44.61,43.48,1.435,0.3714,fraudulent
+tx_00203,acct_013,8/9/2025 11:47,11.783,0,4.98,USD,5999,Misc Retail,physical,Toronto,,2.29,1,0,1,10,10.22,-51.26,0.487,0.0317,legit
+tx_00204,acct_160,21/9/2025 06:14,6.233,6,11.1,USD,5311,Department Stores,physical,Singapore,,3.39,1,0,1,13,12.63,-12.12,0.879,0.0219,legit
+tx_00205,acct_140,29/9/2025 07:43,7.717,0,20.34,USD,5814,Fast Food,physical,Toronto,,5.66,1,0,1,18,48.78,-58.3,0.417,0.0157,legit
+tx_00206,acct_031,13/9/2025 12:05,12.083,5,75.74,USD,5411,Grocery Stores,physical,Bangkok,,0.64,1,1,1,22,40.34,87.77,1.878,0.1296,legit
+tx_00207,acct_181,6/9/2025 09:32,9.533,5,30.34,USD,5814,Fast Food,physical,Tokyo,,0.01,1,0,1,16,16.81,80.45,1.805,0.0886,legit
+tx_00208,acct_104,4/9/2025 15:37,15.617,3,41.6,VND,5812,"Eating Places, Restaurants",online,,London,2.54,0,1,0,15,49.86,-16.56,0.834,0.0134,legit
+tx_00209,acct_030,22/9/2025 05:03,5.05,0,223.05,USD,4829,Money Transfer,physical,Kuala Lumpur,,0.3,1,0,1,20,57.35,288.9,3.889,0.9938,fraudulent
+tx_00210,acct_130,12/9/2025 19:46,19.767,4,37.58,USD,4829,Money Transfer,physical,Toronto,,0.76,1,0,1,17,67.2,-44.08,0.559,0.2316,fraudulent
+tx_00211,acct_120,5/9/2025 03:19,3.317,4,29.84,USD,5999,Misc Retail,physical,New York,,1.5,1,0,1,9,50.1,-40.44,0.596,0.0349,legit
+tx_00212,acct_048,15/9/2025 02:30,2.5,0,10.23,VND,5977,Cosmetics Stores,physical,Hai Phong,,0.72,1,0,0,13,20.7,-50.58,0.494,0.0068,legit
+tx_00213,acct_017,14/9/2025 10:09,10.15,6,81.95,USD,5732,Electronics Stores,online,,Jakarta,8.22,0,0,1,19,11.5,612.73,7.127,0.9999,fraudulent
+tx_00214,acct_129,28/9/2025 14:56,14.933,6,68.21,USD,5732,Electronics Stores,physical,Kuala Lumpur,,16.17,1,0,1,7,99.37,-31.36,0.686,0.0579,legit
+tx_00215,acct_150,7/9/2025 18:25,18.417,6,32.83,VND,7995,Betting/Gambling,physical,Hai Phong,,2.87,1,0,0,12,18.33,79.1,1.791,0.3066,legit
+tx_00216,acct_114,31/8/2025 11:10,11.167,6,21.84,USD,7995,Betting/Gambling,physical,Tokyo,,7.08,1,0,1,14,13.89,57.24,1.572,0.5123,legit
+tx_00217,acct_195,22/9/2025 00:51,0.85,0,132.6,USD,7995,Betting/Gambling,physical,Jakarta,,4.16,1,0,1,13,129.34,2.52,1.025,0.2795,fraudulent
+tx_00218,acct_048,29/9/2025 10:58,10.967,0,7.04,USD,7011,Hotels,physical,New York,,1.94,1,0,1,13,20.7,-65.99,0.34,0.0407,legit
+tx_00219,acct_059,17/9/2025 05:07,5.117,2,38.02,USD,5960,Direct Marketing,physical,Jakarta,,0.63,1,0,1,22,21.07,80.46,1.805,0.0919,legit
+tx_00220,acct_190,31/8/2025 05:59,5.983,6,123.73,USD,5311,Department Stores,online,,New York,12.53,0,0,1,13,33.48,269.53,3.695,0.9167,fraudulent
+tx_00221,acct_169,6/9/2025 05:21,5.35,5,14.98,VND,5960,Direct Marketing,physical,Hai Phong,,5.34,1,0,0,12,24.72,-39.41,0.606,0.0122,legit
+tx_00222,acct_126,26/9/2025 13:18,13.3,4,28.88,USD,7011,Hotels,physical,Jakarta,,15.02,1,0,1,14,40.65,-28.96,0.71,0.0373,legit
+tx_00223,acct_025,13/9/2025 20:27,20.45,5,156.4,USD,5960,Direct Marketing,physical,Sydney,,11.23,1,0,1,16,83.33,87.69,1.877,0.1766,legit
+tx_00224,acct_116,6/9/2025 05:11,5.183,5,18.27,VND,5411,Grocery Stores,physical,Hai Phong,,2.01,1,0,0,10,55.4,-67.02,0.33,0.0057,legit
+tx_00225,acct_019,27/9/2025 02:12,2.2,5,81.71,USD,5311,Department Stores,online,,New York,8.33,0,0,1,14,57.9,41.12,1.411,0.0442,legit
+tx_00226,acct_166,6/9/2025 07:54,7.9,5,11.85,USD,5812,"Eating Places, Restaurants",physical,Tokyo,,2.77,1,0,1,17,57.73,-79.47,0.205,0.0148,legit
+tx_00227,acct_097,29/9/2025 16:26,16.433,0,31.72,USD,7011,Hotels,physical,Toronto,,18.07,1,0,1,21,22.79,39.18,1.392,0.0405,legit
+tx_00228,acct_138,23/9/2025 04:18,4.3,1,424.01,USD,5411,Grocery Stores,physical,Kuala Lumpur,,6.77,1,0,1,21,114.03,271.85,3.718,0.8147,fraudulent
+tx_00229,acct_058,19/9/2025 14:50,14.833,4,10.52,VND,4829,Money Transfer,physical,Can Tho,,2.32,1,0,0,13,28.58,-63.19,0.368,0.0912,legit
+tx_00230,acct_194,17/9/2025 17:02,17.033,2,250.15,USD,4829,Money Transfer,online,,Nha Trang,0.92,0,0,1,11,48.41,416.75,5.168,0.9998,fraudulent
+tx_00231,acct_177,21/9/2025 13:12,13.2,6,28.58,USD,5732,Electronics Stores,physical,Jakarta,,7.11,1,0,1,11,19.25,48.48,1.485,0.0974,legit
+tx_00232,acct_014,18/9/2025 01:52,1.867,3,23.9,VND,5732,Electronics Stores,physical,Hai Phong,,12.69,1,0,0,15,30.9,-22.64,0.774,0.0061,legit
+tx_00233,acct_062,21/9/2025 02:04,2.067,6,92.66,VND,7995,Betting/Gambling,physical,Nha Trang,,2.04,1,0,0,22,17.42,432,5.32,0.9976,fraudulent
+tx_00234,acct_043,7/9/2025 17:03,17.05,6,5.72,USD,5814,Fast Food,physical,New York,,7.71,1,0,1,10,14.28,-59.95,0.401,0.0344,fraudulent
+tx_00235,acct_158,4/9/2025 21:55,21.917,3,168.7,VND,4829,Money Transfer,physical,Hai Phong,,2.88,1,0,0,16,46.8,260.45,3.605,0.968,fraudulent
+tx_00236,acct_059,1/9/2025 00:58,0.967,0,17.81,USD,5311,Department Stores,physical,Singapore,,8.05,1,0,1,22,21.07,-15.46,0.845,0.0091,legit
+tx_00237,acct_170,3/9/2025 23:52,23.867,2,44.71,USD,5411,Grocery Stores,online,,Tokyo,10.26,0,0,1,10,34.09,31.14,1.311,0.046,legit
+tx_00238,acct_040,10/9/2025 18:30,18.5,2,35.6,USD,5812,"Eating Places, Restaurants",online,,Los Angeles,1.7,0,0,1,18,32.43,9.77,1.098,0.0162,legit
+tx_00239,acct_176,19/9/2025 08:28,8.467,4,22.32,USD,5732,Electronics Stores,online,,New York,7.66,0,0,1,13,38.7,-42.33,0.577,0.0324,legit
+tx_00240,acct_123,20/9/2025 01:52,1.867,5,152.63,USD,5812,"Eating Places, Restaurants",physical,Manila,,5,1,0,1,15,20.9,630.4,7.304,0.9999,fraudulent
+tx_00241,acct_147,26/9/2025 19:02,19.033,4,93.94,VND,5732,Electronics Stores,physical,Hanoi,,19.65,1,0,0,18,32.47,189.29,2.893,0.1677,legit
+tx_00242,acct_168,31/8/2025 20:58,20.967,6,13.13,VND,5813,"Bars, Taverns",physical,Ho Chi Minh City,,2.13,1,0,0,12,22.41,-41.42,0.586,0.0088,legit
+tx_00243,acct_155,15/9/2025 08:27,8.45,0,178.75,USD,4829,Money Transfer,online,,Bangkok,17.29,0,0,1,12,37.65,374.74,4.747,0.9995,fraudulent
+tx_00244,acct_155,1/9/2025 06:43,6.717,0,148.91,USD,5960,Direct Marketing,physical,Phnom Penh,,4833.63,1,0,1,12,37.65,295.49,3.955,0.9988,fraudulent
+tx_00245,acct_158,8/9/2025 07:15,7.25,0,146.94,VND,5732,Electronics Stores,online,,Can Tho,4.55,0,0,0,16,46.8,213.96,3.14,0.4705,fraudulent
+tx_00246,acct_160,24/9/2025 12:05,12.083,2,19.37,USD,4829,Money Transfer,physical,London,,6.04,1,0,1,13,12.63,53.36,1.534,0.5673,fraudulent
+tx_00247,acct_008,12/9/2025 08:44,8.733,4,15.09,VND,7995,Betting/Gambling,online,,Kuala Lumpur,2.55,0,0,0,17,23.89,-36.83,0.632,0.0522,legit
+tx_00248,acct_083,31/8/2025 17:04,17.067,6,34.41,VND,4829,Money Transfer,physical,Hai Phong,,12.3,1,0,0,17,27.09,27,1.27,0.1041,legit
+tx_00249,acct_138,29/9/2025 05:41,5.683,0,82.48,USD,5977,Cosmetics Stores,physical,Sydney,,1.39,1,0,1,21,114.03,-27.67,0.723,0.0137,legit
+tx_00250,acct_069,3/9/2025 01:27,1.45,2,33.77,USD,5960,Direct Marketing,physical,Toronto,,1.42,1,0,1,16,62.32,-45.81,0.542,0.0356,legit
+tx_00251,acct_075,11/9/2025 05:54,5.9,3,12.41,VND,4829,Money Transfer,physical,Can Tho,,9.12,1,0,0,20,12.58,-1.38,0.986,0.0477,legit
+tx_00252,acct_119,23/9/2025 11:13,11.217,1,10.65,USD,7011,Hotels,physical,Bangkok,,2.32,1,0,1,26,20.16,-47.17,0.528,0.0126,legit
+tx_00253,acct_173,21/9/2025 15:39,15.65,6,20.1,USD,4829,Money Transfer,online,,Manila,7.74,0,0,1,17,18.42,9.12,1.091,0.2664,fraudulent
+tx_00254,acct_023,8/9/2025 12:20,12.333,0,46.17,USD,5960,Direct Marketing,physical,Tokyo,,2.93,1,0,1,11,74.72,-38.21,0.618,0.0574,legit
+tx_00255,acct_031,27/9/2025 21:49,21.817,5,89.6,USD,5311,Department Stores,physical,Singapore,,7.23,1,0,1,22,40.34,122.13,2.221,0.0951,legit
+tx_00256,acct_149,25/9/2025 04:13,4.217,3,40.41,USD,5813,"Bars, Taverns",physical,Manila,,8.41,1,0,1,22,18.84,114.47,2.145,0.1272,legit
+tx_00257,acct_027,20/9/2025 13:24,13.4,5,38.94,USD,4829,Money Transfer,physical,Tokyo,,2.21,1,0,1,22,27.68,40.7,1.407,0.2922,legit
+tx_00258,acct_083,1/9/2025 17:51,17.85,0,53.11,VND,5977,Cosmetics Stores,physical,Da Nang,,10.45,1,0,0,17,27.09,96.02,1.96,0.0307,legit
+tx_00259,acct_162,14/9/2025 19:12,19.2,6,92.88,USD,5960,Direct Marketing,online,,Los Angeles,9.1,0,0,1,20,91.13,1.92,1.019,0.0252,legit
+tx_00260,acct_029,11/9/2025 14:51,14.85,3,9.94,USD,5814,Fast Food,online,,Toronto,0.63,0,1,1,13,24.27,-59.04,0.41,0.0802,legit
+tx_00261,acct_029,7/9/2025 15:07,15.117,6,49.35,VND,5812,"Eating Places, Restaurants",online,,New York,0.1,0,0,0,13,24.27,103.38,2.034,0.038,legit
+tx_00262,acct_116,19/9/2025 09:09,9.15,4,15.75,USD,4121,Taxicabs/Limousines,online,,Los Angeles,0.3,0,0,1,10,55.4,-71.57,0.284,0.037,legit
+tx_00263,acct_150,31/8/2025 16:31,16.517,6,33.17,USD,4829,Money Transfer,physical,Los Angeles,,2.8,1,0,1,12,18.33,80.96,1.81,0.7152,fraudulent
+tx_00264,acct_167,14/9/2025 16:08,16.133,6,42.21,USD,5812,"Eating Places, Restaurants",physical,Los Angeles,,4.65,1,0,1,10,104.13,-59.46,0.405,0.0294,legit
+tx_00265,acct_071,9/9/2025 03:20,3.333,1,71.78,USD,5411,Grocery Stores,physical,London,,1.14,1,0,1,22,65.45,9.67,1.097,0.0093,legit
+tx_00266,acct_113,6/9/2025 06:03,6.05,5,91.93,VND,7011,Hotels,online,,Manila,3673.99,0,0,0,18,23.61,289.33,3.893,0.9742,fraudulent
+tx_00267,acct_139,4/9/2025 14:51,14.85,3,235.3,VND,5977,Cosmetics Stores,physical,Ho Chi Minh City,,7.84,1,0,0,11,94.94,147.85,2.479,0.1396,legit
+tx_00268,acct_101,3/9/2025 04:16,4.267,2,38.05,USD,5732,Electronics Stores,online,,Da Nang,3.9,0,1,1,14,47.76,-20.33,0.797,0.0913,legit
+tx_00269,acct_169,27/9/2025 11:48,11.8,5,59.98,VND,5999,Misc Retail,physical,Hanoi,,29.36,1,0,0,12,24.72,142.61,2.426,0.0953,legit
+tx_00270,acct_012,19/9/2025 05:35,5.583,4,188.13,VND,5960,Direct Marketing,physical,Hai Phong,,5.35,1,1,0,16,37.54,401.19,5.012,0.9947,fraudulent
+tx_00271,acct_144,9/9/2025 18:56,18.933,1,64.01,USD,5999,Misc Retail,online,,Phnom Penh,7.41,0,1,1,15,81.57,-21.52,0.785,0.0621,legit
+tx_00272,acct_150,11/9/2025 19:11,19.183,3,6.9,USD,5999,Misc Retail,online,,Hai Phong,5.56,0,0,1,12,18.33,-62.36,0.376,0.0262,legit
+tx_00273,acct_152,23/9/2025 08:28,8.467,1,33.75,VND,5411,Grocery Stores,online,,Hai Phong,7.11,0,0,0,12,31.06,8.68,1.087,0.0056,legit
+tx_00274,acct_138,12/9/2025 02:54,2.9,4,47.28,VND,5732,Electronics Stores,physical,Hanoi,,1.13,1,0,0,21,114.03,-58.54,0.415,0.0033,legit
+tx_00275,acct_033,16/9/2025 10:47,10.783,1,65.33,USD,5411,Grocery Stores,online,,Jakarta,0.4,0,0,1,15,27.21,140.14,2.401,0.2047,legit
+tx_00276,acct_004,9/9/2025 12:44,12.733,1,42.92,USD,5814,Fast Food,physical,Los Angeles,,5.06,1,0,1,15,38.29,12.09,1.121,0.0267,legit
+tx_00277,acct_134,9/9/2025 00:59,0.983,1,34.89,USD,5812,"Eating Places, Restaurants",physical,London,,5.42,1,0,1,13,35.59,-1.98,0.98,0.022,legit
+tx_00278,acct_199,24/9/2025 08:59,8.983,2,28.11,USD,4121,Taxicabs/Limousines,physical,London,,1.5,1,0,1,19,41.53,-32.31,0.677,0.0154,legit
+tx_00279,acct_128,13/9/2025 08:05,8.083,5,15.07,USD,5999,Misc Retail,physical,Sydney,,11.41,1,0,1,23,15,0.49,1.005,0.009,legit
+tx_00280,acct_077,30/8/2025 09:05,9.083,5,9.71,VND,5311,Department Stores,online,,Toronto,0.5,0,0,0,17,17.35,-44.02,0.56,0.0033,legit
+tx_00281,acct_102,5/9/2025 00:35,0.583,4,33.65,USD,5813,"Bars, Taverns",physical,London,,0.21,1,0,1,19,29.06,15.79,1.158,0.0265,fraudulent
+tx_00282,acct_018,18/9/2025 12:05,12.083,3,21.19,VND,5977,Cosmetics Stores,physical,Hai Phong,,0.07,1,0,0,19,61.47,-65.53,0.345,0.0038,legit
+tx_00283,acct_016,28/9/2025 02:13,2.217,6,77.72,USD,5814,Fast Food,physical,Tokyo,,4.9,1,0,1,11,40.7,90.97,1.91,0.1655,legit
+tx_00284,acct_182,30/8/2025 15:05,15.083,5,14.14,USD,4121,Taxicabs/Limousines,online,,Kuala Lumpur,4.54,0,0,1,11,46.82,-69.8,0.302,0.0337,legit
+tx_00285,acct_116,14/9/2025 00:58,0.967,6,171.41,VND,7995,Betting/Gambling,physical,Can Tho,,5.24,1,0,0,10,55.4,209.4,3.094,0.9422,fraudulent
+tx_00286,acct_167,28/9/2025 00:58,0.967,6,173.76,USD,4829,Money Transfer,online,,Los Angeles,0.92,0,0,1,10,104.13,66.87,1.669,0.698,fraudulent
+tx_00287,acct_115,21/9/2025 16:23,16.383,6,13.19,USD,5977,Cosmetics Stores,physical,London,,0.99,1,0,1,19,14.23,-7.32,0.927,0.0166,legit
+tx_00288,acct_102,4/9/2025 19:58,19.967,3,121.75,USD,5813,"Bars, Taverns",physical,Los Angeles,,9.11,1,0,1,19,29.06,318.95,4.189,0.9632,fraudulent
+tx_00289,acct_080,15/9/2025 01:27,1.45,0,50.17,VND,4829,Money Transfer,physical,Hai Phong,,1.62,1,0,0,15,22.26,125.35,2.254,0.502,fraudulent
+tx_00290,acct_175,28/9/2025 12:21,12.35,6,110.17,VND,5977,Cosmetics Stores,physical,Da Nang,,10.72,1,0,0,16,46.64,136.24,2.362,0.0725,legit
+tx_00291,acct_023,3/9/2025 07:32,7.533,2,95.79,USD,5813,"Bars, Taverns",online,,Hai Phong,8.11,0,1,1,11,74.72,28.2,1.282,0.2057,legit
+tx_00292,acct_142,10/9/2025 10:51,10.85,2,53.88,USD,5411,Grocery Stores,online,,Jakarta,0.35,0,0,1,15,62.49,-13.78,0.862,0.0154,legit
+tx_00293,acct_171,1/9/2025 21:12,21.2,0,13.65,USD,5812,"Eating Places, Restaurants",physical,Los Angeles,,1.18,1,0,1,20,20.11,-32.14,0.679,0.011,legit
+tx_00294,acct_184,26/9/2025 22:06,22.1,4,38.77,USD,5411,Grocery Stores,physical,Kuala Lumpur,,8,1,0,1,17,34.88,11.15,1.111,0.0158,legit
+tx_00295,acct_090,25/9/2025 23:05,23.083,3,17.43,VND,5812,"Eating Places, Restaurants",physical,Hai Phong,,0.32,1,0,0,14,25.43,-31.46,0.685,0.0045,legit
+tx_00296,acct_168,18/9/2025 23:22,23.367,3,4.17,USD,5311,Department Stores,online,,Tokyo,4.14,0,0,1,12,22.41,-81.39,0.186,0.0242,legit
+tx_00297,acct_094,14/9/2025 18:55,18.917,6,75.8,USD,5812,"Eating Places, Restaurants",physical,Bangkok,,3.35,1,0,1,15,85.76,-11.62,0.884,0.018,legit
+tx_00298,acct_109,5/9/2025 09:04,9.067,4,27.66,USD,5960,Direct Marketing,online,,Hanoi,5.5,0,0,1,10,15.98,73.07,1.731,0.2252,legit
+tx_00299,acct_155,13/9/2025 02:26,2.433,5,169.3,USD,5977,Cosmetics Stores,online,,Hanoi,2.32,0,0,1,12,37.65,349.64,4.496,0.988,fraudulent
+tx_00300,acct_046,14/9/2025 19:53,19.883,6,14.47,USD,5732,Electronics Stores,online,,Manila,1.99,0,0,1,18,17.51,-17.35,0.827,0.0199,legit
+tx_00301,acct_001,23/9/2025 06:32,6.533,1,81.31,USD,5814,Fast Food,physical,New York,,4.33,1,0,1,11,30.48,166.77,2.668,0.4745,fraudulent
+tx_00302,acct_017,13/9/2025 03:28,3.467,5,3.91,VND,5814,Fast Food,physical,Hanoi,,1.63,1,0,0,19,11.5,-65.99,0.34,0.0032,legit
+tx_00303,acct_023,20/9/2025 14:02,14.033,5,98.38,USD,4829,Money Transfer,physical,Los Angeles,,0.77,1,0,1,11,74.72,31.67,1.317,0.5084,fraudulent
+tx_00304,acct_116,26/9/2025 22:07,22.117,4,90.06,USD,4121,Taxicabs/Limousines,physical,Jakarta,,1.25,1,0,1,10,55.4,62.56,1.626,0.1184,legit
+tx_00305,acct_198,22/9/2025 04:33,4.55,0,10.94,VND,7011,Hotels,physical,Ho Chi Minh City,,4.94,1,0,0,13,25.37,-56.87,0.431,0.0094,legit
+tx_00306,acct_039,19/9/2025 11:21,11.35,4,161.97,VND,5814,Fast Food,physical,Da Nang,,11.95,1,0,0,22,145.18,11.57,1.116,0.003,legit
+tx_00307,acct_069,24/9/2025 23:37,23.617,2,32.74,USD,5311,Department Stores,physical,London,,38.62,1,0,1,16,62.32,-47.46,0.525,0.0167,legit
+tx_00308,acct_106,24/9/2025 23:07,23.117,2,360.72,VND,5732,Electronics Stores,online,,Manila,12.07,0,0,0,25,40.23,796.75,8.967,1,fraudulent
+tx_00309,acct_110,28/9/2025 12:10,12.167,6,43.52,USD,5812,"Eating Places, Restaurants",physical,Toronto,,0.88,1,0,1,15,34.66,25.58,1.256,0.0297,legit
+tx_00310,acct_134,27/9/2025 21:45,21.75,5,17.58,USD,4829,Money Transfer,physical,New York,,2.39,1,0,1,13,35.59,-50.61,0.494,0.3103,fraudulent
+tx_00311,acct_153,6/9/2025 16:13,16.217,5,11.49,USD,5411,Grocery Stores,physical,Phnom Penh,,13.24,1,1,1,16,17.79,-35.43,0.646,0.0451,fraudulent
+tx_00312,acct_196,4/9/2025 18:16,18.267,3,29.85,USD,5814,Fast Food,physical,Jakarta,,16.28,1,0,1,14,34.57,-13.65,0.864,0.0234,legit
+tx_00313,acct_030,11/9/2025 02:07,2.117,3,55.08,VND,5411,Grocery Stores,online,,Hai Phong,14.7,0,0,0,20,57.35,-3.96,0.96,0.0021,legit
+tx_00314,acct_097,20/9/2025 17:05,17.083,5,52.34,USD,7995,Betting/Gambling,physical,Tokyo,,23.08,1,0,1,21,22.79,129.65,2.296,0.6914,fraudulent
+tx_00315,acct_171,16/9/2025 13:33,13.55,1,79.47,VND,5960,Direct Marketing,physical,Ho Chi Minh City,,13.7,1,0,0,20,20.11,295.09,3.951,0.8191,legit
+tx_00316,acct_111,28/9/2025 04:05,4.083,6,24.9,USD,5411,Grocery Stores,online,,Los Angeles,1.42,0,0,1,14,22.06,12.88,1.129,0.0218,legit
+tx_00317,acct_146,6/9/2025 21:25,21.417,5,2.89,USD,5813,"Bars, Taverns",physical,Kuala Lumpur,,7.07,1,1,1,16,41.7,-93.07,0.069,0.082,legit
+tx_00318,acct_029,9/9/2025 18:58,18.967,1,70.21,VND,5813,"Bars, Taverns",online,,London,1.58,0,0,0,13,24.27,189.35,2.893,0.2627,legit
+tx_00319,acct_176,16/9/2025 09:20,9.333,1,14.67,VND,5977,Cosmetics Stores,physical,Can Tho,,3.79,1,0,0,13,38.7,-62.09,0.379,0.0068,legit
+tx_00320,acct_062,11/9/2025 19:13,19.217,3,41.83,VND,5813,"Bars, Taverns",physical,Da Nang,,2.11,1,0,0,22,17.42,140.16,2.402,0.0514,legit
+tx_00321,acct_101,4/9/2025 21:36,21.6,3,53.63,USD,5960,Direct Marketing,online,,Jakarta,2.55,0,1,1,14,47.76,12.29,1.123,0.1607,legit
+tx_00322,acct_199,5/9/2025 23:11,23.183,4,166.49,VND,5814,Fast Food,physical,Can Tho,,0.16,1,0,0,19,41.53,300.91,4.009,0.7462,fraudulent
+tx_00323,acct_135,24/9/2025 08:49,8.817,2,158.48,USD,7995,Betting/Gambling,online,,Manila,8.54,0,0,1,17,45.09,251.47,3.515,0.9883,fraudulent
+tx_00324,acct_186,16/9/2025 20:05,20.083,1,17.72,VND,7011,Hotels,physical,Hai Phong,,1.28,1,0,0,18,24.72,-28.3,0.717,0.0057,legit
+tx_00325,acct_060,18/9/2025 11:45,11.75,3,187.96,VND,5812,"Eating Places, Restaurants",physical,Nha Trang,,2.16,1,0,0,17,33.37,463.18,5.632,0.9874,fraudulent
+tx_00326,acct_154,23/9/2025 17:57,17.95,1,15.17,VND,5814,Fast Food,online,,Nha Trang,2.4,0,0,0,8,21.76,-30.29,0.697,0.0096,legit
+tx_00327,acct_197,16/9/2025 00:11,0.183,1,42.5,USD,4829,Money Transfer,physical,London,,13.57,1,0,1,11,24.86,70.93,1.709,0.6957,fraudulent
+tx_00328,acct_174,15/9/2025 10:36,10.6,0,24.52,USD,5977,Cosmetics Stores,physical,Jakarta,,6.27,1,0,1,14,22.25,10.19,1.102,0.0332,legit
+tx_00329,acct_160,10/9/2025 18:34,18.567,2,20.38,USD,4121,Taxicabs/Limousines,physical,Toronto,,2.19,1,0,1,13,12.63,61.35,1.614,0.0885,legit
+tx_00330,acct_113,5/9/2025 01:21,1.35,4,18.98,VND,4829,Money Transfer,online,,Manila,2.67,0,0,0,18,23.61,-19.62,0.804,0.0574,fraudulent
+tx_00331,acct_129,18/9/2025 01:52,1.867,3,49.58,VND,5812,"Eating Places, Restaurants",physical,Ho Chi Minh City,,0.21,1,0,0,7,99.37,-50.11,0.499,0.009,legit
+tx_00332,acct_014,13/9/2025 03:51,3.85,5,39.06,VND,4121,Taxicabs/Limousines,physical,Da Nang,,4.97,1,0,0,15,30.9,26.43,1.264,0.0088,legit
+tx_00333,acct_157,9/9/2025 08:12,8.2,1,17.39,USD,7995,Betting/Gambling,physical,Tokyo,,0.79,1,0,1,15,8.32,108.98,2.09,0.7271,legit
+tx_00334,acct_189,16/9/2025 18:25,18.417,1,25.59,USD,5977,Cosmetics Stores,physical,Phnom Penh,,3.61,1,0,1,15,25.92,-1.29,0.987,0.0247,legit
+tx_00335,acct_082,28/9/2025 16:10,16.167,6,256.35,VND,7995,Betting/Gambling,physical,Ho Chi Minh City,,16.87,1,0,0,11,16.12,1490.64,15.906,1,fraudulent
+tx_00336,acct_115,9/9/2025 03:30,3.5,1,8.06,USD,5812,"Eating Places, Restaurants",online,,Da Nang,23.19,0,0,1,19,14.23,-43.37,0.566,0.0123,legit
+tx_00337,acct_129,9/9/2025 07:45,7.75,1,216.78,USD,4829,Money Transfer,physical,London,,4.87,1,0,1,7,99.37,118.15,2.181,0.8971,fraudulent
+tx_00338,acct_112,25/9/2025 03:05,3.083,3,20.38,USD,7995,Betting/Gambling,physical,Manila,,0.08,1,0,1,17,42.43,-51.96,0.48,0.1978,fraudulent
+tx_00339,acct_095,23/9/2025 01:13,1.217,1,68.44,USD,5977,Cosmetics Stores,physical,Jakarta,,0.73,1,0,1,24,15.76,334.34,4.343,0.9482,fraudulent
+tx_00340,acct_173,17/9/2025 11:35,11.583,2,14.06,USD,7995,Betting/Gambling,online,,Da Nang,3983.76,0,0,1,17,18.42,-23.67,0.763,0.7291,fraudulent
+tx_00341,acct_084,12/9/2025 00:50,0.833,4,15.37,USD,5812,"Eating Places, Restaurants",physical,Kuala Lumpur,,1.61,1,0,1,17,15.54,-1.1,0.989,0.0148,legit
+tx_00342,acct_064,18/9/2025 07:55,7.917,3,38.86,VND,4829,Money Transfer,physical,Hai Phong,,1.27,1,0,0,12,25.33,53.4,1.534,0.2439,fraudulent
+tx_00343,acct_085,16/9/2025 05:57,5.95,1,89.21,USD,5812,"Eating Places, Restaurants",physical,Manila,,1.19,1,1,1,15,57.44,55.31,1.553,0.1554,legit
+tx_00344,acct_079,16/9/2025 12:14,12.233,1,29.36,USD,7011,Hotels,physical,New York,,8.18,1,0,1,16,22.4,31.07,1.311,0.0555,legit
+tx_00345,acct_033,21/9/2025 16:49,16.817,6,9.7,USD,7995,Betting/Gambling,online,,Tokyo,0.29,0,0,1,15,27.21,-64.34,0.357,0.2315,legit
+tx_00346,acct_096,23/9/2025 16:02,16.033,1,30.34,VND,4829,Money Transfer,physical,Hai Phong,,1.31,1,0,0,9,39.2,-22.6,0.774,0.1302,legit
+tx_00347,acct_171,9/9/2025 02:10,2.167,1,36.56,USD,4829,Money Transfer,online,,Da Nang,6.7,0,0,1,20,20.11,81.76,1.818,0.5348,fraudulent
+tx_00348,acct_165,26/9/2025 16:30,16.5,4,522.21,VND,4829,Money Transfer,physical,Hanoi,,10.05,1,0,0,13,45.76,1041.27,11.413,1,fraudulent
+tx_00349,acct_092,16/9/2025 22:41,22.683,1,100.56,USD,5732,Electronics Stores,online,,Toronto,1.13,0,0,1,9,18.38,447.21,5.472,0.9988,fraudulent
+tx_00350,acct_049,12/9/2025 15:47,15.783,4,51.41,VND,5999,Misc Retail,physical,Da Nang,,1.46,1,0,0,20,27.3,88.34,1.883,0.0155,legit
+tx_00351,acct_075,31/8/2025 00:58,0.967,6,7.08,USD,5960,Direct Marketing,physical,Tokyo,,5.64,1,0,1,20,12.58,-43.73,0.563,0.0242,legit
+tx_00352,acct_189,12/9/2025 10:08,10.133,4,51.88,USD,5977,Cosmetics Stores,physical,Jakarta,,1.33,1,0,1,15,25.92,100.13,2.001,0.1575,legit
+tx_00353,acct_196,28/9/2025 04:04,4.067,6,13.98,VND,7995,Betting/Gambling,physical,Hai Phong,,0.23,1,0,0,14,34.57,-59.56,0.404,0.0691,legit
+tx_00354,acct_041,1/9/2025 21:46,21.767,0,14.74,VND,5814,Fast Food,physical,Nha Trang,,0.14,1,0,0,13,16.42,-10.26,0.897,0.0058,legit
+tx_00355,acct_184,24/9/2025 13:27,13.45,2,53.72,USD,5311,Department Stores,physical,Bangkok,,0.26,1,0,1,17,34.88,54.01,1.54,0.0423,legit
+tx_00356,acct_113,15/9/2025 01:01,1.017,0,43.33,USD,7995,Betting/Gambling,online,,Bangkok,2.61,0,0,1,18,23.61,83.51,1.835,0.5428,fraudulent
+tx_00357,acct_136,13/9/2025 14:59,14.983,5,33.39,USD,5999,Misc Retail,online,,Phnom Penh,5.64,0,0,1,16,40.42,-17.4,0.826,0.0177,legit
+tx_00358,acct_094,29/9/2025 19:25,19.417,0,258.41,USD,4829,Money Transfer,physical,London,,0.08,1,0,1,15,85.76,201.3,3.013,0.9787,fraudulent
+tx_00359,acct_118,19/9/2025 16:53,16.883,4,196.28,USD,5960,Direct Marketing,online,,Sydney,12.53,0,0,1,19,40.19,388.37,4.884,0.9931,fraudulent
+tx_00360,acct_107,7/9/2025 11:18,11.3,6,13.87,VND,7011,Hotels,online,,Singapore,2794.91,0,0,0,17,30.63,-54.71,0.453,0.0328,legit
+tx_00361,acct_013,12/9/2025 15:12,15.2,4,38,USD,4829,Money Transfer,online,,Can Tho,2.39,0,0,1,10,10.22,271.88,3.719,0.9968,fraudulent
+tx_00362,acct_182,26/9/2025 22:56,22.933,4,46.48,USD,5960,Direct Marketing,online,,Da Nang,3.8,0,0,1,11,46.82,-0.72,0.993,0.0574,legit
+tx_00363,acct_195,5/9/2025 09:50,9.833,4,166.9,USD,5814,Fast Food,physical,Sydney,,5.58,1,0,1,13,129.34,29.04,1.29,0.045,legit
+tx_00364,acct_037,10/9/2025 23:59,23.983,2,82.98,USD,5960,Direct Marketing,physical,Bangkok,,10.31,1,0,1,16,31.67,162.02,2.62,0.4867,legit
+tx_00365,acct_115,24/9/2025 11:41,11.683,2,31.85,USD,5977,Cosmetics Stores,online,,Ho Chi Minh City,4.8,0,0,1,19,14.23,123.79,2.238,0.1678,fraudulent
+tx_00366,acct_101,1/9/2025 02:12,2.2,0,22.62,VND,7995,Betting/Gambling,physical,Da Nang,,0.29,1,0,0,14,47.76,-52.64,0.474,0.0691,legit
+tx_00367,acct_095,22/9/2025 10:33,10.55,0,18.09,VND,5999,Misc Retail,physical,Can Tho,,3.45,1,0,0,24,15.76,14.8,1.148,0.0024,legit
+tx_00368,acct_182,10/9/2025 18:47,18.783,2,23.23,VND,4829,Money Transfer,online,,Ho Chi Minh City,5.12,0,0,0,11,46.82,-50.38,0.496,0.1094,legit
+tx_00369,acct_073,18/9/2025 10:52,10.867,3,101.66,VND,5977,Cosmetics Stores,physical,Hai Phong,,0.29,1,0,0,16,28.73,253.86,3.539,0.645,fraudulent
+tx_00370,acct_194,9/9/2025 10:14,10.233,1,91.03,VND,4829,Money Transfer,physical,Hanoi,,1.44,1,0,0,11,48.41,88.05,1.88,0.4162,fraudulent
+tx_00371,acct_020,27/9/2025 21:39,21.65,5,36.6,VND,5411,Grocery Stores,physical,Hai Phong,,5.37,1,0,0,14,40.4,-9.4,0.906,0.0038,legit
+tx_00372,acct_140,17/9/2025 22:49,22.817,2,206.99,USD,7011,Hotels,physical,Los Angeles,,2.92,1,1,1,18,48.78,324.37,4.244,0.9921,fraudulent
+tx_00373,acct_028,1/9/2025 05:17,5.283,0,29.76,VND,5960,Direct Marketing,physical,Can Tho,,3.24,1,0,0,13,80.38,-62.97,0.37,0.011,legit
+tx_00374,acct_012,19/9/2025 20:07,20.117,4,18.09,USD,5999,Misc Retail,physical,London,,0.3,1,0,1,16,37.54,-51.81,0.482,0.0176,legit
+tx_00375,acct_016,12/9/2025 10:27,10.45,4,76.65,USD,5812,"Eating Places, Restaurants",online,,Hanoi,0.41,0,0,1,11,40.7,88.34,1.883,0.1379,legit
+tx_00376,acct_161,21/9/2025 02:01,2.017,6,19.45,VND,7995,Betting/Gambling,physical,Hai Phong,,14.03,1,0,0,12,37.42,-48.02,0.52,0.0838,legit
+tx_00377,acct_074,27/9/2025 05:10,5.167,5,59.55,USD,5813,"Bars, Taverns",physical,Bangkok,,7.65,1,0,1,5,49.99,19.13,1.191,0.106,legit
+tx_00378,acct_146,2/9/2025 21:24,21.4,1,38.97,VND,5813,"Bars, Taverns",physical,Da Nang,,3.63,1,0,0,16,41.7,-6.54,0.935,0.006,legit
+tx_00379,acct_134,14/9/2025 20:04,20.067,6,23.49,USD,7011,Hotels,physical,Sydney,,20.23,1,0,1,13,35.59,-34.01,0.66,0.0412,legit
+tx_00380,acct_139,25/9/2025 16:36,16.6,3,108,USD,7995,Betting/Gambling,online,,Hanoi,11.63,0,0,1,11,94.94,13.76,1.138,0.3734,legit
+tx_00381,acct_099,27/9/2025 19:38,19.633,5,33.02,USD,5960,Direct Marketing,physical,New York,,2.18,1,0,1,13,55.13,-40.11,0.599,0.0475,legit
+tx_00382,acct_095,10/9/2025 08:54,8.9,2,17.56,VND,5732,Electronics Stores,physical,Da Nang,,4.65,1,0,0,24,15.76,11.44,1.114,0.0031,legit
+tx_00383,acct_088,24/9/2025 11:51,11.85,2,9.64,VND,5999,Misc Retail,physical,Can Tho,,3.71,1,0,0,12,4.74,103.54,2.035,0.0453,legit
+tx_00384,acct_197,16/9/2025 16:45,16.75,1,15.93,VND,7995,Betting/Gambling,online,,Ho Chi Minh City,2.54,0,0,0,11,24.86,-35.93,0.641,0.0912,legit
+tx_00385,acct_090,4/9/2025 18:47,18.783,3,23.39,VND,7995,Betting/Gambling,online,,London,0.37,0,0,0,14,25.43,-8.03,0.92,0.0692,legit
+tx_00386,acct_178,12/9/2025 10:13,10.217,4,155.38,VND,5311,Department Stores,physical,Hai Phong,,0.23,1,0,0,14,22.4,593.77,6.938,0.9993,fraudulent
+tx_00387,acct_016,27/9/2025 15:11,15.183,5,71.32,VND,4829,Money Transfer,online,,Kuala Lumpur,3.65,0,0,0,11,40.7,75.24,1.752,0.356,legit
+tx_00388,acct_051,1/9/2025 11:54,11.9,0,107.31,VND,5411,Grocery Stores,physical,Ho Chi Minh City,,2.64,1,0,0,14,36.99,190.07,2.901,0.1472,fraudulent
+tx_00389,acct_080,19/9/2025 21:09,21.15,4,162.02,USD,5977,Cosmetics Stores,physical,Tokyo,,4.57,1,0,1,15,22.26,627.75,7.278,0.9999,fraudulent
+tx_00390,acct_121,22/9/2025 21:53,21.883,0,42.83,USD,5732,Electronics Stores,online,,Kuala Lumpur,3.22,0,0,1,17,26.03,64.54,1.645,0.0753,legit
+tx_00391,acct_091,18/9/2025 19:15,19.25,3,210.11,USD,5960,Direct Marketing,physical,Jakarta,,10.37,1,0,1,16,35.82,486.61,5.866,0.9993,fraudulent
+tx_00392,acct_069,16/9/2025 20:21,20.35,1,189.98,USD,5812,"Eating Places, Restaurants",physical,New York,,2.72,1,0,1,16,62.32,204.85,3.048,0.6897,legit
+tx_00393,acct_190,4/9/2025 01:01,1.017,3,15.66,USD,5311,Department Stores,online,,Nha Trang,2.69,0,0,1,13,33.48,-53.23,0.468,0.0219,legit
+tx_00394,acct_127,31/8/2025 01:33,1.55,6,61.06,USD,4829,Money Transfer,physical,Sydney,,5.53,1,0,1,18,102.07,-40.18,0.598,0.2147,fraudulent
+tx_00395,acct_068,11/9/2025 17:28,17.467,3,22.4,VND,5960,Direct Marketing,online,,Los Angeles,4.03,0,0,0,14,63.42,-64.68,0.353,0.01,legit
+tx_00396,acct_154,28/9/2025 23:32,23.533,6,50.23,USD,7011,Hotels,physical,Kuala Lumpur,,4.19,1,0,1,8,21.76,130.82,2.308,0.4897,legit
+tx_00397,acct_082,15/9/2025 08:01,8.017,0,6.49,USD,5812,"Eating Places, Restaurants",physical,Kuala Lumpur,,4.57,1,0,1,11,16.12,-59.73,0.403,0.0267,fraudulent
+tx_00398,acct_078,14/9/2025 22:05,22.083,6,62.35,VND,5311,Department Stores,online,,London,0.96,0,0,0,16,34.03,83.2,1.832,0.0192,legit
+tx_00399,acct_089,13/9/2025 04:17,4.283,5,21.13,USD,5311,Department Stores,online,,Los Angeles,1.09,0,0,1,15,17.91,17.98,1.18,0.0256,legit
+tx_00400,acct_070,2/9/2025 18:34,18.567,1,63.59,VND,4829,Money Transfer,online,,Da Nang,4.24,0,0,0,18,46.64,36.33,1.363,0.112,fraudulent
+tx_00401,acct_171,22/9/2025 09:19,9.317,0,25.14,VND,4829,Money Transfer,physical,Nha Trang,,2.78,1,0,0,20,20.11,24.99,1.25,0.076,fraudulent
+tx_00402,acct_007,24/9/2025 10:36,10.6,2,46.36,USD,5814,Fast Food,physical,London,,0.07,1,0,1,12,14.19,226.68,3.267,0.8574,fraudulent
+tx_00403,acct_008,2/9/2025 02:45,2.75,1,17.42,USD,5814,Fast Food,physical,Manila,,3.07,1,0,1,17,23.89,-27.08,0.729,0.0173,legit
+tx_00404,acct_092,1/9/2025 03:28,3.467,0,26.22,VND,5813,"Bars, Taverns",physical,Hai Phong,,1.48,1,0,0,9,18.38,42.68,1.427,0.0275,legit
+tx_00405,acct_173,14/9/2025 10:29,10.483,6,15.83,USD,5311,Department Stores,physical,London,,7.14,1,0,1,17,18.42,-14.06,0.859,0.0148,legit
+tx_00406,acct_195,31/8/2025 03:25,3.417,6,243.15,USD,5812,"Eating Places, Restaurants",physical,Manila,,5.88,1,0,1,13,129.34,88,1.88,0.1154,legit
+tx_00407,acct_101,9/9/2025 05:16,5.267,1,94.45,VND,4121,Taxicabs/Limousines,physical,Can Tho,,3.51,1,0,0,14,47.76,97.75,1.978,0.0391,legit
+tx_00408,acct_006,7/9/2025 12:26,12.433,6,34.56,USD,4829,Money Transfer,physical,New York,,12,1,0,1,15,19.21,79.95,1.8,0.6471,legit
+tx_00409,acct_143,23/9/2025 16:01,16.017,1,7.08,USD,5812,"Eating Places, Restaurants",online,,Phnom Penh,0.32,0,0,1,22,11.53,-38.58,0.614,0.009,legit
+tx_00410,acct_156,19/9/2025 18:29,18.483,4,17.49,USD,5732,Electronics Stores,online,,Phnom Penh,5.86,0,0,1,17,28.08,-37.71,0.623,0.022,legit
+tx_00411,acct_031,14/9/2025 10:33,10.55,6,60.5,VND,5814,Fast Food,physical,Nha Trang,,1.87,1,0,0,22,40.34,49.99,1.5,0.0064,legit
+tx_00412,acct_182,1/9/2025 04:42,4.7,0,99.74,USD,5311,Department Stores,physical,Jakarta,,0.71,1,0,1,11,46.82,113.04,2.13,0.2077,legit
+tx_00413,acct_170,21/9/2025 16:11,16.183,6,23.91,USD,4121,Taxicabs/Limousines,physical,Tokyo,,6.32,1,0,1,10,34.09,-29.87,0.701,0.0371,legit
+tx_00414,acct_074,24/9/2025 05:11,5.183,2,55.34,VND,5977,Cosmetics Stores,online,,Manila,4.64,0,0,0,5,49.99,10.71,1.107,0.0187,legit
+tx_00415,acct_130,8/9/2025 16:50,16.833,0,346.65,VND,5999,Misc Retail,online,,Bangkok,5.97,0,0,0,17,67.2,415.85,5.159,0.9707,fraudulent
+tx_00416,acct_126,26/9/2025 07:14,7.233,4,44.47,USD,5411,Grocery Stores,physical,Manila,,4.99,1,0,1,14,40.65,9.39,1.094,0.0204,legit
+tx_00417,acct_119,20/9/2025 09:13,9.217,5,25.04,VND,5960,Direct Marketing,physical,Da Nang,,0.05,1,0,0,26,20.16,24.21,1.242,0.0054,legit
+tx_00418,acct_016,19/9/2025 01:01,1.017,4,42.27,USD,5732,Electronics Stores,online,,Sydney,3.54,0,0,1,11,40.7,3.86,1.039,0.0423,legit
+tx_00419,acct_105,27/9/2025 05:38,5.633,5,73.16,VND,5960,Direct Marketing,online,,Hai Phong,2.74,0,0,0,22,27.49,166.13,2.661,0.1115,legit
+tx_00420,acct_081,10/9/2025 05:22,5.367,2,60.66,USD,4829,Money Transfer,physical,Sydney,,1.93,1,0,1,20,55.23,9.84,1.098,0.2138,legit
+tx_00421,acct_088,19/9/2025 17:02,17.033,4,25.35,USD,5814,Fast Food,online,,Nha Trang,4593.25,0,0,1,12,4.74,435.24,5.352,0.9998,fraudulent
+tx_00422,acct_196,24/9/2025 23:11,23.183,2,31.93,VND,7011,Hotels,physical,Ho Chi Minh City,,0.63,1,0,0,14,34.57,-7.63,0.924,0.0085,legit
+tx_00423,acct_031,10/9/2025 18:15,18.25,2,80.49,VND,7995,Betting/Gambling,physical,Nha Trang,,25.86,1,1,0,22,40.34,99.55,1.995,0.4518,fraudulent
+tx_00424,acct_082,28/9/2025 12:43,12.717,6,95.01,USD,5977,Cosmetics Stores,physical,Sydney,,3.56,1,0,1,11,16.12,489.53,5.895,0.9993,fraudulent
+tx_00425,acct_072,6/9/2025 06:44,6.733,5,12.66,USD,5960,Direct Marketing,physical,Tokyo,,21.67,1,0,1,17,20.83,-39.22,0.608,0.0327,legit
+tx_00426,acct_070,30/8/2025 11:57,11.95,5,13.26,USD,5814,Fast Food,physical,Tokyo,,8.54,1,0,1,18,46.64,-71.57,0.284,0.0158,fraudulent
+tx_00427,acct_023,20/9/2025 15:19,15.317,5,47.54,VND,7995,Betting/Gambling,physical,Hai Phong,,1.04,1,0,0,11,74.72,-36.38,0.636,0.0912,legit
+tx_00428,acct_043,17/9/2025 21:42,21.7,2,7.98,USD,4829,Money Transfer,online,,Ho Chi Minh City,15.33,0,0,1,10,14.28,-44.12,0.559,0.3797,fraudulent
+tx_00429,acct_007,20/9/2025 07:33,7.55,5,11.47,USD,5812,"Eating Places, Restaurants",online,,Phnom Penh,5.04,0,0,1,12,14.19,-19.17,0.808,0.0242,legit
+tx_00430,acct_196,23/9/2025 13:49,13.817,1,29.63,VND,7995,Betting/Gambling,physical,Hanoi,,2666.16,1,0,0,14,34.57,-14.29,0.857,0.2689,legit
+tx_00431,acct_127,1/9/2025 23:47,23.783,0,125.68,USD,5977,Cosmetics Stores,physical,Kuala Lumpur,,1.67,1,0,1,18,102.07,23.13,1.231,0.0288,legit
+tx_00432,acct_123,13/9/2025 14:22,14.367,5,22.59,USD,5999,Misc Retail,online,,Kuala Lumpur,7.96,0,0,1,15,20.9,8.1,1.081,0.0229,legit
+tx_00433,acct_116,13/9/2025 14:37,14.617,5,9.59,USD,5812,"Eating Places, Restaurants",physical,London,,0.2,1,0,1,10,55.4,-82.69,0.173,0.0293,legit
+tx_00434,acct_106,19/9/2025 12:05,12.083,4,28.76,VND,5311,Department Stores,physical,Hai Phong,,19.88,1,0,0,25,40.23,-28.5,0.715,0.0015,legit
+tx_00435,acct_080,11/9/2025 02:18,2.3,3,59.29,USD,5960,Direct Marketing,physical,Manila,,12.48,1,0,1,15,22.26,166.32,2.663,0.5334,legit
+tx_00436,acct_102,27/9/2025 16:55,16.917,5,12.55,USD,5814,Fast Food,physical,Tokyo,,4.54,1,0,1,19,29.06,-56.81,0.432,0.0142,legit
+tx_00437,acct_027,23/9/2025 23:21,23.35,1,20.05,USD,4121,Taxicabs/Limousines,physical,Singapore,,4.59,1,0,1,22,27.68,-27.56,0.724,0.0115,legit
+tx_00438,acct_115,23/9/2025 11:58,11.967,1,48.91,USD,5999,Misc Retail,physical,Kuala Lumpur,,0.13,1,0,1,19,14.23,243.65,3.437,0.7946,fraudulent
+tx_00439,acct_098,11/9/2025 13:44,13.733,3,8.95,VND,5960,Direct Marketing,physical,Nha Trang,,0.8,1,0,0,17,23.25,-61.51,0.385,0.0074,legit
+tx_00440,acct_083,29/9/2025 10:53,10.883,0,37.45,USD,5977,Cosmetics Stores,online,,Nha Trang,10.79,0,0,1,17,27.09,38.22,1.382,0.0427,legit
+tx_00441,acct_127,24/9/2025 04:58,4.967,2,456.55,USD,7011,Hotels,physical,Kuala Lumpur,,7.13,1,0,1,18,102.07,347.27,4.473,0.9835,fraudulent
+tx_00442,acct_127,11/9/2025 07:38,7.633,3,25.95,USD,5411,Grocery Stores,online,,London,6.81,0,0,1,18,102.07,-74.58,0.254,0.0115,legit
+tx_00443,acct_061,31/8/2025 19:29,19.483,6,67.22,VND,5999,Misc Retail,physical,Ho Chi Minh City,,12.01,1,0,0,12,79.21,-15.14,0.849,0.006,legit
+tx_00444,acct_072,19/9/2025 09:35,9.583,4,76.5,USD,5311,Department Stores,online,,Kuala Lumpur,8.18,0,0,1,17,20.83,267.29,3.673,0.8755,fraudulent
+tx_00445,acct_137,17/9/2025 09:00,9,2,41.96,VND,5411,Grocery Stores,physical,Hai Phong,,2.21,1,0,0,16,21.13,98.54,1.985,0.0221,legit
+tx_00446,acct_067,13/9/2025 12:53,12.883,5,9.68,USD,4829,Money Transfer,online,,Ho Chi Minh City,17.1,0,0,1,21,36.32,-73.34,0.267,0.1694,legit
+tx_00447,acct_102,2/9/2025 15:08,15.133,1,27.68,USD,5411,Grocery Stores,physical,Manila,,2.96,1,0,1,19,29.06,-4.75,0.952,0.0104,fraudulent
+tx_00448,acct_141,27/9/2025 23:00,23,5,89.81,USD,5732,Electronics Stores,physical,London,,0.83,1,0,1,11,75.28,19.31,1.193,0.0566,legit
+tx_00449,acct_195,6/9/2025 00:46,0.767,5,389.01,VND,7995,Betting/Gambling,online,,Hai Phong,5.23,0,0,0,13,129.34,200.77,3.008,0.9104,fraudulent
+tx_00450,acct_024,19/9/2025 10:45,10.75,4,120.18,USD,5813,"Bars, Taverns",online,,Tokyo,2.08,0,0,1,19,41.13,192.17,2.922,0.4812,legit
+tx_00451,acct_093,4/9/2025 11:56,11.933,3,41.32,USD,5960,Direct Marketing,physical,Sydney,,6.13,1,0,1,24,43.7,-5.44,0.946,0.0164,legit
+tx_00452,acct_102,23/9/2025 17:12,17.2,1,43.5,VND,7995,Betting/Gambling,physical,Hai Phong,,2.86,1,0,0,19,29.06,49.69,1.497,0.1087,legit
+tx_00453,acct_182,14/9/2025 00:50,0.833,6,105.6,USD,4121,Taxicabs/Limousines,physical,London,,0.65,1,0,1,11,46.82,125.56,2.256,0.2998,legit
+tx_00454,acct_038,11/9/2025 22:11,22.183,3,37.87,USD,7995,Betting/Gambling,physical,Jakarta,,4.48,1,0,1,8,34.33,10.3,1.103,0.4277,legit
+tx_00455,acct_156,11/9/2025 12:55,12.917,3,32.51,USD,4121,Taxicabs/Limousines,physical,Kuala Lumpur,,3.66,1,0,1,17,28.08,15.79,1.158,0.0255,legit
+tx_00456,acct_151,27/9/2025 02:40,2.667,5,68.28,USD,4121,Taxicabs/Limousines,online,,Toronto,2.13,0,0,1,12,44.81,52.38,1.524,0.0823,legit
+tx_00457,acct_181,19/9/2025 13:10,13.167,4,3.85,VND,7995,Betting/Gambling,physical,Hanoi,,2.05,1,1,0,16,16.81,-77.1,0.229,0.1682,legit
+tx_00458,acct_094,7/9/2025 09:58,9.967,6,3730.62,USD,4121,Taxicabs/Limousines,physical,Los Angeles,,1.35,1,0,1,15,85.76,4249.82,43.498,1,fraudulent
+tx_00459,acct_149,26/9/2025 02:12,2.2,4,27.86,VND,5732,Electronics Stores,online,,Toronto,3.52,0,1,0,22,18.84,47.86,1.479,0.0256,legit
+tx_00460,acct_067,26/9/2025 12:13,12.217,4,107.68,USD,7011,Hotels,online,,Ho Chi Minh City,1.52,0,1,1,21,36.32,196.52,2.965,0.7634,fraudulent
+tx_00461,acct_149,12/9/2025 05:03,5.05,4,16.39,USD,5311,Department Stores,physical,New York,,0.56,1,0,1,22,18.84,-13.01,0.87,0.009,legit
+tx_00462,acct_037,31/8/2025 03:06,3.1,6,12.54,VND,5960,Direct Marketing,physical,Can Tho,,4.98,1,0,0,16,31.67,-60.4,0.396,0.0082,legit
+tx_00463,acct_048,21/9/2025 07:26,7.433,6,53.14,VND,5411,Grocery Stores,physical,Hai Phong,,3.32,1,0,0,13,20.7,156.74,2.567,0.0892,legit
+tx_00464,acct_105,22/9/2025 06:04,6.067,0,12.22,USD,4829,Money Transfer,physical,Toronto,,0.08,1,0,1,22,27.49,-55.55,0.445,0.1545,fraudulent
+tx_00465,acct_188,8/9/2025 16:10,16.167,0,71.27,USD,4829,Money Transfer,online,,Phnom Penh,4.36,0,0,1,15,68.08,4.68,1.047,0.2883,legit
+tx_00466,acct_143,2/9/2025 12:25,12.417,1,24.91,USD,4121,Taxicabs/Limousines,physical,Sydney,,1.79,1,0,1,22,11.53,116.09,2.161,0.1055,legit
+tx_00467,acct_096,22/9/2025 17:34,17.567,0,110.88,USD,4121,Taxicabs/Limousines,physical,Tokyo,,3.16,1,0,1,9,39.2,182.88,2.829,0.6223,fraudulent
+tx_00468,acct_087,25/9/2025 23:28,23.467,3,16.33,USD,7995,Betting/Gambling,physical,Singapore,,0.18,1,0,1,16,21.66,-24.6,0.754,0.2142,legit
+tx_00469,acct_156,26/9/2025 22:42,22.7,4,30.41,USD,5311,Department Stores,online,,Tokyo,8.85,0,0,1,17,28.08,8.31,1.083,0.0175,legit
+tx_00470,acct_076,1/9/2025 04:36,4.6,0,31.19,USD,5999,Misc Retail,online,,Kuala Lumpur,6.03,0,0,1,19,34.42,-9.38,0.906,0.0132,legit
+tx_00471,acct_180,5/9/2025 10:37,10.617,4,18.59,USD,5999,Misc Retail,online,,Toronto,1.66,0,0,1,19,54.68,-66,0.34,0.0131,legit
+tx_00472,acct_089,7/9/2025 14:26,14.433,6,48.87,USD,7995,Betting/Gambling,online,,Kuala Lumpur,1,0,0,1,15,17.91,172.86,2.729,0.9053,fraudulent
+tx_00473,acct_031,7/9/2025 00:27,0.45,6,34.94,USD,7995,Betting/Gambling,physical,New York,,6.78,1,1,1,22,40.34,-13.38,0.866,0.3327,fraudulent
+tx_00474,acct_088,15/9/2025 17:05,17.083,0,6.39,USD,7011,Hotels,online,,Ho Chi Minh City,10.79,0,0,1,12,4.74,34.92,1.349,0.0867,legit
+tx_00475,acct_073,16/9/2025 19:49,19.817,1,16.78,USD,7011,Hotels,physical,London,,0.04,1,0,1,16,28.73,-41.59,0.584,0.0305,legit
+tx_00476,acct_167,18/9/2025 01:55,1.917,3,132.4,USD,5732,Electronics Stores,physical,Phnom Penh,,4.36,1,0,1,10,104.13,27.15,1.271,0.0721,legit
+tx_00477,acct_137,15/9/2025 10:40,10.667,0,34.2,USD,5732,Electronics Stores,physical,Singapore,,0.43,1,0,1,16,21.13,61.82,1.618,0.0785,fraudulent
+tx_00478,acct_035,13/9/2025 04:17,4.283,5,26.24,USD,5812,"Eating Places, Restaurants",online,,Bangkok,0.28,0,0,1,16,20.46,28.23,1.282,0.0283,legit
+tx_00479,acct_012,15/9/2025 04:06,4.1,0,120.04,USD,4829,Money Transfer,physical,Bangkok,,0.69,1,0,1,16,37.54,219.79,3.198,0.9836,fraudulent
+tx_00480,acct_013,24/9/2025 18:23,18.383,2,11.13,USD,5812,"Eating Places, Restaurants",physical,Toronto,,0.99,1,0,1,10,10.22,8.92,1.089,0.0349,legit
+tx_00481,acct_025,31/8/2025 13:24,13.4,6,111.17,USD,4829,Money Transfer,physical,Tokyo,,1.66,1,1,1,16,83.33,33.41,1.334,0.6833,fraudulent
+tx_00482,acct_040,6/9/2025 17:39,17.65,5,22.98,USD,5813,"Bars, Taverns",online,,Toronto,3864.72,0,0,1,18,32.43,-29.15,0.709,0.1823,legit
+tx_00483,acct_166,13/9/2025 13:33,13.55,5,55.48,USD,5999,Misc Retail,online,,Kuala Lumpur,11.22,0,0,1,17,57.73,-3.89,0.961,0.0161,legit
+tx_00484,acct_165,31/8/2025 17:37,17.617,6,10.62,USD,5411,Grocery Stores,online,,Tokyo,1.64,0,0,1,13,45.76,-76.79,0.232,0.0187,legit
+tx_00485,acct_189,12/9/2025 16:17,16.283,4,46.39,VND,4829,Money Transfer,online,,Los Angeles,3.57,0,0,0,15,25.92,78.95,1.789,0.2852,fraudulent
+tx_00486,acct_045,20/9/2025 00:31,0.517,5,52.67,USD,5977,Cosmetics Stores,physical,New York,,0.03,1,0,1,16,23.58,123.41,2.234,0.2122,fraudulent
+tx_00487,acct_126,24/9/2025 07:08,7.133,2,47.52,USD,5814,Fast Food,online,,Ho Chi Minh City,1.49,0,0,1,14,40.65,16.89,1.169,0.0323,legit
+tx_00488,acct_002,30/8/2025 22:50,22.833,5,29.99,USD,5732,Electronics Stores,physical,Jakarta,,18.96,1,0,1,20,85.42,-64.89,0.351,0.0165,legit
+tx_00489,acct_072,22/9/2025 17:36,17.6,0,16.14,USD,5311,Department Stores,physical,Sydney,,23.17,1,0,1,17,20.83,-22.51,0.775,0.015,legit
+tx_00490,acct_126,24/9/2025 14:40,14.667,2,38.59,USD,5977,Cosmetics Stores,physical,Sydney,,7.9,1,0,1,14,40.65,-5.07,0.949,0.0272,legit
+tx_00491,acct_119,22/9/2025 17:31,17.517,0,82.37,USD,5732,Electronics Stores,online,,Nha Trang,0.05,0,0,1,26,20.16,308.6,4.086,0.9147,fraudulent
+tx_00492,acct_187,31/8/2025 12:11,12.183,6,68.73,VND,5311,Department Stores,physical,Nha Trang,,4.37,1,0,0,14,25.55,169.05,2.69,0.1175,fraudulent
+tx_00493,acct_003,15/9/2025 22:57,22.95,0,63.96,USD,4829,Money Transfer,online,,Nha Trang,17.02,0,0,1,12,52.48,21.87,1.219,0.4372,fraudulent
+tx_00494,acct_156,2/9/2025 06:32,6.533,1,168.3,USD,5960,Direct Marketing,online,,Sydney,1.6,0,1,1,17,28.08,499.41,5.994,0.9998,fraudulent
+tx_00495,acct_083,18/9/2025 04:03,4.05,3,35.86,VND,5812,"Eating Places, Restaurants",physical,Nha Trang,,1.93,1,0,0,17,27.09,32.36,1.324,0.0064,legit
+tx_00496,acct_035,17/9/2025 07:43,7.717,2,216.35,VND,5311,Department Stores,online,,Singapore,6.29,0,0,0,16,20.46,957.26,10.573,1,fraudulent
+tx_00497,acct_098,27/9/2025 13:46,13.767,5,8.93,USD,5999,Misc Retail,online,,Kuala Lumpur,9.21,0,0,1,17,23.25,-61.59,0.384,0.0161,legit
+tx_00498,acct_149,23/9/2025 10:09,10.15,1,11.92,USD,4829,Money Transfer,physical,Manila,,4.84,1,0,1,22,18.84,-36.74,0.633,0.1548,fraudulent
+tx_00499,acct_177,22/9/2025 17:32,17.533,0,7.39,USD,5999,Misc Retail,physical,London,,1.23,1,0,1,11,19.25,-61.61,0.384,0.0288,legit
+tx_00500,acct_078,31/8/2025 16:10,16.167,6,12.59,USD,5814,Fast Food,physical,Kuala Lumpur,,3.53,1,0,1,16,34.03,-63.01,0.37,0.0191,legit
+tx_00501,acct_176,18/9/2025 15:12,15.2,3,17.78,USD,5812,"Eating Places, Restaurants",online,,Manila,2170.12,0,0,1,13,38.7,-54.06,0.459,0.076,legit
+tx_00502,acct_157,6/9/2025 19:10,19.167,5,43.03,USD,5999,Misc Retail,online,,Hai Phong,5.9,0,0,1,15,8.32,417.09,5.171,0.9947,fraudulent
+tx_00503,acct_116,10/9/2025 21:53,21.883,2,39.29,USD,4829,Money Transfer,physical,Los Angeles,,4.2,1,0,1,10,55.4,-29.08,0.709,0.3781,fraudulent
+tx_00504,acct_179,11/9/2025 19:58,19.967,3,19.47,USD,7995,Betting/Gambling,physical,Tokyo,,1.33,1,0,1,14,34.07,-42.85,0.571,0.2499,fraudulent
+tx_00505,acct_170,14/9/2025 15:59,15.983,6,35.97,VND,5960,Direct Marketing,online,,Sydney,0.72,0,0,0,10,34.09,5.5,1.055,0.0165,legit
+tx_00506,acct_114,26/9/2025 03:04,3.067,4,19.64,VND,7995,Betting/Gambling,physical,Can Tho,,8.99,1,0,0,14,13.89,41.4,1.414,0.146,legit
+tx_00507,acct_015,14/9/2025 04:50,4.833,6,13.64,USD,5960,Direct Marketing,online,,Tokyo,2.85,0,0,1,20,27.64,-50.65,0.493,0.0242,legit
+tx_00508,acct_038,8/9/2025 13:45,13.75,0,4.18,USD,5814,Fast Food,online,,Can Tho,0.56,0,0,1,8,34.33,-87.83,0.122,0.0415,legit
+tx_00509,acct_174,11/9/2025 06:17,6.283,3,146.09,VND,5999,Misc Retail,physical,Da Nang,,1.49,1,0,0,14,22.25,556.53,6.565,0.9987,fraudulent
+tx_00510,acct_130,1/9/2025 04:32,4.533,0,91.32,VND,5311,Department Stores,physical,Hai Phong,,1.61,1,0,0,17,67.2,35.89,1.359,0.0068,legit
+tx_00511,acct_131,21/9/2025 21:35,21.583,6,16.09,USD,5813,"Bars, Taverns",physical,Tokyo,,5.96,1,0,1,20,24.99,-35.62,0.644,0.0177,legit
+tx_00512,acct_118,31/8/2025 18:09,18.15,6,18.67,VND,4829,Money Transfer,physical,Hanoi,,5.25,1,0,0,19,40.19,-53.55,0.465,0.0523,fraudulent
+tx_00513,acct_101,18/9/2025 09:35,9.583,3,66.73,USD,5732,Electronics Stores,physical,Phnom Penh,,0.28,1,0,1,14,47.76,39.71,1.397,0.0626,legit
+tx_00514,acct_148,10/9/2025 13:23,13.383,2,39.75,VND,5812,"Eating Places, Restaurants",physical,Da Nang,,3.25,1,0,0,12,41.26,-3.67,0.963,0.0055,legit
+tx_00515,acct_138,8/9/2025 09:11,9.183,0,141.5,VND,7011,Hotels,online,,Toronto,5.33,0,0,0,21,114.03,24.09,1.241,0.0069,legit
+tx_00516,acct_008,2/9/2025 22:20,22.333,1,60.98,VND,5732,Electronics Stores,physical,Hai Phong,,1.4,1,0,0,17,23.89,155.28,2.553,0.1003,legit
+tx_00517,acct_196,22/9/2025 06:28,6.467,0,57.27,USD,4829,Money Transfer,online,,Manila,12.1,0,0,1,14,34.57,65.67,1.657,0.6036,fraudulent
+tx_00518,acct_097,4/9/2025 08:38,8.633,3,28.49,USD,5311,Department Stores,online,,New York,4.37,0,0,1,21,22.79,25,1.25,0.0163,legit
+tx_00519,acct_020,27/9/2025 18:59,18.983,5,31.06,USD,4829,Money Transfer,physical,Tokyo,,0.25,1,0,1,14,40.4,-23.11,0.769,0.2891,fraudulent
+tx_00520,acct_034,19/9/2025 00:40,0.667,4,54.77,VND,4829,Money Transfer,physical,Nha Trang,,4.35,1,0,0,24,26.96,103.15,2.031,0.2084,fraudulent
+tx_00521,acct_137,19/9/2025 10:02,10.033,4,77.93,USD,5813,"Bars, Taverns",physical,Bangkok,,9.78,1,0,1,16,21.13,268.73,3.687,0.9283,fraudulent
+tx_00522,acct_000,26/9/2025 02:49,2.817,4,86.2,USD,5960,Direct Marketing,online,,Tokyo,8.99,0,0,1,19,44.61,93.22,1.932,0.1506,legit
+tx_00523,acct_108,20/9/2025 21:16,21.267,5,92.25,USD,7995,Betting/Gambling,online,,London,0.17,0,0,1,18,18.11,409.43,5.094,0.9994,fraudulent
+tx_00524,acct_088,24/9/2025 14:11,14.183,2,3.79,VND,5814,Fast Food,physical,Can Tho,,7.11,1,0,0,12,4.74,-19.98,0.8,0.0065,legit
+tx_00525,acct_008,10/9/2025 12:09,12.15,2,17.78,VND,5960,Direct Marketing,physical,Hanoi,,4.5,1,0,0,17,23.89,-25.57,0.744,0.0074,legit
+tx_00526,acct_061,16/9/2025 23:07,23.117,1,175.27,VND,5999,Misc Retail,physical,Ho Chi Minh City,,1.45,1,0,0,12,79.21,121.27,2.213,0.0633,legit
+tx_00527,acct_114,26/9/2025 07:48,7.8,4,2.56,VND,7995,Betting/Gambling,online,,Bangkok,17.26,0,0,0,14,13.89,-81.57,0.184,0.0698,legit
+tx_00528,acct_189,20/9/2025 21:00,21,5,91.44,USD,5411,Grocery Stores,physical,Tokyo,,0.76,1,0,1,15,25.92,252.73,3.527,0.8449,fraudulent
+tx_00529,acct_055,26/9/2025 23:46,23.767,4,16.41,VND,5960,Direct Marketing,online,,Sydney,2.19,0,0,0,18,21.57,-23.93,0.761,0.0067,legit
+tx_00530,acct_074,9/9/2025 00:05,0.083,1,122.35,USD,5999,Misc Retail,online,,Jakarta,4.21,0,0,1,5,49.99,144.77,2.448,0.4945,fraudulent
+tx_00531,acct_060,8/9/2025 15:44,15.733,0,155.6,USD,5732,Electronics Stores,physical,Sydney,,5.8,1,0,1,17,33.37,366.22,4.662,0.987,fraudulent
+tx_00532,acct_056,5/9/2025 18:38,18.633,4,4.13,USD,5813,"Bars, Taverns",physical,Tokyo,,1.86,1,0,1,14,18.45,-77.62,0.224,0.0317,legit
+tx_00533,acct_151,23/9/2025 23:24,23.4,1,8.04,USD,5977,Cosmetics Stores,online,,Tokyo,0.35,0,0,1,12,44.81,-82.06,0.179,0.0329,legit
+tx_00534,acct_126,8/9/2025 04:55,4.917,0,153.58,USD,5411,Grocery Stores,physical,New York,,0.79,1,0,1,14,40.65,277.79,3.778,0.9086,fraudulent
+tx_00535,acct_134,17/9/2025 08:49,8.817,2,10.14,VND,4121,Taxicabs/Limousines,physical,Hai Phong,,12.02,1,0,0,13,35.59,-71.51,0.285,0.0064,legit
+tx_00536,acct_076,23/9/2025 11:43,11.717,1,71.21,USD,5813,"Bars, Taverns",online,,Bangkok,7.93,0,0,1,19,34.42,106.9,2.069,0.1446,legit
+tx_00537,acct_057,24/9/2025 21:48,21.8,2,117.18,USD,5732,Electronics Stores,online,,Ho Chi Minh City,8.46,0,0,1,18,53.1,120.66,2.207,0.1852,legit
+tx_00538,acct_143,31/8/2025 00:51,0.85,6,9.24,USD,5813,"Bars, Taverns",physical,Sydney,,0.29,1,0,1,22,11.53,-19.85,0.802,0.0145,legit
+tx_00539,acct_034,14/9/2025 08:38,8.633,6,23.95,USD,5813,"Bars, Taverns",physical,Jakarta,,6.58,1,0,1,24,26.96,-11.17,0.888,0.0119,legit
+tx_00540,acct_165,27/9/2025 14:51,14.85,5,1569.31,USD,5812,"Eating Places, Restaurants",physical,Manila,,2.83,1,0,1,13,45.76,3329.66,34.297,1,fraudulent
+tx_00541,acct_023,17/9/2025 03:57,3.95,2,68.68,VND,7995,Betting/Gambling,online,,Singapore,0.78,0,1,0,11,74.72,-8.08,0.919,0.2498,legit
+tx_00542,acct_096,22/9/2025 18:54,18.9,0,13.01,VND,4829,Money Transfer,physical,Da Nang,,16.06,1,0,0,9,39.2,-66.81,0.332,0.1312,legit
+tx_00543,acct_048,25/9/2025 19:09,19.15,3,22.14,USD,5960,Direct Marketing,physical,Tokyo,,3.04,1,1,1,13,20.7,6.97,1.07,0.1599,legit
+tx_00544,acct_055,8/9/2025 02:36,2.6,0,31.1,USD,5311,Department Stores,online,,Kuala Lumpur,1.18,0,0,1,18,21.57,44.17,1.442,0.0318,legit
+tx_00545,acct_003,17/9/2025 08:39,8.65,2,166.45,VND,5999,Misc Retail,physical,Can Tho,,2.97,1,0,0,12,52.48,217.16,3.172,0.5062,legit
+tx_00546,acct_191,18/9/2025 08:18,8.3,3,190.46,USD,7011,Hotels,physical,Bangkok,,8.07,1,0,1,15,90.55,110.35,2.103,0.2408,legit
+tx_00547,acct_178,15/9/2025 03:23,3.383,0,26.27,USD,7995,Betting/Gambling,physical,Bangkok,,12.32,1,0,1,14,22.4,17.3,1.173,0.3215,legit
+tx_00548,acct_141,10/9/2025 15:06,15.1,2,95.19,USD,4121,Taxicabs/Limousines,physical,London,,2.96,1,0,1,11,75.28,26.45,1.265,0.0558,legit
+tx_00549,acct_136,16/9/2025 23:28,23.467,1,20.12,USD,4829,Money Transfer,physical,Manila,,3.64,1,0,1,16,40.42,-50.23,0.498,0.2501,legit
+tx_00550,acct_131,12/9/2025 09:36,9.6,4,8.38,USD,5977,Cosmetics Stores,physical,Toronto,,6.32,1,0,1,20,24.99,-66.47,0.335,0.0151,legit
+tx_00551,acct_194,3/9/2025 06:10,6.167,2,95.45,USD,5960,Direct Marketing,online,,Jakarta,22.12,0,0,1,11,48.41,97.18,1.972,0.3009,legit
+tx_00552,acct_105,23/9/2025 12:15,12.25,1,9.07,VND,5411,Grocery Stores,online,,Hanoi,0.04,0,0,0,22,27.49,-67.01,0.33,0.0017,legit
+tx_00553,acct_066,24/9/2025 12:26,12.433,2,6.67,USD,7995,Betting/Gambling,physical,Los Angeles,,4.87,1,0,1,11,19.49,-65.77,0.342,0.3107,legit
+tx_00554,acct_075,5/9/2025 08:32,8.533,4,12.5,USD,5814,Fast Food,physical,New York,,11.39,1,0,1,20,12.58,-0.66,0.993,0.013,legit
+tx_00555,acct_145,4/9/2025 13:24,13.4,3,144.55,USD,5960,Direct Marketing,physical,Jakarta,,9.49,1,0,1,16,34.62,317.52,4.175,0.9793,fraudulent
+tx_00556,acct_065,25/9/2025 01:33,1.55,3,58.3,USD,5960,Direct Marketing,physical,Toronto,,13.46,1,0,1,23,55.36,5.31,1.053,0.0201,fraudulent
+tx_00557,acct_117,13/9/2025 09:11,9.183,5,24.3,VND,5814,Fast Food,online,,Hai Phong,5.77,0,0,0,8,30.09,-19.23,0.808,0.0096,legit
+tx_00558,acct_184,24/9/2025 23:41,23.683,2,13.53,USD,7995,Betting/Gambling,physical,Tokyo,,16.4,1,0,1,17,34.88,-61.21,0.388,0.1994,legit
+tx_00559,acct_164,21/9/2025 16:34,16.567,6,576.69,VND,7011,Hotels,physical,Da Nang,,3.48,1,0,0,15,82.59,598.27,6.983,0.9996,fraudulent
+tx_00560,acct_171,13/9/2025 03:59,3.983,5,35.74,VND,5411,Grocery Stores,physical,Hai Phong,,0.69,1,0,0,20,20.11,77.68,1.777,0.0099,legit
+tx_00561,acct_161,18/9/2025 15:26,15.433,3,27.53,VND,5999,Misc Retail,online,,Phnom Penh,1.34,0,0,0,12,37.42,-26.42,0.736,0.0059,legit
+tx_00562,acct_129,3/9/2025 12:39,12.65,2,156.96,USD,5311,Department Stores,physical,Toronto,,7.11,1,0,1,7,99.37,57.95,1.58,0.1154,legit
+tx_00563,acct_168,1/9/2025 11:39,11.65,0,10.98,USD,5311,Department Stores,physical,Tokyo,,2.51,1,0,1,12,22.41,-51.01,0.49,0.0242,legit
+tx_00564,acct_105,14/9/2025 12:47,12.783,6,26.01,USD,5411,Grocery Stores,physical,Singapore,,4.25,1,0,1,22,27.49,-5.39,0.946,0.0077,legit
+tx_00565,acct_137,19/9/2025 23:39,23.65,4,6.73,USD,7011,Hotels,physical,Los Angeles,,1.82,1,0,1,16,21.13,-68.16,0.318,0.0305,legit
+tx_00566,acct_045,28/9/2025 17:21,17.35,6,12.5,VND,5812,"Eating Places, Restaurants",physical,Hai Phong,,16.84,1,0,0,16,23.58,-46.98,0.53,0.0037,legit
+tx_00567,acct_061,15/9/2025 14:57,14.95,0,12.74,USD,5999,Misc Retail,physical,Manila,,0.11,1,0,1,12,79.21,-83.92,0.161,0.0261,legit
+tx_00568,acct_068,12/9/2025 23:25,23.417,4,46.8,USD,5960,Direct Marketing,physical,New York,,10.37,1,0,1,14,63.42,-26.21,0.738,0.0434,legit
+tx_00569,acct_117,2/9/2025 19:30,19.5,1,45.15,USD,7995,Betting/Gambling,online,,Kuala Lumpur,0.43,0,0,1,8,30.09,50.07,1.501,0.6229,legit
+tx_00570,acct_175,17/9/2025 21:22,21.367,2,117.86,VND,5960,Direct Marketing,physical,Ho Chi Minh City,,22.61,1,0,0,16,46.64,152.73,2.527,0.1503,fraudulent
+tx_00571,acct_023,26/9/2025 16:03,16.05,4,240.08,USD,5813,"Bars, Taverns",physical,Toronto,,7.73,1,0,1,11,74.72,221.31,3.213,0.8919,fraudulent
+tx_00572,acct_014,21/9/2025 04:13,4.217,6,26.68,VND,4829,Money Transfer,online,,Toronto,13.53,0,0,0,15,30.9,-13.64,0.864,0.0764,legit
+tx_00573,acct_111,25/9/2025 23:07,23.117,3,10.43,VND,4829,Money Transfer,physical,Can Tho,,3.59,1,0,0,14,22.06,-52.72,0.473,0.0833,legit
+tx_00574,acct_135,13/9/2025 20:45,20.75,5,25.06,USD,5977,Cosmetics Stores,physical,Toronto,,9.04,1,0,1,17,45.09,-44.42,0.556,0.0203,legit
+tx_00575,acct_069,18/9/2025 16:18,16.3,3,92.04,USD,5411,Grocery Stores,physical,Singapore,,21.55,1,0,1,16,62.32,47.69,1.477,0.0358,legit
+tx_00576,acct_139,11/9/2025 06:13,6.217,3,990.85,USD,7995,Betting/Gambling,physical,Jakarta,,0.94,1,0,1,11,94.94,943.7,10.437,1,fraudulent
+tx_00577,acct_004,23/9/2025 15:55,15.917,1,109.37,USD,7011,Hotels,physical,New York,,8.12,1,0,1,15,38.29,185.64,2.856,0.5885,fraudulent
+tx_00578,acct_019,25/9/2025 00:44,0.733,3,68.73,USD,5732,Electronics Stores,physical,New York,,0.85,1,0,1,14,57.9,18.7,1.187,0.0421,legit
+tx_00579,acct_173,27/9/2025 05:28,5.467,5,55.22,VND,5977,Cosmetics Stores,physical,Hai Phong,,5.25,1,0,0,17,18.42,199.77,2.998,0.2008,legit
+tx_00580,acct_176,19/9/2025 14:28,14.467,4,31.58,USD,4829,Money Transfer,physical,Manila,,2.16,1,0,1,13,38.7,-18.4,0.816,0.3103,fraudulent
+tx_00581,acct_013,18/9/2025 17:56,17.933,3,4.7,VND,5812,"Eating Places, Restaurants",physical,Da Nang,,6.14,1,0,0,10,10.22,-54,0.46,0.0067,legit
+tx_00582,acct_087,11/9/2025 02:46,2.767,3,75.14,USD,7995,Betting/Gambling,physical,New York,,12.11,1,0,1,16,21.66,246.93,3.469,0.9884,fraudulent
+tx_00583,acct_198,4/9/2025 03:48,3.8,3,4.94,USD,4121,Taxicabs/Limousines,physical,London,,11.22,1,0,1,13,25.37,-80.53,0.195,0.0278,legit
+tx_00584,acct_125,7/9/2025 03:02,3.033,6,43.39,USD,5999,Misc Retail,physical,New York,,0.45,1,0,1,17,23.11,87.74,1.877,0.0859,legit
+tx_00585,acct_110,29/9/2025 03:48,3.8,0,78.87,USD,5814,Fast Food,physical,New York,,5.45,1,0,1,15,34.66,127.58,2.276,0.2167,fraudulent
+tx_00586,acct_021,4/9/2025 09:08,9.133,3,85.82,USD,5960,Direct Marketing,physical,Bangkok,,0.51,1,0,1,14,59.46,44.33,1.443,0.0986,legit
+tx_00587,acct_182,2/9/2025 04:25,4.417,1,47.85,USD,5812,"Eating Places, Restaurants",physical,New York,,5.29,1,0,1,11,46.82,2.21,1.022,0.0278,legit
+tx_00588,acct_182,23/9/2025 10:12,10.2,1,20.95,USD,5960,Direct Marketing,physical,New York,,4.21,1,0,1,11,46.82,-55.25,0.447,0.0575,legit
+tx_00589,acct_081,16/9/2025 09:34,9.567,1,205.49,USD,4121,Taxicabs/Limousines,physical,Kuala Lumpur,,1.93,1,0,1,20,55.23,272.08,3.721,0.879,fraudulent
+tx_00590,acct_113,26/9/2025 21:19,21.317,4,12.79,VND,4121,Taxicabs/Limousines,physical,Hai Phong,,7.52,1,0,0,18,23.61,-45.83,0.542,0.0039,legit
+tx_00591,acct_022,18/9/2025 13:03,13.05,3,4.3,USD,5814,Fast Food,physical,Tokyo,,3.71,1,0,1,22,53.92,-92.03,0.08,0.0106,legit
+tx_00592,acct_131,1/9/2025 08:58,8.967,0,28.03,USD,5813,"Bars, Taverns",physical,Manila,,3.56,1,0,1,20,24.99,12.16,1.122,0.0224,legit
+tx_00593,acct_141,23/9/2025 08:32,8.533,1,56.41,USD,5812,"Eating Places, Restaurants",physical,Jakarta,,0.27,1,0,1,11,75.28,-25.06,0.749,0.0266,legit
+tx_00594,acct_098,14/9/2025 14:07,14.117,6,20.77,VND,5411,Grocery Stores,physical,Da Nang,,1.69,1,0,0,17,23.25,-10.67,0.893,0.0028,legit
+tx_00595,acct_185,4/9/2025 23:13,23.217,3,9.16,USD,5977,Cosmetics Stores,online,,Sydney,19.56,0,0,1,11,30.16,-69.63,0.304,0.0367,fraudulent
+tx_00596,acct_043,14/9/2025 12:24,12.4,6,31.76,USD,4829,Money Transfer,physical,Singapore,,3.06,1,0,1,10,14.28,122.4,2.224,0.8754,fraudulent
+tx_00597,acct_077,15/9/2025 21:25,21.417,0,28.62,VND,5732,Electronics Stores,physical,Nha Trang,,4.36,1,0,0,17,17.35,65,1.65,0.018,legit
+tx_00598,acct_111,4/9/2025 12:57,12.95,3,56.85,VND,5732,Electronics Stores,physical,Da Nang,,3.78,1,0,0,14,22.06,157.72,2.577,0.1367,legit
+tx_00599,acct_092,10/9/2025 16:20,16.333,2,43.62,USD,5732,Electronics Stores,physical,Toronto,,4.16,1,0,1,9,18.38,137.36,2.374,0.4378,legit
+tx_00600,acct_152,8/9/2025 07:40,7.667,0,17.63,VND,7995,Betting/Gambling,physical,Hai Phong,,9.72,1,0,0,12,31.06,-43.23,0.568,0.0836,legit
+tx_00601,acct_077,3/9/2025 19:50,19.833,2,3.3,USD,5411,Grocery Stores,physical,New York,,1.89,1,0,1,17,17.35,-80.98,0.19,0.0126,legit
+tx_00602,acct_084,18/9/2025 16:25,16.417,3,2.99,VND,5311,Department Stores,physical,Hai Phong,,12.35,1,0,0,17,15.54,-80.76,0.192,0.0034,legit
+tx_00603,acct_076,16/9/2025 02:19,2.317,1,11.5,USD,4121,Taxicabs/Limousines,online,,Toronto,0.85,0,0,1,19,34.42,-66.59,0.334,0.0154,legit
+tx_00604,acct_080,11/9/2025 15:20,15.333,3,93.33,USD,5814,Fast Food,physical,Jakarta,,4.13,1,0,1,15,22.26,319.21,4.192,0.966,fraudulent
+tx_00605,acct_074,13/9/2025 23:14,23.233,5,55.06,USD,4829,Money Transfer,physical,Bangkok,,0.17,1,0,1,5,49.99,10.15,1.101,0.5506,fraudulent
+tx_00606,acct_083,27/9/2025 15:06,15.1,5,54.57,USD,5813,"Bars, Taverns",online,,Manila,11.86,0,0,1,17,27.09,101.41,2.014,0.1565,legit
+tx_00607,acct_029,28/9/2025 12:47,12.783,6,13.39,USD,5977,Cosmetics Stores,physical,Tokyo,,14.86,1,0,1,13,24.27,-44.82,0.552,0.0301,legit
+tx_00608,acct_046,13/9/2025 20:54,20.9,5,46.71,USD,4829,Money Transfer,physical,London,,5.21,1,0,1,18,17.51,166.8,2.668,0.8849,fraudulent
+tx_00609,acct_181,26/9/2025 01:53,1.883,4,27.98,VND,5999,Misc Retail,online,,Los Angeles,3.29,0,1,0,16,16.81,66.41,1.664,0.0479,legit
+tx_00610,acct_172,14/9/2025 10:01,10.017,6,89.73,USD,5311,Department Stores,physical,Bangkok,,1.78,1,0,1,23,44.73,100.62,2.006,0.0581,legit
+tx_00611,acct_064,25/9/2025 19:58,19.967,3,106.19,USD,4829,Money Transfer,online,,Da Nang,7.58,0,0,1,12,25.33,319.18,4.192,0.9985,fraudulent
+tx_00612,acct_114,26/9/2025 17:47,17.783,4,22.04,USD,7011,Hotels,physical,New York,,0.27,1,0,1,14,13.89,58.68,1.587,0.1104,legit
+tx_00613,acct_136,14/9/2025 14:26,14.433,6,88.52,USD,7995,Betting/Gambling,online,,Tokyo,19.75,0,0,1,16,40.42,118.99,2.19,0.7487,fraudulent
+tx_00614,acct_009,6/9/2025 03:47,3.783,5,922.87,USD,5960,Direct Marketing,physical,Tokyo,,4.04,1,0,1,14,35.39,2507.39,26.074,1,fraudulent
+tx_00615,acct_152,27/9/2025 14:00,14,5,22.21,USD,4829,Money Transfer,physical,Bangkok,,3.08,1,0,1,12,31.06,-28.48,0.715,0.3322,legit
+tx_00616,acct_168,21/9/2025 13:37,13.617,6,8.19,VND,4829,Money Transfer,physical,Ho Chi Minh City,,2.92,1,0,0,12,22.41,-63.46,0.365,0.0999,fraudulent
+tx_00617,acct_144,6/9/2025 13:34,13.567,5,83.25,USD,7011,Hotels,physical,New York,,7.03,1,0,1,15,81.57,2.06,1.021,0.0351,legit
+tx_00618,acct_192,24/9/2025 00:37,0.617,2,64.2,VND,4121,Taxicabs/Limousines,online,,Hanoi,2.44,0,0,0,17,38.14,68.31,1.683,0.0164,fraudulent
+tx_00619,acct_025,26/9/2025 21:13,21.217,4,426.68,USD,5732,Electronics Stores,physical,Sydney,,12.63,1,0,1,16,83.33,412.03,5.12,0.9953,fraudulent
+tx_00620,acct_142,2/9/2025 16:48,16.8,1,27.79,USD,7995,Betting/Gambling,physical,London,,3.18,1,0,1,15,62.49,-55.53,0.445,0.2318,legit
+tx_00621,acct_095,16/9/2025 04:30,4.5,1,79.59,USD,5813,"Bars, Taverns",online,,Hai Phong,6.91,0,0,1,24,15.76,405.1,5.051,0.9889,fraudulent
+tx_00622,acct_088,1/9/2025 21:32,21.533,0,16.29,USD,7011,Hotels,physical,Kuala Lumpur,,3.7,1,0,1,12,4.74,243.95,3.439,0.9322,fraudulent
+tx_00623,acct_106,1/9/2025 16:22,16.367,0,26.15,VND,5977,Cosmetics Stores,physical,Hai Phong,,1.42,1,0,0,25,40.23,-34.99,0.65,0.0021,legit
+tx_00624,acct_089,23/9/2025 17:48,17.8,1,15.45,USD,5732,Electronics Stores,physical,Phnom Penh,,3.32,1,0,1,15,17.91,-13.74,0.863,0.0266,legit
+tx_00625,acct_133,5/9/2025 04:09,4.15,4,10.45,USD,5311,Department Stores,physical,London,,2.66,1,0,1,15,23.11,-54.79,0.452,0.018,legit
+tx_00626,acct_184,10/9/2025 13:36,13.6,2,32.73,USD,4829,Money Transfer,physical,Kuala Lumpur,,7.06,1,0,1,17,34.88,-6.17,0.938,0.2322,legit
+tx_00627,acct_011,16/9/2025 20:53,20.883,1,47.61,USD,5960,Direct Marketing,physical,Jakarta,,9.79,1,0,1,13,100.62,-52.68,0.473,0.0477,legit
+tx_00628,acct_165,24/9/2025 12:25,12.417,2,22.44,USD,5812,"Eating Places, Restaurants",online,,Sydney,1.76,0,0,1,13,45.76,-50.96,0.49,0.0219,legit
+tx_00629,acct_044,6/9/2025 19:19,19.317,5,13.44,USD,7995,Betting/Gambling,physical,Los Angeles,,6.82,1,0,1,18,18.28,-26.47,0.735,0.183,legit
+tx_00630,acct_118,5/9/2025 15:27,15.45,4,57,VND,5999,Misc Retail,physical,Nha Trang,,1.46,1,0,0,19,40.19,41.82,1.418,0.0068,legit
+tx_00631,acct_047,22/9/2025 06:01,6.017,0,107.55,VND,4829,Money Transfer,physical,Hanoi,,0.08,1,0,0,23,44,144.44,2.444,0.3986,fraudulent
+tx_00632,acct_188,6/9/2025 04:10,4.167,5,296.55,USD,7995,Betting/Gambling,physical,Los Angeles,,5.42,1,0,1,15,68.08,335.57,4.356,0.9982,fraudulent
+tx_00633,acct_099,12/9/2025 05:26,5.433,4,81.61,USD,5411,Grocery Stores,physical,Singapore,,3.07,1,0,1,13,55.13,48.02,1.48,0.0475,legit
+tx_00634,acct_192,9/9/2025 08:56,8.933,1,84.72,VND,4829,Money Transfer,online,,Tokyo,9.73,0,0,0,17,38.14,122.11,2.221,0.4373,fraudulent
+tx_00635,acct_047,20/9/2025 14:42,14.7,5,74.06,VND,4121,Taxicabs/Limousines,physical,Can Tho,,2.79,1,0,0,23,44,68.32,1.683,0.0091,legit
+tx_00636,acct_067,26/9/2025 10:30,10.5,4,15.38,USD,4829,Money Transfer,physical,Jakarta,,4.14,1,1,1,21,36.32,-57.65,0.424,0.4019,fraudulent
+tx_00637,acct_152,1/9/2025 19:04,19.067,0,21.36,VND,5813,"Bars, Taverns",physical,Can Tho,,9.9,1,0,0,12,31.06,-31.22,0.688,0.0089,legit
+tx_00638,acct_089,26/9/2025 21:24,21.4,4,3.69,VND,4121,Taxicabs/Limousines,physical,Nha Trang,,2358.45,1,0,0,15,17.91,-79.4,0.206,0.0209,legit
+tx_00639,acct_172,30/8/2025 20:23,20.383,5,74.14,VND,4829,Money Transfer,physical,Da Nang,,0.9,1,0,0,23,44.73,65.77,1.658,0.1209,legit
+tx_00640,acct_172,22/9/2025 06:15,6.25,0,61.9,USD,5814,Fast Food,physical,Kuala Lumpur,,0.9,1,0,1,23,44.73,38.4,1.384,0.0204,legit
+tx_00641,acct_029,15/9/2025 12:43,12.717,0,57.56,USD,5814,Fast Food,physical,Sydney,,3.29,1,0,1,13,24.27,137.21,2.372,0.2903,legit
+tx_00642,acct_099,2/9/2025 21:49,21.817,1,176.83,USD,5813,"Bars, Taverns",physical,New York,,1.81,1,0,1,13,55.13,220.73,3.207,0.8694,fraudulent
+tx_00643,acct_108,20/9/2025 13:58,13.967,5,22.83,VND,5814,Fast Food,physical,Nha Trang,,3.74,1,0,0,18,18.11,26.07,1.261,0.006,legit
+tx_00644,acct_142,15/9/2025 17:26,17.433,0,12.13,VND,5814,Fast Food,physical,Nha Trang,,1.9,1,1,0,15,62.49,-80.59,0.194,0.0157,fraudulent
+tx_00645,acct_080,5/9/2025 18:36,18.6,4,11.17,USD,5960,Direct Marketing,physical,Manila,,13.48,1,0,1,15,22.26,-49.83,0.502,0.0395,legit
+tx_00646,acct_002,13/9/2025 11:58,11.967,5,53.91,USD,5311,Department Stores,physical,New York,,1.2,1,0,1,20,85.42,-36.88,0.631,0.011,legit
+tx_00647,acct_143,26/9/2025 21:41,21.683,4,20.35,USD,7995,Betting/Gambling,physical,Toronto,,0.85,1,0,1,22,11.53,76.53,1.765,0.4088,fraudulent
+tx_00648,acct_106,31/8/2025 03:52,3.867,6,29.95,VND,4829,Money Transfer,physical,Nha Trang,,2.98,1,0,0,25,40.23,-25.54,0.745,0.0294,fraudulent
+tx_00649,acct_021,1/9/2025 05:43,5.717,0,18.77,USD,7995,Betting/Gambling,online,,Kuala Lumpur,1.98,0,0,1,14,59.46,-68.43,0.316,0.25,legit
+tx_00650,acct_008,10/9/2025 23:56,23.933,2,52.64,VND,5732,Electronics Stores,physical,Nha Trang,,1.81,1,0,0,17,23.89,120.36,2.204,0.0526,legit
+tx_00651,acct_199,31/8/2025 21:04,21.067,6,20.47,USD,5311,Department Stores,online,,Tokyo,2.08,0,0,1,19,41.53,-50.71,0.493,0.0121,legit
+tx_00652,acct_130,23/9/2025 14:39,14.65,1,38.54,USD,5812,"Eating Places, Restaurants",physical,Tokyo,,3.13,1,0,1,17,67.2,-42.65,0.574,0.0148,legit
+tx_00653,acct_093,19/9/2025 04:57,4.95,4,17.43,USD,7995,Betting/Gambling,online,,Tokyo,11.55,0,0,1,24,43.7,-60.11,0.399,0.1098,legit
+tx_00654,acct_055,2/9/2025 10:19,10.317,1,6.08,USD,7011,Hotels,physical,Bangkok,,1.11,1,0,1,18,21.57,-71.82,0.282,0.0251,legit
+tx_00655,acct_076,28/9/2025 06:56,6.933,6,24.23,USD,5960,Direct Marketing,physical,Singapore,,3.3,1,0,1,19,34.42,-29.6,0.704,0.0266,legit
+tx_00656,acct_089,23/9/2025 08:44,8.733,1,22.95,VND,5960,Direct Marketing,physical,Can Tho,,2.65,1,1,0,15,17.91,28.14,1.281,0.0504,legit
+tx_00657,acct_198,12/9/2025 12:43,12.717,4,52.56,USD,5960,Direct Marketing,physical,Manila,,5.24,1,0,1,13,25.37,107.2,2.072,0.2988,legit
+tx_00658,acct_181,26/9/2025 21:15,21.25,4,6,VND,7995,Betting/Gambling,physical,Hai Phong,,7.27,1,0,0,16,16.81,-64.31,0.357,0.0576,legit
+tx_00659,acct_052,3/9/2025 10:25,10.417,2,36.34,USD,5960,Direct Marketing,online,,Tokyo,7.2,0,0,1,18,45.29,-19.77,0.802,0.0294,legit
+tx_00660,acct_071,28/9/2025 17:57,17.95,6,116.07,USD,7995,Betting/Gambling,physical,Kuala Lumpur,,5.66,1,0,1,22,65.45,77.33,1.773,0.4134,legit
+tx_00661,acct_074,17/9/2025 03:38,3.633,2,7.49,USD,7995,Betting/Gambling,online,,Can Tho,0.68,0,0,1,5,49.99,-85.02,0.15,0.4503,legit
+tx_00662,acct_034,15/9/2025 18:36,18.6,0,82.93,VND,7011,Hotels,online,,Singapore,2.86,0,0,0,24,26.96,207.6,3.076,0.3087,legit
+tx_00663,acct_167,28/9/2025 17:50,17.833,6,27.86,USD,5814,Fast Food,online,,Hai Phong,9.01,0,0,1,10,104.13,-73.25,0.268,0.0344,legit
+tx_00664,acct_182,15/9/2025 20:15,20.25,0,47.11,USD,4121,Taxicabs/Limousines,physical,New York,,0.44,1,0,1,11,46.82,0.63,1.006,0.034,legit
+tx_00665,acct_125,2/9/2025 09:43,9.717,1,11.9,USD,5814,Fast Food,physical,Los Angeles,,1.03,1,0,1,17,23.11,-48.51,0.515,0.0173,legit
+tx_00666,acct_096,18/9/2025 06:52,6.867,3,22.03,VND,5311,Department Stores,physical,Da Nang,,8.2,1,0,0,9,39.2,-43.8,0.562,0.0074,legit
+tx_00667,acct_103,3/9/2025 21:50,21.833,2,32.19,USD,7995,Betting/Gambling,physical,Manila,,6.88,1,0,1,16,64.02,-49.72,0.503,0.2149,legit
+tx_00668,acct_116,5/9/2025 17:16,17.267,4,54.97,VND,7011,Hotels,physical,Hanoi,,0.83,1,0,0,10,55.4,-0.78,0.992,0.0126,legit
+tx_00669,acct_198,12/9/2025 00:58,0.967,4,29.34,USD,5960,Direct Marketing,physical,London,,2.98,1,0,1,13,25.37,15.66,1.157,0.0639,legit
+tx_00670,acct_162,17/9/2025 15:03,15.05,2,680.26,VND,4829,Money Transfer,physical,Da Nang,,0.1,1,0,0,20,91.13,646.47,7.465,1,fraudulent
+tx_00671,acct_136,1/9/2025 17:22,17.367,0,21.29,USD,5813,"Bars, Taverns",online,,Toronto,8.11,0,0,1,16,40.42,-47.33,0.527,0.0262,legit
+tx_00672,acct_068,1/9/2025 06:37,6.617,0,82.37,USD,4121,Taxicabs/Limousines,physical,Tokyo,,0.17,1,0,1,14,63.42,29.87,1.299,0.0447,legit
+tx_00673,acct_147,18/9/2025 17:08,17.133,3,13.63,USD,5814,Fast Food,online,,Ho Chi Minh City,3.5,0,0,1,18,32.47,-58.03,0.42,0.0157,legit
+tx_00674,acct_011,12/9/2025 16:05,16.083,4,56.9,USD,5812,"Eating Places, Restaurants",online,,Hanoi,3344.39,0,0,1,13,100.62,-43.45,0.565,0.1427,legit
+tx_00675,acct_031,27/9/2025 10:06,10.1,5,3.51,USD,5977,Cosmetics Stores,physical,London,,0.68,1,0,1,22,40.34,-91.3,0.087,0.0124,legit
+tx_00676,acct_000,28/9/2025 12:58,12.967,6,12.44,VND,7011,Hotels,physical,Hai Phong,,0.35,1,0,0,19,44.61,-72.12,0.279,0.0052,legit
+tx_00677,acct_166,16/9/2025 21:18,21.3,1,108.97,USD,5732,Electronics Stores,online,,Da Nang,1.06,0,0,1,17,57.73,88.77,1.888,0.1167,legit
+tx_00678,acct_167,27/9/2025 10:23,10.383,5,114.46,VND,4121,Taxicabs/Limousines,physical,Nha Trang,,10.58,1,0,0,10,104.13,9.92,1.099,0.0104,legit
+tx_00679,acct_013,21/9/2025 09:58,9.967,6,4.37,USD,5813,"Bars, Taverns",physical,Bangkok,,3.09,1,0,1,10,10.22,-57.23,0.428,0.0466,legit
+tx_00680,acct_109,7/9/2025 01:47,1.783,6,23.3,VND,4829,Money Transfer,online,,Phnom Penh,1.54,0,0,0,10,15.98,45.79,1.458,0.2529,fraudulent
+tx_00681,acct_122,16/9/2025 04:23,4.383,1,79.61,USD,5812,"Eating Places, Restaurants",physical,Sydney,,16.4,1,0,1,7,120.53,-33.95,0.66,0.0395,legit
+tx_00682,acct_174,14/9/2025 02:23,2.383,6,13.46,USD,5311,Department Stores,physical,Jakarta,,4.96,1,0,1,14,22.25,-39.51,0.605,0.0199,legit
+tx_00683,acct_030,3/9/2025 20:41,20.683,2,239.34,VND,7011,Hotels,physical,Hai Phong,,3.3,1,0,0,20,57.35,317.3,4.173,0.8567,fraudulent
+tx_00684,acct_122,26/9/2025 16:51,16.85,4,122.34,VND,5812,"Eating Places, Restaurants",physical,Can Tho,,1.33,1,0,0,7,120.53,1.5,1.015,0.0093,legit
+tx_00685,acct_026,22/9/2025 08:01,8.017,0,9.49,VND,4121,Taxicabs/Limousines,online,,New York,3.49,0,0,0,14,34.89,-72.8,0.272,0.0057,legit
+tx_00686,acct_198,14/9/2025 18:22,18.367,6,36.45,VND,5960,Direct Marketing,online,,Da Nang,13.47,0,0,0,13,25.37,43.69,1.437,0.0261,legit
+tx_00687,acct_135,14/9/2025 10:05,10.083,6,29.42,VND,7995,Betting/Gambling,physical,Nha Trang,,1.46,1,0,0,17,45.09,-34.75,0.652,0.0522,legit
+tx_00688,acct_112,16/9/2025 06:03,6.05,1,58.53,VND,4121,Taxicabs/Limousines,physical,Hai Phong,,4.17,1,0,0,17,42.43,37.96,1.38,0.009,legit
+tx_00689,acct_105,1/9/2025 11:47,11.783,0,11.1,USD,7995,Betting/Gambling,physical,Phnom Penh,,11.27,1,0,1,22,27.49,-59.62,0.404,0.1309,fraudulent
+tx_00690,acct_022,1/9/2025 06:39,6.65,0,57.88,VND,5977,Cosmetics Stores,physical,Can Tho,,2.07,1,0,0,22,53.92,7.34,1.073,0.0032,legit
+tx_00691,acct_150,9/9/2025 19:10,19.167,1,11.23,USD,4829,Money Transfer,physical,Los Angeles,,0.64,1,0,1,12,18.33,-38.74,0.613,0.3319,fraudulent
+tx_00692,acct_080,9/9/2025 04:45,4.75,1,34.89,VND,5960,Direct Marketing,physical,Da Nang,,1.93,1,1,0,15,22.26,56.72,1.567,0.0859,fraudulent
+tx_00693,acct_063,8/9/2025 01:23,1.383,0,35.74,USD,7995,Betting/Gambling,physical,Kuala Lumpur,,4073.82,1,0,1,13,44.23,-19.2,0.808,0.8091,fraudulent
+tx_00694,acct_199,18/9/2025 00:53,0.883,3,46.61,USD,7011,Hotels,physical,Kuala Lumpur,,0.12,1,0,1,19,41.53,12.24,1.122,0.0289,legit
+tx_00695,acct_052,26/9/2025 12:05,12.083,4,62.49,USD,7995,Betting/Gambling,physical,New York,,0.28,1,0,1,18,45.29,37.97,1.38,0.3229,fraudulent
+tx_00696,acct_075,14/9/2025 10:41,10.683,6,42.23,USD,4829,Money Transfer,online,,Toronto,0.41,0,0,1,20,12.58,235.6,3.356,0.9822,fraudulent
+tx_00697,acct_098,31/8/2025 14:20,14.333,6,47.84,VND,5812,"Eating Places, Restaurants",physical,Da Nang,,5.1,1,0,0,17,23.25,105.75,2.057,0.0271,legit
+tx_00698,acct_135,3/9/2025 09:54,9.9,2,110,USD,5977,Cosmetics Stores,physical,Manila,,0.16,1,0,1,17,45.09,143.96,2.44,0.2688,legit
+tx_00699,acct_081,19/9/2025 03:20,3.333,4,30.59,USD,5814,Fast Food,online,,Manila,5.32,0,0,1,20,55.23,-44.61,0.554,0.0129,legit
+tx_00700,acct_139,13/9/2025 15:35,15.583,5,57.19,VND,4829,Money Transfer,online,,Hanoi,6.7,0,0,0,11,94.94,-39.76,0.602,0.1095,fraudulent
+tx_00701,acct_150,3/9/2025 07:28,7.467,2,11.1,VND,5812,"Eating Places, Restaurants",physical,Ho Chi Minh City,,1.33,1,0,0,12,18.33,-39.45,0.606,0.0055,legit
+tx_00702,acct_015,13/9/2025 03:43,3.717,5,361.14,USD,7011,Hotels,physical,Kuala Lumpur,,1.56,1,0,1,20,27.64,1206.49,13.065,1,fraudulent
+tx_00703,acct_160,1/9/2025 13:46,13.767,0,1.59,USD,4829,Money Transfer,online,,New York,3.93,0,0,1,13,12.63,-87.41,0.126,0.3105,legit
+tx_00704,acct_021,23/9/2025 07:20,7.333,1,174.42,VND,4829,Money Transfer,physical,Hai Phong,,3.27,1,0,0,14,59.46,193.33,2.933,0.8128,fraudulent
+tx_00705,acct_071,2/9/2025 09:30,9.5,1,75.16,USD,5812,"Eating Places, Restaurants",physical,Phnom Penh,,4.63,1,0,1,22,65.45,14.83,1.148,0.0121,legit
+tx_00706,acct_039,17/9/2025 10:45,10.75,2,761.73,VND,7995,Betting/Gambling,physical,Da Nang,,1.97,1,0,0,22,145.18,424.69,5.247,0.9973,fraudulent
+tx_00707,acct_079,16/9/2025 18:12,18.2,1,40.1,USD,4829,Money Transfer,online,,Ho Chi Minh City,3.85,0,1,1,16,22.4,79.02,1.79,0.8433,fraudulent
+tx_00708,acct_062,2/9/2025 13:50,13.833,1,33.74,USD,5812,"Eating Places, Restaurants",physical,London,,2.59,1,0,1,22,17.42,93.72,1.937,0.056,legit
+tx_00709,acct_156,31/8/2025 19:16,19.267,6,143.11,VND,7995,Betting/Gambling,physical,Nha Trang,,2.96,1,0,0,17,28.08,409.7,5.097,0.9978,fraudulent
+tx_00710,acct_030,13/9/2025 12:13,12.217,5,26.19,VND,5411,Grocery Stores,physical,Hanoi,,5.86,1,0,0,20,57.35,-54.34,0.457,0.0021,legit
+tx_00711,acct_041,18/9/2025 23:30,23.5,3,30.65,USD,5311,Department Stores,physical,Sydney,,5.48,1,0,1,13,16.42,86.61,1.866,0.1126,legit
+tx_00712,acct_184,23/9/2025 18:03,18.05,1,18.27,USD,5732,Electronics Stores,physical,Singapore,,0.68,1,0,1,17,34.88,-47.62,0.524,0.0219,legit
+tx_00713,acct_187,10/9/2025 09:53,9.883,2,11.53,VND,5977,Cosmetics Stores,online,,Jakarta,1.48,0,0,0,14,25.55,-54.87,0.451,0.0062,legit
+tx_00714,acct_109,16/9/2025 17:11,17.183,1,4.86,VND,5732,Electronics Stores,physical,Da Nang,,1.49,1,0,0,10,15.98,-69.59,0.304,0.01,legit
+tx_00715,acct_127,18/9/2025 16:27,16.45,3,66.78,USD,5311,Department Stores,physical,Toronto,,5.26,1,0,1,18,102.07,-34.58,0.654,0.0134,legit
+tx_00716,acct_145,28/9/2025 01:56,1.933,6,234.01,VND,5814,Fast Food,physical,Can Tho,,0.06,1,0,0,16,34.62,575.92,6.759,0.999,fraudulent
+tx_00717,acct_146,25/9/2025 12:23,12.383,3,41.36,USD,4829,Money Transfer,physical,Sydney,,5.68,1,0,1,16,41.7,-0.81,0.992,0.2504,legit
+tx_00718,acct_000,26/9/2025 10:22,10.367,4,81.57,USD,5411,Grocery Stores,online,,Ho Chi Minh City,3.91,0,0,1,19,44.61,82.84,1.828,0.0521,legit
+tx_00719,acct_120,12/9/2025 10:56,10.933,4,19.01,VND,4121,Taxicabs/Limousines,online,,Ho Chi Minh City,4.67,0,0,0,9,50.1,-62.06,0.379,0.0094,legit
+tx_00720,acct_141,29/9/2025 07:24,7.4,0,31.96,USD,5960,Direct Marketing,online,,Bangkok,7.73,0,0,1,11,75.28,-57.54,0.425,0.0576,legit
+tx_00721,acct_082,12/9/2025 13:41,13.683,4,8.36,USD,5999,Misc Retail,online,,Singapore,4.4,0,0,1,11,16.12,-48.13,0.519,0.0288,legit
+tx_00722,acct_019,27/9/2025 10:56,10.933,5,91.79,VND,7995,Betting/Gambling,physical,Ho Chi Minh City,,7.78,1,0,0,14,57.9,58.52,1.585,0.1939,legit
+tx_00723,acct_045,24/9/2025 06:46,6.767,2,260.2,VND,5999,Misc Retail,physical,Ho Chi Minh City,,0.91,1,0,0,16,23.58,1003.67,11.037,1,fraudulent
+tx_00724,acct_102,4/9/2025 11:47,11.783,3,20.13,USD,5812,"Eating Places, Restaurants",physical,Kuala Lumpur,,4.98,1,0,1,19,29.06,-30.73,0.693,0.0122,legit
+tx_00725,acct_198,13/9/2025 10:12,10.2,5,167.42,USD,5960,Direct Marketing,physical,Tokyo,,0.6,1,0,1,13,25.37,560.01,6.6,0.9999,fraudulent
+tx_00726,acct_116,2/9/2025 10:31,10.517,1,104.56,USD,5411,Grocery Stores,physical,Kuala Lumpur,,0.8,1,1,1,10,55.4,88.73,1.887,0.3352,fraudulent
+tx_00727,acct_189,11/9/2025 22:44,22.733,3,3.88,USD,7995,Betting/Gambling,physical,Toronto,,5.57,1,1,1,15,25.92,-85.03,0.15,0.5008,fraudulent
+tx_00728,acct_197,13/9/2025 09:28,9.467,5,12.62,USD,5960,Direct Marketing,online,,Bangkok,1.07,0,0,1,11,24.86,-49.24,0.508,0.0574,legit
+tx_00729,acct_038,25/9/2025 14:21,14.35,3,36.66,USD,5411,Grocery Stores,physical,Bangkok,,29.81,1,0,1,8,34.33,6.77,1.068,0.0353,legit
+tx_00730,acct_138,11/9/2025 19:11,19.183,3,175.27,VND,4121,Taxicabs/Limousines,online,,Jakarta,2.05,0,0,0,21,114.03,53.71,1.537,0.0083,legit
+tx_00731,acct_000,2/9/2025 15:49,15.817,1,15.91,USD,5960,Direct Marketing,physical,Kuala Lumpur,,1.93,1,0,1,19,44.61,-64.34,0.357,0.0266,legit
+tx_00732,acct_026,3/9/2025 17:17,17.283,2,254.98,USD,5999,Misc Retail,online,,Toronto,11.02,0,0,1,14,34.89,630.79,7.308,0.9999,fraudulent
+tx_00733,acct_015,14/9/2025 20:22,20.367,6,170.58,USD,7011,Hotels,physical,Singapore,,5.5,1,0,1,20,27.64,517.1,6.171,0.9993,fraudulent
+tx_00734,acct_023,28/9/2025 09:23,9.383,6,17.4,USD,5411,Grocery Stores,physical,Sydney,,0.9,1,0,1,11,74.72,-76.71,0.233,0.0228,legit
+tx_00735,acct_105,19/9/2025 22:35,22.583,4,19.44,VND,4829,Money Transfer,physical,Da Nang,,0.38,1,0,0,22,27.49,-29.28,0.707,0.0392,legit
+tx_00736,acct_148,9/9/2025 12:55,12.917,1,135.66,USD,5812,"Eating Places, Restaurants",physical,New York,,3.47,1,0,1,12,41.26,228.77,3.288,0.8426,fraudulent
+tx_00737,acct_019,8/9/2025 10:54,10.9,0,98.07,VND,7995,Betting/Gambling,physical,Hai Phong,,4.12,1,0,0,14,57.9,69.37,1.694,0.2297,legit
+tx_00738,acct_060,11/9/2025 23:57,23.95,3,277.61,USD,5732,Electronics Stores,online,,Jakarta,3.29,0,0,1,17,33.37,731.8,8.318,1,fraudulent
+tx_00739,acct_081,20/9/2025 10:21,10.35,5,96.79,USD,5311,Department Stores,physical,Phnom Penh,,10.65,1,0,1,20,55.23,75.26,1.753,0.0479,legit
+tx_00740,acct_034,9/9/2025 08:05,8.083,1,54.37,VND,5960,Direct Marketing,physical,Hai Phong,,2.19,1,1,0,24,26.96,101.67,2.017,0.0859,legit
+tx_00741,acct_027,6/9/2025 16:34,16.567,5,90.78,USD,5814,Fast Food,physical,Los Angeles,,2.28,1,0,1,22,27.68,228,3.28,0.6945,fraudulent
+tx_00742,acct_030,1/9/2025 05:43,5.717,0,60.15,USD,7995,Betting/Gambling,online,,London,3804.9,0,0,1,20,57.35,4.88,1.049,0.6638,fraudulent
+tx_00743,acct_078,26/9/2025 18:38,18.633,4,46.01,VND,5311,Department Stores,online,,Nha Trang,3.75,0,1,0,16,34.03,35.19,1.352,0.0243,legit
+tx_00744,acct_175,26/9/2025 19:47,19.783,4,28.06,VND,5732,Electronics Stores,online,,Phnom Penh,4.63,0,0,0,16,46.64,-39.83,0.602,0.0055,legit
+tx_00745,acct_083,15/9/2025 14:46,14.767,0,34.57,USD,5814,Fast Food,online,,New York,1.8,0,0,1,17,27.09,27.59,1.276,0.0297,legit
+tx_00746,acct_131,25/9/2025 20:13,20.217,3,42.71,VND,5411,Grocery Stores,physical,Nha Trang,,11.12,1,0,0,20,24.99,70.91,1.709,0.0087,legit
+tx_00747,acct_007,17/9/2025 15:17,15.283,2,11.15,USD,7011,Hotels,online,,Tokyo,1.66,0,0,1,12,14.19,-21.43,0.786,0.0448,legit
+tx_00748,acct_063,14/9/2025 06:55,6.917,6,120.63,VND,5812,"Eating Places, Restaurants",physical,Hai Phong,,11.38,1,0,0,13,44.23,172.71,2.727,0.1372,fraudulent
+tx_00749,acct_031,3/9/2025 16:41,16.683,2,24.72,USD,5411,Grocery Stores,online,,Hai Phong,2.09,0,1,1,22,40.34,-38.72,0.613,0.0251,legit
+tx_00750,acct_050,13/9/2025 10:03,10.05,5,6.79,VND,5960,Direct Marketing,physical,Da Nang,,0.19,1,0,0,22,12.62,-46.21,0.538,0.0045,legit
+tx_00751,acct_149,26/9/2025 12:40,12.667,4,9.06,VND,7995,Betting/Gambling,online,,Hanoi,1.48,0,0,0,22,18.84,-51.92,0.481,0.0323,legit
+tx_00752,acct_016,26/9/2025 13:56,13.933,4,47.44,VND,5999,Misc Retail,physical,Hai Phong,,2.19,1,0,0,11,40.7,16.57,1.166,0.0091,legit
+tx_00753,acct_023,15/9/2025 16:17,16.283,0,165.9,USD,5977,Cosmetics Stores,online,,Can Tho,4.11,0,0,1,11,74.72,122.03,2.22,0.3022,legit
+tx_00754,acct_010,23/9/2025 01:18,1.3,1,100.85,USD,7011,Hotels,physical,Los Angeles,,2.41,1,0,1,11,23.08,336.95,4.37,0.9899,fraudulent
+tx_00755,acct_185,27/9/2025 14:35,14.583,5,68.6,USD,5813,"Bars, Taverns",physical,Los Angeles,,8.92,1,0,1,11,30.16,127.44,2.274,0.3622,fraudulent
+tx_00756,acct_044,20/9/2025 07:07,7.117,5,1.68,USD,4121,Taxicabs/Limousines,online,,Singapore,2.64,0,0,1,18,18.28,-90.81,0.092,0.017,legit
+tx_00757,acct_114,28/9/2025 06:22,6.367,6,13.02,USD,5977,Cosmetics Stores,physical,Bangkok,,1.9,1,0,1,14,13.89,-6.26,0.937,0.0271,legit
+tx_00758,acct_165,19/9/2025 08:17,8.283,4,367.85,USD,5732,Electronics Stores,physical,Tokyo,,5.3,1,0,1,13,45.76,703.92,8.039,1,fraudulent
+tx_00759,acct_122,28/9/2025 00:32,0.533,6,652.55,VND,5411,Grocery Stores,physical,Hai Phong,,0.55,1,0,0,7,120.53,441.39,5.414,0.9916,fraudulent
+tx_00760,acct_107,20/9/2025 05:16,5.267,5,24.9,USD,5999,Misc Retail,online,,Bangkok,3.37,0,0,1,17,30.63,-18.7,0.813,0.016,legit
+tx_00761,acct_161,21/9/2025 11:37,11.617,6,131.83,VND,7011,Hotels,physical,Hanoi,,1.57,1,1,0,12,37.42,252.34,3.523,0.9233,legit
+tx_00762,acct_097,25/9/2025 09:37,9.617,3,19.49,USD,5960,Direct Marketing,physical,Tokyo,,3.86,1,1,1,21,22.79,-14.49,0.855,0.0693,legit
+tx_00763,acct_124,9/9/2025 13:56,13.933,1,50.27,USD,4121,Taxicabs/Limousines,physical,Jakarta,,5.22,1,0,1,16,20.01,151.24,2.512,0.3032,fraudulent
+tx_00764,acct_099,1/9/2025 14:46,14.767,0,32.57,USD,5732,Electronics Stores,physical,Bangkok,,8.62,1,0,1,13,55.13,-40.93,0.591,0.0325,legit
+tx_00765,acct_007,22/9/2025 02:32,2.533,0,23.78,VND,5977,Cosmetics Stores,online,,Toronto,2.23,0,0,0,12,14.19,67.57,1.676,0.0285,legit
+tx_00766,acct_135,2/9/2025 21:45,21.75,1,164.9,USD,4121,Taxicabs/Limousines,physical,Bangkok,,13.43,1,0,1,17,45.09,265.71,3.657,0.8968,fraudulent
+tx_00767,acct_040,11/9/2025 22:32,22.533,3,67.05,USD,5812,"Eating Places, Restaurants",physical,Singapore,,5.53,1,0,1,18,32.43,106.73,2.067,0.1032,fraudulent
+tx_00768,acct_136,3/9/2025 10:29,10.483,2,28.81,VND,5960,Direct Marketing,online,,Bangkok,1.61,0,0,0,16,40.42,-28.73,0.713,0.0082,legit
+tx_00769,acct_147,31/8/2025 00:01,0.017,6,36.12,USD,5960,Direct Marketing,online,,Nha Trang,3.63,0,0,1,18,32.47,11.23,1.112,0.0365,legit
+tx_00770,acct_045,7/9/2025 10:55,10.917,6,9.64,USD,5999,Misc Retail,physical,Manila,,2.89,1,0,1,16,23.58,-59.11,0.409,0.0177,legit
+tx_00771,acct_151,5/9/2025 11:49,11.817,4,85.92,VND,5411,Grocery Stores,online,,Phnom Penh,1.6,0,0,0,12,44.81,91.74,1.917,0.0286,legit
+tx_00772,acct_126,23/9/2025 08:17,8.283,1,98.72,VND,7995,Betting/Gambling,physical,Ho Chi Minh City,,0.5,1,0,0,14,40.65,142.84,2.428,0.5639,fraudulent
+tx_00773,acct_023,7/9/2025 03:24,3.4,6,208.92,VND,5411,Grocery Stores,physical,Hanoi,,9.14,1,0,0,11,74.72,179.6,2.796,0.1594,legit
+tx_00774,acct_134,9/9/2025 00:28,0.467,1,86.61,USD,5311,Department Stores,physical,Phnom Penh,,3.44,1,0,1,13,35.59,143.33,2.433,0.2826,legit
+tx_00775,acct_033,22/9/2025 18:44,18.733,0,25.64,USD,4121,Taxicabs/Limousines,physical,Jakarta,,3.72,1,0,1,15,27.21,-5.75,0.942,0.0228,legit
+tx_00776,acct_015,22/9/2025 14:42,14.7,0,53.34,VND,5411,Grocery Stores,physical,Hai Phong,,2.13,1,0,0,20,27.64,92.97,1.93,0.0134,legit
+tx_00777,acct_198,28/9/2025 04:06,4.1,6,17.67,USD,5812,"Eating Places, Restaurants",physical,Manila,,6.15,1,0,1,13,25.37,-30.34,0.697,0.022,legit
+tx_00778,acct_018,26/9/2025 02:08,2.133,4,42.34,USD,4121,Taxicabs/Limousines,online,,Can Tho,2.05,0,0,1,19,61.47,-31.12,0.689,0.0154,legit
+tx_00779,acct_086,10/9/2025 20:58,20.967,2,225.79,VND,5732,Electronics Stores,physical,Nha Trang,,2526.26,1,0,0,7,70.82,218.82,3.188,0.9162,fraudulent
+tx_00780,acct_187,12/9/2025 13:13,13.217,4,60.1,USD,7011,Hotels,online,,Jakarta,1.44,0,0,1,14,25.55,135.27,2.353,0.365,legit
+tx_00781,acct_044,15/9/2025 05:20,5.333,0,30.41,USD,4829,Money Transfer,physical,Manila,,0.56,1,0,1,18,18.28,66.38,1.664,0.507,legit
+tx_00782,acct_057,27/9/2025 15:25,15.417,5,74.65,USD,4829,Money Transfer,online,,Kuala Lumpur,3.8,0,0,1,18,53.1,40.57,1.406,0.3808,fraudulent
+tx_00783,acct_187,16/9/2025 06:47,6.783,1,140.66,VND,4829,Money Transfer,physical,Hanoi,,2.46,1,0,0,14,25.55,450.62,5.506,0.9994,fraudulent
+tx_00784,acct_179,14/9/2025 12:06,12.1,6,14.64,VND,7011,Hotels,physical,Ho Chi Minh City,,1.65,1,0,0,14,34.07,-57.03,0.43,0.0085,legit
+tx_00785,acct_046,13/9/2025 21:54,21.9,5,87.62,USD,7995,Betting/Gambling,online,,Can Tho,5.32,0,1,1,18,17.51,400.48,5.005,0.9998,fraudulent
+tx_00786,acct_127,1/9/2025 05:43,5.717,0,142.47,USD,5814,Fast Food,online,,Manila,2.34,0,1,1,18,102.07,39.57,1.396,0.1046,legit
+tx_00787,acct_081,31/8/2025 15:48,15.8,6,60.58,VND,5814,Fast Food,online,,Jakarta,6.08,0,0,0,20,55.23,9.69,1.097,0.0035,legit
+tx_00788,acct_114,29/9/2025 02:46,2.767,0,18.28,VND,5411,Grocery Stores,physical,Da Nang,,8.68,1,0,0,14,13.89,31.61,1.316,0.0072,legit
+tx_00789,acct_089,23/9/2025 23:00,23,1,4.29,VND,5732,Electronics Stores,physical,Hanoi,,7.65,1,0,0,15,17.91,-76.05,0.24,0.0061,legit
+tx_00790,acct_012,15/9/2025 07:18,7.3,0,21.88,VND,5813,"Bars, Taverns",online,,Los Angeles,1.08,0,0,0,16,37.54,-41.71,0.583,0.0059,legit
+tx_00791,acct_126,20/9/2025 12:29,12.483,5,216.1,USD,5977,Cosmetics Stores,physical,New York,,6.56,1,0,1,14,40.65,431.58,5.316,0.9971,fraudulent
+tx_00792,acct_025,25/9/2025 10:12,10.2,3,56.77,USD,5960,Direct Marketing,online,,Nha Trang,13.75,0,0,1,16,83.33,-31.87,0.681,0.0359,legit
+tx_00793,acct_115,17/9/2025 22:20,22.333,2,8.91,USD,5812,"Eating Places, Restaurants",online,,Hanoi,1.9,0,0,1,19,14.23,-37.4,0.626,0.0121,legit
+tx_00794,acct_081,27/9/2025 22:32,22.533,5,438.71,USD,5732,Electronics Stores,physical,Jakarta,,1.47,1,1,1,20,55.23,694.37,7.944,1,fraudulent
+tx_00795,acct_043,25/9/2025 04:31,4.517,3,5.52,VND,5977,Cosmetics Stores,physical,Da Nang,,4.08,1,0,0,10,14.28,-61.35,0.387,0.0092,legit
+tx_00796,acct_140,20/9/2025 09:32,9.533,5,38.54,USD,7011,Hotels,online,,Toronto,4.01,0,0,1,18,48.78,-20.98,0.79,0.0251,legit
+tx_00797,acct_180,14/9/2025 03:33,3.55,6,109.68,VND,5411,Grocery Stores,online,,Los Angeles,4.46,0,0,0,19,54.68,100.6,2.006,0.0172,legit
+tx_00798,acct_040,5/9/2025 16:58,16.967,4,6.95,USD,5411,Grocery Stores,physical,Phnom Penh,,5.53,1,0,1,18,32.43,-78.57,0.214,0.0115,legit
+tx_00799,acct_104,5/9/2025 05:28,5.467,4,22.19,USD,4829,Money Transfer,online,,Singapore,4.87,0,0,1,15,49.86,-55.49,0.445,0.2695,fraudulent
+tx_00800,acct_169,31/8/2025 01:06,1.1,6,42.89,VND,5732,Electronics Stores,physical,Ho Chi Minh City,,0.11,1,1,0,12,24.72,73.48,1.735,0.1062,legit
+tx_00801,acct_100,18/9/2025 12:44,12.733,3,28.25,VND,7995,Betting/Gambling,online,,Ho Chi Minh City,0.57,0,0,0,14,51.85,-45.52,0.545,0.0692,legit
+tx_00802,acct_092,7/9/2025 07:56,7.933,6,43.38,USD,5411,Grocery Stores,physical,Toronto,,9.4,1,1,1,9,18.38,136.06,2.361,0.5907,fraudulent
+tx_00803,acct_051,13/9/2025 19:32,19.533,5,7.93,USD,5812,"Eating Places, Restaurants",physical,Kuala Lumpur,,1.05,1,0,1,14,36.99,-78.56,0.214,0.0199,legit
+tx_00804,acct_020,10/9/2025 17:29,17.483,2,91.27,USD,5311,Department Stores,physical,New York,,1.21,1,0,1,14,40.4,125.93,2.259,0.2009,fraudulent
+tx_00805,acct_120,19/9/2025 13:14,13.233,4,20.51,VND,5311,Department Stores,physical,Da Nang,,1.58,1,0,0,9,50.1,-59.06,0.409,0.0074,legit
+tx_00806,acct_164,20/9/2025 06:22,6.367,5,31.01,USD,7995,Betting/Gambling,physical,New York,,5.96,1,0,1,15,82.59,-62.45,0.375,0.2321,fraudulent
+tx_00807,acct_094,5/9/2025 04:49,4.817,4,85.6,USD,5814,Fast Food,physical,London,,3.12,1,0,1,15,85.76,-0.19,0.998,0.0211,legit
+tx_00808,acct_119,16/9/2025 08:45,8.75,1,2.87,VND,5732,Electronics Stores,online,,Hai Phong,7.69,0,0,0,26,20.16,-85.76,0.142,0.0022,legit
+tx_00809,acct_192,15/9/2025 02:12,2.2,0,14.68,USD,4829,Money Transfer,physical,Manila,,0.17,1,0,1,17,38.14,-61.51,0.385,0.2315,fraudulent
+tx_00810,acct_138,3/9/2025 23:51,23.85,2,144.54,USD,5813,"Bars, Taverns",online,,Tokyo,0.27,0,0,1,21,114.03,26.76,1.268,0.027,legit
+tx_00811,acct_015,22/9/2025 15:32,15.533,0,5.7,USD,5960,Direct Marketing,online,,Tokyo,2.96,0,0,1,20,27.64,-79.38,0.206,0.0242,legit
+tx_00812,acct_175,24/9/2025 23:32,23.533,2,9.09,USD,5960,Direct Marketing,physical,Bangkok,,0.94,1,0,1,16,46.64,-80.51,0.195,0.0356,legit
+tx_00813,acct_121,14/9/2025 11:28,11.467,6,89.33,VND,5732,Electronics Stores,physical,Ho Chi Minh City,,1.49,1,0,0,17,26.03,243.17,3.432,0.5901,fraudulent
+tx_00814,acct_128,12/9/2025 03:46,3.767,4,29.55,VND,7995,Betting/Gambling,physical,Hai Phong,,4.45,1,0,0,23,15,97.04,1.97,0.1741,legit
+tx_00815,acct_030,14/9/2025 04:43,4.717,6,138.76,VND,7011,Hotels,physical,Nha Trang,,3.03,1,1,0,20,57.35,141.94,2.419,0.2109,legit
+tx_00816,acct_054,14/9/2025 10:24,10.4,6,112.3,USD,5960,Direct Marketing,physical,Los Angeles,,0.72,1,0,1,16,39.48,184.43,2.844,0.5961,fraudulent
+tx_00817,acct_020,7/9/2025 03:06,3.1,6,6.54,VND,7011,Hotels,physical,Hai Phong,,826.93,1,0,0,14,40.4,-83.81,0.162,0.0139,legit
+tx_00818,acct_152,31/8/2025 05:37,5.617,6,17.52,VND,5732,Electronics Stores,online,,Da Nang,9.92,0,0,0,12,31.06,-43.59,0.564,0.0082,legit
+tx_00819,acct_099,28/9/2025 19:15,19.25,6,63.39,USD,7995,Betting/Gambling,physical,Singapore,,1.16,1,0,1,13,55.13,14.98,1.15,0.3319,fraudulent
+tx_00820,acct_133,8/9/2025 20:23,20.383,0,43.63,USD,5311,Department Stores,online,,Los Angeles,0.61,0,0,1,15,23.11,88.77,1.888,0.0976,legit
+tx_00821,acct_028,25/9/2025 05:12,5.2,3,432.07,VND,5813,"Bars, Taverns",physical,Can Tho,,2,1,0,0,13,80.38,437.55,5.375,0.9913,fraudulent
+tx_00822,acct_027,5/9/2025 00:16,0.267,4,5.31,USD,7995,Betting/Gambling,physical,Kuala Lumpur,,0.08,1,0,1,22,27.68,-80.81,0.192,0.1301,legit
+tx_00823,acct_137,24/9/2025 02:07,2.117,2,26.13,USD,5977,Cosmetics Stores,online,,New York,5.25,0,0,1,16,21.13,23.64,1.236,0.0354,fraudulent
+tx_00824,acct_167,21/9/2025 17:16,17.267,6,82.58,VND,5311,Department Stores,physical,Ho Chi Minh City,,3.61,1,0,0,10,104.13,-20.7,0.793,0.0067,legit
+tx_00825,acct_044,25/9/2025 13:33,13.55,3,22.56,USD,5732,Electronics Stores,physical,New York,,19.08,1,0,1,18,18.28,23.43,1.234,0.0317,legit
+tx_00826,acct_009,20/9/2025 04:53,4.883,5,73.08,USD,5813,"Bars, Taverns",online,,Ho Chi Minh City,1.7,0,0,1,14,35.39,106.47,2.065,0.2159,legit
+tx_00827,acct_190,9/9/2025 03:40,3.667,1,81.03,USD,5311,Department Stores,physical,Manila,,12.84,1,0,1,13,33.48,142,2.42,0.2784,legit
+tx_00828,acct_005,17/9/2025 05:13,5.217,2,11.04,USD,4121,Taxicabs/Limousines,online,,Singapore,7.6,0,0,1,17,10.51,5.07,1.051,0.0208,legit
+tx_00829,acct_125,28/9/2025 23:50,23.833,6,16.92,USD,5960,Direct Marketing,physical,Bangkok,,1.96,1,0,1,17,23.11,-26.79,0.732,0.0323,legit
+tx_00830,acct_034,3/9/2025 04:00,4,2,10.73,USD,5732,Electronics Stores,online,,Singapore,3.6,0,0,1,24,26.96,-60.2,0.398,0.011,legit
+tx_00831,acct_186,26/9/2025 08:02,8.033,4,114.67,USD,5813,"Bars, Taverns",physical,Phnom Penh,,2.67,1,0,1,18,24.72,363.96,4.64,0.9861,fraudulent
+tx_00832,acct_113,11/9/2025 12:09,12.15,3,31.97,USD,5999,Misc Retail,online,,Sydney,10.68,0,0,1,18,23.61,35.4,1.354,0.0292,legit
+tx_00833,acct_095,2/9/2025 16:00,16,1,32.6,VND,5960,Direct Marketing,physical,Nha Trang,,2.45,1,0,0,24,15.76,106.89,2.069,0.0304,legit
+tx_00834,acct_016,27/9/2025 08:14,8.233,5,38.39,VND,5732,Electronics Stores,physical,Hai Phong,,7.31,1,0,0,11,40.7,-5.67,0.943,0.0091,legit
+tx_00835,acct_199,15/9/2025 02:36,2.6,0,36.33,VND,5960,Direct Marketing,online,,Nha Trang,5.55,0,1,0,19,41.53,-12.52,0.875,0.0199,legit
+tx_00836,acct_049,2/9/2025 03:27,3.45,1,36.74,VND,5977,Cosmetics Stores,physical,Ho Chi Minh City,,5.33,1,0,0,20,27.3,34.6,1.346,0.0068,legit
+tx_00837,acct_063,25/9/2025 00:21,0.35,3,6.51,USD,5411,Grocery Stores,physical,Manila,,1.44,1,0,1,13,44.23,-85.28,0.147,0.0187,legit
+tx_00838,acct_180,1/9/2025 19:06,19.1,0,56.21,USD,5999,Misc Retail,physical,London,,9.43,1,0,1,19,54.68,2.81,1.028,0.014,legit
+tx_00839,acct_129,3/9/2025 22:36,22.6,2,30.16,VND,5813,"Bars, Taverns",online,,Bangkok,1.25,0,0,0,7,99.37,-69.65,0.304,0.0145,legit
+tx_00840,acct_095,5/9/2025 00:50,0.833,4,47.95,USD,5311,Department Stores,physical,Toronto,,2.77,1,0,1,24,15.76,204.3,3.043,0.4969,legit
+tx_00841,acct_150,16/9/2025 04:56,4.933,1,27.02,USD,7995,Betting/Gambling,physical,Singapore,,1.2,1,0,1,12,18.33,47.4,1.474,0.5122,fraudulent
+tx_00842,acct_191,12/9/2025 05:14,5.233,4,60.02,VND,5960,Direct Marketing,physical,Hanoi,,10.62,1,0,0,15,90.55,-33.71,0.663,0.0091,legit
+tx_00843,acct_098,14/9/2025 14:34,14.567,6,16.86,USD,5411,Grocery Stores,online,,Bangkok,0.98,0,0,1,17,23.25,-27.49,0.725,0.0126,legit
+tx_00844,acct_165,25/9/2025 12:56,12.933,3,21.49,USD,5999,Misc Retail,physical,Los Angeles,,6.19,1,0,1,13,45.76,-53.03,0.47,0.0237,fraudulent
+tx_00845,acct_131,5/9/2025 16:16,16.267,4,17.76,VND,5411,Grocery Stores,online,,Toronto,4.4,0,0,0,20,24.99,-28.93,0.711,0.0021,legit
+tx_00846,acct_033,24/9/2025 00:38,0.633,2,28.51,VND,4829,Money Transfer,physical,Hanoi,,4.65,1,0,0,15,27.21,4.8,1.048,0.0831,legit
+tx_00847,acct_057,1/9/2025 10:41,10.683,0,41.02,USD,5732,Electronics Stores,online,,Singapore,1.52,0,0,1,18,53.1,-22.76,0.772,0.0199,legit
+tx_00848,acct_108,27/9/2025 07:59,7.983,5,9.09,USD,5977,Cosmetics Stores,online,,Singapore,11,0,0,1,18,18.11,-49.8,0.502,0.0185,legit
+tx_00849,acct_055,3/9/2025 02:45,2.75,2,118.92,USD,5311,Department Stores,physical,New York,,1.24,1,0,1,18,21.57,451.27,5.513,0.996,fraudulent
+tx_00850,acct_149,17/9/2025 18:43,18.717,2,32.58,USD,5812,"Eating Places, Restaurants",physical,Manila,,1.45,1,0,1,22,18.84,72.91,1.729,0.0377,legit
+tx_00851,acct_143,18/9/2025 07:22,7.367,3,6.47,USD,4829,Money Transfer,physical,Kuala Lumpur,,4.57,1,0,1,22,11.53,-43.87,0.561,0.1548,fraudulent
+tx_00852,acct_175,14/9/2025 02:48,2.8,6,15.54,USD,5812,"Eating Places, Restaurants",physical,Singapore,,1.45,1,0,1,16,46.64,-66.68,0.333,0.0163,legit
+tx_00853,acct_163,22/9/2025 20:57,20.95,0,85.75,USD,4121,Taxicabs/Limousines,physical,Kuala Lumpur,,0.1,1,0,1,10,56.2,52.57,1.526,0.099,legit
+tx_00854,acct_048,24/9/2025 08:31,8.517,2,7.61,VND,5814,Fast Food,online,,New York,1.47,0,0,0,13,20.7,-63.23,0.368,0.0058,legit
+tx_00855,acct_169,1/9/2025 12:36,12.6,0,18.64,VND,4121,Taxicabs/Limousines,physical,Hanoi,,7.41,1,0,0,12,24.72,-24.6,0.754,0.007,legit
+tx_00856,acct_167,20/9/2025 04:13,4.217,5,508.28,USD,5311,Department Stores,physical,Los Angeles,,0.46,1,0,1,10,104.13,388.12,4.881,0.9937,fraudulent
+tx_00857,acct_103,25/9/2025 04:04,4.067,3,63.21,USD,5813,"Bars, Taverns",physical,Phnom Penh,,0.74,1,0,1,16,64.02,-1.27,0.987,0.0261,legit
+tx_00858,acct_087,6/9/2025 22:29,22.483,5,499.79,USD,4829,Money Transfer,physical,Tokyo,,2.68,1,1,1,16,21.66,2207.59,23.076,1,fraudulent
+tx_00859,acct_163,23/9/2025 14:16,14.267,1,88.16,USD,5960,Direct Marketing,online,,Sydney,5.32,0,0,1,10,56.2,56.86,1.569,0.1737,legit
+tx_00860,acct_076,12/9/2025 11:12,11.2,4,254.37,USD,5960,Direct Marketing,online,,Nha Trang,5.25,0,0,1,19,34.42,639.07,7.391,1,fraudulent
+tx_00861,acct_075,19/9/2025 09:24,9.4,4,25.56,USD,5812,"Eating Places, Restaurants",physical,Singapore,,14.37,1,0,1,20,12.58,103.13,2.031,0.081,legit
+tx_00862,acct_185,2/9/2025 10:40,10.667,1,48.82,VND,5960,Direct Marketing,online,,Jakarta,0.1,0,0,0,11,30.16,61.86,1.619,0.0447,legit
+tx_00863,acct_167,16/9/2025 20:52,20.867,1,77.27,USD,5812,"Eating Places, Restaurants",physical,Kuala Lumpur,,0.15,1,0,1,10,104.13,-25.8,0.742,0.0293,legit
+tx_00864,acct_107,23/9/2025 14:34,14.567,1,106.52,USD,5960,Direct Marketing,physical,Singapore,,9.87,1,1,1,17,30.63,247.79,3.478,0.9724,fraudulent
+tx_00865,acct_149,16/9/2025 23:47,23.783,1,20.28,USD,5732,Electronics Stores,online,,Ho Chi Minh City,12.45,0,0,1,22,18.84,7.63,1.076,0.0157,fraudulent
+tx_00866,acct_162,2/9/2025 06:26,6.433,1,29.8,VND,7995,Betting/Gambling,online,,Toronto,4.4,0,1,0,20,91.13,-67.3,0.327,0.1195,legit
+tx_00867,acct_049,5/9/2025 02:11,2.183,4,17.17,USD,7995,Betting/Gambling,online,,Sydney,1.86,0,0,1,20,27.3,-37.1,0.629,0.1546,legit
+tx_00868,acct_076,31/8/2025 05:10,5.167,6,71.8,VND,5813,"Bars, Taverns",online,,Hai Phong,0.39,0,0,0,19,34.42,108.61,2.086,0.0374,legit
+tx_00869,acct_051,5/9/2025 22:15,22.25,4,7.67,USD,4121,Taxicabs/Limousines,online,,Hai Phong,5.08,0,0,1,14,36.99,-79.27,0.207,0.0252,legit
+tx_00870,acct_080,7/9/2025 08:12,8.2,6,22.54,VND,5960,Direct Marketing,physical,Da Nang,,3.61,1,0,0,15,22.26,1.24,1.012,0.0093,legit
+tx_00871,acct_124,14/9/2025 05:57,5.95,6,9.74,USD,4121,Taxicabs/Limousines,online,,Ho Chi Minh City,0.86,0,0,1,16,20.01,-51.32,0.487,0.0206,legit
+tx_00872,acct_001,25/9/2025 10:10,10.167,3,49.41,VND,5311,Department Stores,physical,Nha Trang,,4.7,1,0,0,11,30.48,62.11,1.621,0.0207,legit
+tx_00873,acct_147,18/9/2025 02:43,2.717,3,13.83,VND,5960,Direct Marketing,physical,Da Nang,,9.96,1,0,0,18,32.47,-57.41,0.426,0.0067,legit
+tx_00874,acct_033,5/9/2025 17:41,17.683,4,57.84,USD,7995,Betting/Gambling,physical,New York,,0.03,1,0,1,15,27.21,112.61,2.126,0.7412,fraudulent
+tx_00875,acct_109,9/9/2025 21:36,21.6,1,10.3,VND,7011,Hotels,physical,Ho Chi Minh City,,1.54,1,0,0,10,15.98,-35.55,0.644,0.0126,fraudulent
+tx_00876,acct_136,12/9/2025 17:36,17.6,4,21.84,VND,5999,Misc Retail,physical,Hanoi,,0.62,1,0,0,16,40.42,-45.97,0.54,0.004,legit
+tx_00877,acct_082,16/9/2025 16:01,16.017,1,19.02,VND,5960,Direct Marketing,physical,Hanoi,,5.16,1,0,0,11,16.12,18.02,1.18,0.0191,legit
+tx_00878,acct_173,10/9/2025 10:43,10.717,2,32.11,USD,5411,Grocery Stores,online,,Manila,8.52,0,0,1,17,18.42,74.32,1.743,0.0537,legit
+tx_00879,acct_079,19/9/2025 10:10,10.167,4,20.33,USD,5814,Fast Food,physical,Kuala Lumpur,,0.9,1,0,1,16,22.4,-9.24,0.908,0.0191,legit
+tx_00880,acct_042,2/9/2025 03:52,3.867,1,20.91,USD,5812,"Eating Places, Restaurants",physical,Kuala Lumpur,,1.79,1,0,1,18,76.84,-72.79,0.272,0.0134,legit
+tx_00881,acct_116,21/9/2025 03:41,3.683,6,164.78,USD,4829,Money Transfer,physical,Jakarta,,1.46,1,0,1,10,55.4,197.43,2.974,0.9692,fraudulent
+tx_00882,acct_111,10/9/2025 01:07,1.117,2,27,USD,5977,Cosmetics Stores,online,,Toronto,2.41,0,0,1,14,22.06,22.4,1.224,0.0419,legit
+tx_00883,acct_091,16/9/2025 23:30,23.5,1,6.47,USD,5960,Direct Marketing,physical,New York,,8.96,1,0,1,16,35.82,-81.94,0.181,0.0358,legit
+tx_00884,acct_004,3/9/2025 23:54,23.9,2,30.04,VND,5999,Misc Retail,online,,Phnom Penh,0.15,0,0,0,15,38.29,-21.55,0.785,0.0044,legit
+tx_00885,acct_187,13/9/2025 18:43,18.717,5,6,VND,5411,Grocery Stores,physical,Can Tho,,1.89,1,0,0,14,25.55,-76.51,0.235,0.0038,legit
+tx_00886,acct_093,23/9/2025 01:04,1.067,1,129.4,USD,4829,Money Transfer,online,,Singapore,2.49,0,0,1,24,43.7,196.14,2.961,0.8833,fraudulent
+tx_00887,acct_197,14/9/2025 22:29,22.483,6,41.57,VND,7995,Betting/Gambling,physical,Ho Chi Minh City,,6.97,1,0,0,11,24.86,67.19,1.672,0.2785,legit
+tx_00888,acct_169,7/9/2025 02:01,2.017,6,14.94,VND,5812,"Eating Places, Restaurants",online,,Can Tho,3.17,0,0,0,12,24.72,-39.57,0.604,0.0055,legit
+tx_00889,acct_106,25/9/2025 12:53,12.883,3,15.3,USD,5311,Department Stores,physical,Singapore,,4.74,1,0,1,25,40.23,-61.96,0.38,0.0067,legit
+tx_00890,acct_121,8/9/2025 12:13,12.217,0,78.63,VND,4829,Money Transfer,physical,Hanoi,,7.85,1,0,0,17,26.03,202.07,3.021,0.8953,fraudulent
+tx_00891,acct_077,21/9/2025 04:57,4.95,6,3.34,USD,5813,"Bars, Taverns",physical,Sydney,,6.32,1,0,1,17,17.35,-80.74,0.193,0.0237,legit
+tx_00892,acct_069,15/9/2025 22:44,22.733,0,414.54,USD,7995,Betting/Gambling,online,,Can Tho,11.27,0,0,1,16,62.32,565.18,6.652,1,fraudulent
+tx_00893,acct_130,11/9/2025 08:12,8.2,3,46.47,VND,4829,Money Transfer,physical,Can Tho,,6.85,1,0,0,17,67.2,-30.85,0.692,0.0632,legit
+tx_00894,acct_027,9/9/2025 22:50,22.833,1,8.97,USD,5311,Department Stores,physical,Singapore,,16.3,1,0,1,22,27.68,-67.59,0.324,0.0091,legit
+tx_00895,acct_133,19/9/2025 01:06,1.1,4,16.72,USD,7011,Hotels,physical,Los Angeles,,3.92,1,0,1,15,23.11,-27.66,0.723,0.0336,legit
+tx_00896,acct_075,24/9/2025 21:15,21.25,2,5.33,USD,5814,Fast Food,physical,Phnom Penh,,11.98,1,0,1,20,12.58,-57.64,0.424,0.013,legit
+tx_00897,acct_176,31/8/2025 11:13,11.217,6,181.3,VND,5977,Cosmetics Stores,physical,Hanoi,,1.58,1,0,0,13,38.7,368.48,4.685,0.9605,fraudulent
+tx_00898,acct_003,29/9/2025 01:55,1.917,0,100.32,USD,4829,Money Transfer,online,,Hai Phong,2264.89,0,0,1,12,52.48,91.15,1.912,0.9229,fraudulent
+tx_00899,acct_023,9/9/2025 02:35,2.583,1,42.99,VND,5960,Direct Marketing,physical,Can Tho,,0,1,0,0,11,74.72,-42.46,0.575,0.0134,legit
+tx_00900,acct_065,28/9/2025 16:29,16.483,6,70.25,USD,4829,Money Transfer,physical,Kuala Lumpur,,16.08,1,0,1,23,55.36,26.9,1.269,0.2223,legit
+tx_00901,acct_067,11/9/2025 15:07,15.117,3,25.64,VND,5311,Department Stores,physical,Nha Trang,,3.48,1,0,0,21,36.32,-29.4,0.706,0.0022,legit
+tx_00902,acct_010,1/9/2025 21:53,21.883,0,52.88,USD,5960,Direct Marketing,physical,Jakarta,,9.37,1,0,1,11,23.08,129.11,2.291,0.4472,legit
+tx_00903,acct_109,13/9/2025 20:33,20.55,5,36.45,VND,4829,Money Transfer,physical,Ho Chi Minh City,,2.58,1,0,0,10,15.98,128.06,2.281,0.6371,fraudulent
+tx_00904,acct_002,25/9/2025 11:59,11.983,3,80.34,VND,5960,Direct Marketing,physical,Nha Trang,,0.53,1,0,0,20,85.42,-5.94,0.941,0.0055,legit
+tx_00905,acct_084,8/9/2025 12:45,12.75,0,16.21,USD,4121,Taxicabs/Limousines,physical,Singapore,,12.32,1,0,1,17,15.54,4.31,1.043,0.0205,legit
+tx_00906,acct_187,20/9/2025 19:49,19.817,5,66.99,VND,5812,"Eating Places, Restaurants",online,,Can Tho,1.98,0,0,0,14,25.55,162.24,2.622,0.104,legit
+tx_00907,acct_102,25/9/2025 18:11,18.183,3,15.39,USD,5813,"Bars, Taverns",physical,New York,,5.02,1,1,1,19,29.06,-47.04,0.53,0.062,legit
+tx_00908,acct_176,21/9/2025 13:29,13.483,6,259.58,VND,5960,Direct Marketing,online,,Can Tho,2.4,0,0,0,13,38.7,570.75,6.708,0.9996,fraudulent
+tx_00909,acct_033,13/9/2025 20:40,20.667,5,36.25,VND,4829,Money Transfer,physical,Nha Trang,,14.32,1,0,0,15,27.21,33.25,1.332,0.1387,legit
+tx_00910,acct_026,10/9/2025 23:00,23,2,507.36,USD,5813,"Bars, Taverns",physical,London,,3.86,1,0,1,14,34.89,1354.13,14.541,1,fraudulent
+tx_00911,acct_046,3/9/2025 00:17,0.283,2,35.52,VND,7995,Betting/Gambling,online,,Hai Phong,1.54,0,0,0,18,17.51,102.89,2.029,0.2806,legit
+tx_00912,acct_123,7/9/2025 12:48,12.8,6,14.59,USD,5977,Cosmetics Stores,physical,Los Angeles,,1.54,1,0,1,15,20.9,-30.18,0.698,0.0246,legit
+tx_00913,acct_112,13/9/2025 07:59,7.983,5,17.37,USD,5411,Grocery Stores,physical,Jakarta,,5.23,1,0,1,17,42.43,-59.06,0.409,0.0127,legit
+tx_00914,acct_003,11/9/2025 04:49,4.817,3,53.99,USD,4829,Money Transfer,physical,Bangkok,,2.06,1,0,1,12,52.48,2.87,1.029,0.345,legit
+tx_00915,acct_171,8/9/2025 05:37,5.617,0,38.37,VND,5960,Direct Marketing,physical,Can Tho,,18.65,1,0,0,20,20.11,90.76,1.908,0.0331,legit
+tx_00916,acct_110,13/9/2025 00:05,0.083,5,49.95,USD,4829,Money Transfer,physical,Manila,,9.7,1,0,1,15,34.66,44.13,1.441,0.4721,fraudulent
+tx_00917,acct_169,26/9/2025 22:53,22.883,4,57.89,USD,4829,Money Transfer,physical,Tokyo,,9.63,1,0,1,12,24.72,134.16,2.342,0.8796,fraudulent
+tx_00918,acct_156,23/9/2025 23:57,23.95,1,48.46,VND,5411,Grocery Stores,physical,Nha Trang,,4.35,1,0,0,17,28.08,72.59,1.726,0.0121,legit
+tx_00919,acct_129,3/9/2025 19:54,19.9,2,171.5,VND,5960,Direct Marketing,online,,Da Nang,2.63,0,0,0,7,99.37,72.58,1.726,0.0797,fraudulent
+tx_00920,acct_192,20/9/2025 12:15,12.25,5,30.54,USD,5311,Department Stores,physical,Singapore,,3.98,1,0,1,17,38.14,-19.94,0.801,0.0148,legit
+tx_00921,acct_012,7/9/2025 22:28,22.467,6,8.3,USD,7995,Betting/Gambling,physical,New York,,3.09,1,1,1,16,37.54,-77.89,0.221,0.4755,legit
+tx_00922,acct_103,20/9/2025 17:33,17.55,5,18.05,USD,5960,Direct Marketing,physical,London,,3.83,1,0,1,16,64.02,-71.81,0.282,0.0357,legit
+tx_00923,acct_146,9/9/2025 05:40,5.667,1,27.38,USD,5311,Department Stores,online,,Jakarta,0.37,0,0,1,16,41.7,-34.34,0.657,0.0163,legit
+tx_00924,acct_030,13/9/2025 15:40,15.667,5,97.13,VND,7011,Hotels,online,,Can Tho,7.51,0,0,0,20,57.35,69.35,1.694,0.0186,legit
+tx_00925,acct_103,4/9/2025 10:23,10.383,3,58.16,VND,5813,"Bars, Taverns",physical,Hanoi,,1.72,1,0,0,16,64.02,-9.16,0.908,0.0059,legit
+tx_00926,acct_023,23/9/2025 04:45,4.75,1,60.35,USD,5960,Direct Marketing,online,,Sydney,2.39,0,1,1,11,74.72,-19.23,0.808,0.1682,legit
+tx_00927,acct_143,8/9/2025 07:20,7.333,0,8.9,USD,5999,Misc Retail,physical,Jakarta,,4.92,1,0,1,22,11.53,-22.79,0.772,0.0098,legit
+tx_00928,acct_093,22/9/2025 00:28,0.467,0,142.58,USD,5960,Direct Marketing,online,,Jakarta,0.1,0,0,1,24,43.7,226.3,3.263,0.7731,legit
+tx_00929,acct_143,31/8/2025 12:30,12.5,6,4.61,USD,5960,Direct Marketing,physical,Manila,,2.23,1,0,1,22,11.53,-60.01,0.4,0.0199,legit
+tx_00930,acct_183,22/9/2025 23:05,23.083,0,109.61,USD,5311,Department Stores,physical,Bangkok,,0.56,1,0,1,24,29.32,273.88,3.739,0.7986,fraudulent
+tx_00931,acct_000,5/9/2025 01:39,1.65,4,79.88,USD,4121,Taxicabs/Limousines,online,,Tokyo,1.03,0,0,1,19,44.61,79.05,1.791,0.0705,legit
+tx_00932,acct_133,28/9/2025 11:11,11.183,6,16.5,VND,4121,Taxicabs/Limousines,physical,Nha Trang,,2.79,1,0,0,15,23.11,-28.61,0.714,0.0052,legit
+tx_00933,acct_126,7/9/2025 10:45,10.75,6,2.3,USD,5814,Fast Food,online,,Can Tho,3.12,0,0,1,14,40.65,-94.34,0.057,0.0232,legit
+tx_00934,acct_065,24/9/2025 17:57,17.95,2,129.44,USD,7995,Betting/Gambling,physical,New York,,1.05,1,0,1,23,55.36,133.82,2.338,0.6631,fraudulent
+tx_00935,acct_055,17/9/2025 21:52,21.867,2,170.96,USD,5311,Department Stores,online,,Can Tho,5.57,0,0,1,18,21.57,692.51,7.925,1,fraudulent
+tx_00936,acct_193,26/9/2025 06:16,6.267,4,45.33,VND,5813,"Bars, Taverns",online,,London,9.31,0,0,0,11,52.59,-13.8,0.862,0.0098,legit
+tx_00937,acct_117,6/9/2025 19:57,19.95,5,52.82,VND,4829,Money Transfer,online,,Toronto,2.12,0,0,0,8,30.09,75.57,1.756,0.4286,fraudulent
+tx_00938,acct_001,26/9/2025 18:08,18.133,4,110.02,USD,7995,Betting/Gambling,physical,Los Angeles,,8.76,1,0,1,11,30.48,260.97,3.61,0.9946,fraudulent
+tx_00939,acct_149,11/9/2025 16:24,16.4,3,64.85,VND,5311,Department Stores,physical,Nha Trang,,3.82,1,0,0,22,18.84,244.18,3.442,0.3742,legit
+tx_00940,acct_177,2/9/2025 20:43,20.717,1,17.85,VND,7995,Betting/Gambling,online,,Can Tho,2.06,0,0,0,11,19.25,-7.26,0.927,0.0912,fraudulent
+tx_00941,acct_099,23/9/2025 04:38,4.633,1,34.99,USD,4829,Money Transfer,physical,Jakarta,,0.72,1,0,1,13,55.13,-36.54,0.635,0.3101,fraudulent
+tx_00942,acct_129,17/9/2025 12:55,12.917,2,141.11,USD,5977,Cosmetics Stores,physical,Bangkok,,2.53,1,0,1,7,99.37,42,1.42,0.1152,legit
+tx_00943,acct_070,19/9/2025 13:43,13.717,4,28.03,USD,5813,"Bars, Taverns",physical,Kuala Lumpur,,7.4,1,1,1,18,46.64,-39.91,0.601,0.0681,legit
+tx_00944,acct_115,6/9/2025 01:43,1.717,5,33.94,USD,5960,Direct Marketing,physical,Sydney,,1.41,1,0,1,19,14.23,138.47,2.385,0.3037,legit
+tx_00945,acct_076,3/9/2025 14:09,14.15,2,91.74,USD,5960,Direct Marketing,physical,Jakarta,,1.06,1,0,1,19,34.42,166.55,2.665,0.4333,fraudulent
+tx_00946,acct_182,7/9/2025 11:25,11.417,6,18.01,USD,4829,Money Transfer,physical,Phnom Penh,,5.94,1,0,1,11,46.82,-61.53,0.385,0.3552,fraudulent
+tx_00947,acct_051,23/9/2025 05:16,5.267,1,27.39,USD,5999,Misc Retail,online,,Hai Phong,0.11,0,0,1,14,36.99,-25.96,0.74,0.0215,legit
+tx_00948,acct_181,25/9/2025 18:06,18.1,3,159.96,USD,4829,Money Transfer,online,,Tokyo,1.12,0,0,1,16,16.81,851.38,9.514,1,fraudulent
+tx_00949,acct_177,22/9/2025 20:01,20.017,0,85.85,USD,4829,Money Transfer,online,,Tokyo,1.09,0,0,1,11,19.25,346.02,4.46,0.9992,fraudulent
+tx_00950,acct_122,22/9/2025 04:41,4.683,0,289.73,USD,7995,Betting/Gambling,online,,Tokyo,3.04,0,0,1,7,120.53,140.38,2.404,0.9175,fraudulent
+tx_00951,acct_073,17/9/2025 13:26,13.433,2,56.04,VND,5977,Cosmetics Stores,physical,Hanoi,,3.54,1,0,0,16,28.73,95.06,1.951,0.033,fraudulent
+tx_00952,acct_133,19/9/2025 21:22,21.367,4,9.83,VND,5812,"Eating Places, Restaurants",physical,Ho Chi Minh City,,2.42,1,0,0,15,23.11,-57.47,0.425,0.0041,legit
+tx_00953,acct_171,17/9/2025 11:01,11.017,2,8.14,VND,5411,Grocery Stores,physical,Nha Trang,,1.31,1,0,0,20,20.11,-59.53,0.405,0.0021,legit
+tx_00954,acct_073,6/9/2025 10:58,10.967,5,11.77,VND,4829,Money Transfer,physical,Ho Chi Minh City,,0.01,1,0,0,16,28.73,-59.03,0.41,0.0691,legit
+tx_00955,acct_176,4/9/2025 01:36,1.6,3,25.68,USD,5960,Direct Marketing,physical,Tokyo,,3.45,1,0,1,13,38.7,-33.64,0.664,0.0475,legit
+tx_00956,acct_008,7/9/2025 18:44,18.733,6,13.98,USD,4121,Taxicabs/Limousines,physical,Tokyo,,16.93,1,0,1,17,23.89,-41.48,0.585,0.0189,legit
+tx_00957,acct_057,26/9/2025 04:25,4.417,4,78.83,USD,4829,Money Transfer,physical,Bangkok,,7.64,1,0,1,18,53.1,48.44,1.484,0.4191,fraudulent
+tx_00958,acct_130,20/9/2025 03:10,3.167,5,101.78,USD,5960,Direct Marketing,online,,Ho Chi Minh City,1.54,0,0,1,17,67.2,51.46,1.515,0.0855,legit
+tx_00959,acct_097,28/9/2025 02:17,2.283,6,51.16,USD,5813,"Bars, Taverns",online,,Tokyo,3.38,0,0,1,21,22.79,124.47,2.245,0.164,legit
+tx_00960,acct_013,21/9/2025 20:13,20.217,6,8.98,USD,5411,Grocery Stores,physical,London,,5.03,1,0,1,10,10.22,-12.12,0.879,0.0252,legit
+tx_00961,acct_057,6/9/2025 19:07,19.117,5,73.03,USD,5977,Cosmetics Stores,online,,Tokyo,7.9,0,0,1,18,53.1,37.52,1.375,0.0382,legit
+tx_00962,acct_189,17/9/2025 12:29,12.483,2,37.65,USD,7995,Betting/Gambling,online,,Kuala Lumpur,3.91,0,0,1,15,25.92,45.23,1.452,0.4273,fraudulent
+tx_00963,acct_114,15/9/2025 00:42,0.7,0,17.3,VND,5814,Fast Food,physical,Nha Trang,,0.08,1,0,0,14,13.89,24.55,1.246,0.0086,legit
+tx_00964,acct_044,1/9/2025 16:32,16.533,0,21.85,VND,4829,Money Transfer,physical,Ho Chi Minh City,,0.7,1,0,0,18,18.28,19.55,1.195,0.0825,legit
+tx_00965,acct_109,10/9/2025 08:37,8.617,2,29.13,VND,5732,Electronics Stores,physical,Nha Trang,,8.81,1,0,0,10,15.98,82.26,1.823,0.0498,legit
+tx_00966,acct_149,8/9/2025 14:31,14.517,0,63.94,USD,5960,Direct Marketing,physical,London,,6.96,1,0,1,22,18.84,239.35,3.394,0.8444,fraudulent
+tx_00967,acct_181,5/9/2025 21:02,21.033,4,5.05,USD,5977,Cosmetics Stores,physical,Jakarta,,5.41,1,0,1,16,16.81,-69.96,0.3,0.0224,legit
+tx_00968,acct_152,31/8/2025 03:20,3.333,6,67.11,USD,5411,Grocery Stores,online,,Toronto,8.33,0,0,1,12,31.06,116.1,2.161,0.1775,legit
+tx_00969,acct_146,8/9/2025 16:25,16.417,0,18.8,USD,7995,Betting/Gambling,physical,Jakarta,,2.29,1,0,1,16,41.7,-54.91,0.451,0.2144,legit
+tx_00970,acct_134,31/8/2025 20:34,20.567,6,17.44,VND,5999,Misc Retail,physical,Da Nang,,4.11,1,0,0,13,35.59,-51,0.49,0.0054,legit
+tx_00971,acct_129,13/9/2025 12:13,12.217,5,97.14,USD,5814,Fast Food,physical,New York,,0.03,1,0,1,7,99.37,-2.25,0.978,0.0457,legit
+tx_00972,acct_023,24/9/2025 13:53,13.883,2,113.74,USD,4121,Taxicabs/Limousines,online,,Jakarta,0.47,0,0,1,11,74.72,52.22,1.522,0.0899,legit
+tx_00973,acct_092,13/9/2025 00:48,0.8,5,5.89,USD,5732,Electronics Stores,online,,Toronto,13.76,0,0,1,9,18.38,-67.95,0.321,0.0478,legit
+tx_00974,acct_143,5/9/2025 19:28,19.467,4,30.16,VND,5960,Direct Marketing,online,,Can Tho,0.53,0,0,0,22,11.53,161.63,2.616,0.1027,legit
+tx_00975,acct_171,28/9/2025 20:06,20.1,6,48.8,USD,4121,Taxicabs/Limousines,physical,Bangkok,,4.09,1,0,1,20,20.11,142.61,2.426,0.197,legit
+tx_00976,acct_010,29/9/2025 22:43,22.717,0,9.79,VND,4829,Money Transfer,physical,Can Tho,,13.94,1,0,0,11,23.08,-57.58,0.424,0.1099,fraudulent
+tx_00977,acct_098,16/9/2025 19:00,19,1,174.64,VND,5732,Electronics Stores,online,,Sydney,4.76,0,0,0,17,23.25,651.08,7.511,0.9998,fraudulent
+tx_00978,acct_197,30/8/2025 06:23,6.383,5,21.22,USD,4121,Taxicabs/Limousines,online,,Toronto,0.02,0,0,1,11,24.86,-14.65,0.853,0.0336,legit
+tx_00979,acct_011,8/9/2025 21:42,21.7,0,152.39,USD,5732,Electronics Stores,physical,Jakarta,,3374.7,1,0,1,13,100.62,51.45,1.514,0.4143,fraudulent
+tx_00980,acct_131,19/9/2025 21:45,21.75,4,165.09,USD,5812,"Eating Places, Restaurants",physical,Tokyo,,2.45,1,0,1,20,24.99,560.61,6.606,0.9995,fraudulent
+tx_00981,acct_136,7/9/2025 02:02,2.033,6,47.32,USD,5411,Grocery Stores,physical,Phnom Penh,,4.43,1,0,1,16,40.42,17.06,1.171,0.0195,legit
+tx_00982,acct_175,14/9/2025 18:36,18.6,6,28.21,USD,5813,"Bars, Taverns",physical,Tokyo,,0.34,1,0,1,16,46.64,-39.51,0.605,0.0261,legit
+tx_00983,acct_179,16/9/2025 14:52,14.867,1,50.22,USD,5977,Cosmetics Stores,online,,Da Nang,15.04,0,0,1,14,34.07,47.4,1.474,0.0677,legit
+tx_00984,acct_191,19/9/2025 19:37,19.617,4,31.25,USD,4829,Money Transfer,physical,Jakarta,,0.17,1,0,1,15,90.55,-65.49,0.345,0.269,fraudulent
+tx_00985,acct_009,15/9/2025 04:00,4,0,14.63,USD,5812,"Eating Places, Restaurants",physical,Singapore,,11.39,1,0,1,14,35.39,-58.67,0.413,0.02,legit
+tx_00986,acct_142,18/9/2025 13:47,13.783,3,172.83,USD,5812,"Eating Places, Restaurants",online,,Los Angeles,0.16,0,0,1,15,62.49,176.56,2.766,0.3849,legit
+tx_00987,acct_099,2/9/2025 18:34,18.567,1,52.65,USD,5311,Department Stores,physical,Jakarta,,236.89,1,0,1,13,55.13,-4.5,0.955,0.0251,legit
+tx_00988,acct_004,22/9/2025 03:20,3.333,0,51.5,VND,5813,"Bars, Taverns",physical,Hanoi,,4932.96,1,0,0,15,38.29,34.5,1.345,0.2026,legit
+tx_00989,acct_164,9/9/2025 23:09,23.15,1,166.79,VND,4829,Money Transfer,physical,Ho Chi Minh City,,4.14,1,0,0,15,82.59,101.95,2.02,0.3873,fraudulent
+tx_00990,acct_179,22/9/2025 18:53,18.883,0,29.97,USD,5960,Direct Marketing,physical,Sydney,,11.7,1,0,1,14,34.07,-12.04,0.88,0.0434,legit
+tx_00991,acct_027,15/9/2025 21:33,21.55,0,97.54,VND,5732,Electronics Stores,physical,Da Nang,,1.49,1,0,0,22,27.68,252.42,3.524,0.5123,fraudulent
+tx_00992,acct_072,24/9/2025 23:56,23.933,2,52.53,USD,5960,Direct Marketing,physical,New York,,13.77,1,0,1,17,20.83,152.21,2.522,0.414,fraudulent
+tx_00993,acct_169,31/8/2025 08:28,8.467,6,25.93,USD,5411,Grocery Stores,physical,Bangkok,,0.29,1,0,1,12,24.72,4.88,1.049,0.0227,legit
+tx_00994,acct_034,9/9/2025 22:50,22.833,1,15.85,USD,4829,Money Transfer,online,,Kuala Lumpur,7.08,0,0,1,24,26.96,-41.21,0.588,0.1306,fraudulent
+tx_00995,acct_162,18/9/2025 01:59,1.983,3,402.05,USD,5814,Fast Food,physical,Manila,,4.45,1,0,1,20,91.13,341.18,4.412,0.964,fraudulent
+tx_00996,acct_002,31/8/2025 07:15,7.25,6,35.52,VND,7995,Betting/Gambling,physical,Can Tho,,1.51,1,0,0,20,85.42,-58.42,0.416,0.0392,legit
+tx_00997,acct_010,22/9/2025 04:08,4.133,0,46.16,USD,5411,Grocery Stores,physical,Tokyo,,0.49,1,0,1,11,23.08,100,2,0.1468,legit
+tx_00998,acct_140,26/9/2025 13:01,13.017,4,66.67,USD,7011,Hotels,physical,Manila,,0.38,1,0,1,18,48.78,36.69,1.367,0.0509,legit
+tx_00999,acct_054,11/9/2025 09:05,9.083,3,68.26,USD,5813,"Bars, Taverns",physical,Sydney,,4.89,1,1,1,16,39.48,72.89,1.729,0.277,fraudulent
